@@ -1,3 +1,5 @@
 Contatos:
-<i class="devicon-linkedin-plain-wordmark colored"></i>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
           
+    
