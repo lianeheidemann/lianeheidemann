@@ -6,7 +6,7 @@ Estagiária em Suporte de TI • Explorando diferentes áreas da Tecnologia
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=1F6FEB&center=true&vCenter=true&width=700&lines=Ciência+da+Computação;Suporte+de+TI;Resolução+de+Problemas;Desenvolvimento+de+Software;Aprendizado+Contínuo">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=1F6FEB&center=true&vCenter=true&width=700&lines=Ciência+da+Computação;Resolução+de+Problemas;Desenvolvimento+de+Software;Aprendizado+Contínuo">
 </p>
 
 ---
