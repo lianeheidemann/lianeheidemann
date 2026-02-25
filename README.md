@@ -69,9 +69,10 @@ Python • JavaScript • HTML • CSS • C • C++ • Java • SQL
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lianeheidemann&show_icons=true&theme=tokyonight"/>
-<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lianeheidemann&layout=compact&theme=tokyonight"/>
+<img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lianeheidemann&show_icons=true&theme=tokyonight"/>
+<img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lianeheidemann&layout=compact&theme=tokyonight"/>
 </p>
+
 
 ---
 
