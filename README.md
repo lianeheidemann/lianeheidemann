@@ -15,5 +15,6 @@
 
 <div>
   
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lianeheidemann&layout=compact&theme=dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lianeheidemann&theme=github_dark"/>
+
 </div>
