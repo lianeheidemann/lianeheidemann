@@ -1,77 +1,67 @@
-<h1 align="left">Liane F. Heidemann</h1>
+<h1 align="center">Liane F. Heidemann 👩🏻‍💻</h1>
 
-<p align="left">
-Graduanda em Ciência da Computação • Estagiária em Suporte de TI<br>
-Interesse em desenvolvimento de software, sistemas e infraestrutura.
+<p align="center">
+Estudante de Ciência da Computação • Estagiária em Suporte de TI
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=4C71F2&center=true&vCenter=true&width=600&lines=Ciência+da+Computação;Suporte+de+TI;Foco+em+Desenvolvimento;Construindo+Soluções+Tecnológicas">
 </p>
 
 ---
 
-<h2 align="left">Sobre</h2>
+## 🧠 Sobre mim
 
-<p align="left">
-Atualmente cursando Ciência da Computação no CESUPA, com experiência prática em suporte técnico e resolução de problemas. 
-Busco evolução contínua na área de tecnologia, com foco em desenvolvimento e construção de soluções eficientes.
-</p>
-
----
-
-<h2 align="left">Formação</h2>
-
-<p align="left">
-<strong>Ciência da Computação</strong><br>
-Centro Universitário do Estado do Pará (2022 – 2025)
-</p>
-
-<p align="left">
-<strong>Intercâmbio – Estados Unidos</strong><br>
-Programa Ciência sem Fronteiras (2013 – 2014)
-</p>
+🎓 Graduanda em Ciência da Computação (CESUPA)  
+🖥️ Experiência prática com suporte técnico e resolução de problemas  
+🌎 Intercâmbio nos Estados Unidos (Ciência sem Fronteiras)  
+📚 Interesse em desenvolvimento de software e infraestrutura  
 
 ---
 
-<h2 align="left">Experiência</h2>
+## 🚀 Tecnologias
 
-<p align="left">
-<strong>Estágio – Suporte de TI</strong><br>
-Jul/2025 – Atual<br>
-• Suporte técnico a usuários<br>
-• Diagnóstico e resolução de incidentes<br>
-• Apoio em infraestrutura e sistemas
-</p>
+<div align="center">
 
----
-
-<h2 align="left">Tecnologias</h2>
-
-<div align="left">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white">
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 
 </div>
 
 ---
 
-<h2 align="left">Linguagens mais utilizadas</h2>
+## 📊 Estatísticas
 
-<div align="left">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lianeheidemann&theme=github_dark"/>
-</div>
+<p align="center">
+<img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lianeheidemann&show_icons=true&theme=tokyonight"/>
+<img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lianeheidemann&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-<h2 align="left">Contato</h2>
+## 🌍 Idiomas
 
-<div align="left">
+🇧🇷 Português – Nativo  
+🇺🇸 Inglês – Intermediário  
 
-<a href="https://www.linkedin.com/in/liane-f-heidemann-495707352/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
-<a href="mailto:haruru.myra@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
+---
 
-</div>
+## 📫 Contato
+
+<p align="center">
+<a href="https://www.linkedin.com/in/liane-f-heidemann-495707352/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:haruru.myra@gmail.com">
+<img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://www.instagram.com/lianefh" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-1D4ED8?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+</p>
