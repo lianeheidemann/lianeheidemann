@@ -1,81 +1,70 @@
-# 👩‍💻 Liane Heidemann
+<h1 align="left">Liane Heidemann</h1>
 
-Graduanda em Ciência da Computação | Estagiária em Suporte de TI  
+<p align="left">
+Graduanda em Ciência da Computação • Estagiária em Suporte de TI  
 Foco em desenvolvimento, resolução de problemas e evolução contínua.
+</p>
 
 ---
 
-## 🎯 Objetivo
+## Sobre
 
-Contribuir de forma colaborativa e comprometida no desenvolvimento de soluções tecnológicas, 
-buscando aprendizado contínuo e crescimento profissional na área de tecnologia.
+Estudante de Ciência da Computação no CESUPA (6º semestre), com experiência em suporte técnico e interesse em desenvolvimento de software e infraestrutura.
 
----
-
-## 🎓 Formação Acadêmica
-
-🎓 Ciência da Computação  
-Centro Universitário do Estado do Pará (CESUPA)  
-2022 ~ 2025 | 6º semestre
-
-🌎 Intercâmbio – Estados Unidos  
-Programa Ciência sem Fronteiras (2013 ~ 2014)
+Tenho perfil analítico, organizado e orientado à resolução de problemas, buscando crescimento técnico constante.
 
 ---
 
-## 💼 Experiência
+## Formação
 
-🖥️ Estágio – Suporte de TI  
-Jul/2025 – Atualmente  
+**Ciência da Computação**  
+Centro Universitário do Estado do Pará (2022 – 2025)
 
-• Suporte técnico a usuários  
-• Diagnóstico e resolução de problemas  
+**Intercâmbio – Estados Unidos**  
+Programa Ciência sem Fronteiras (2013 – 2014)
+
+---
+
+## Experiência
+
+**Estágio – Suporte de TI** (2025 – Atual)  
+• Atendimento e suporte a usuários  
+• Diagnóstico e resolução de problemas técnicos  
 • Apoio em infraestrutura e sistemas  
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
-### 🔹 Intermediário
 <div>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-</div>
 
-### 🔹 Básico
-<div>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Python-1f2937?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-1f2937?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/HTML-1f2937?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-1f2937?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/C-1f2937?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-1f2937?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Java-1f2937?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/C++-1f2937?style=for-the-badge&logo=cplusplus&logoColor=white">
+
 </div>
 
 ---
 
-## 📊 Linguagens mais usadas
+## Estatísticas
 
 <div>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lianeheidemann&theme=github_dark"/>
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lianeheidemann&theme=github_dark"/>
 </div>
 
 ---
 
-## 🌎 Idiomas
-
-• Português – Nativo  
-• Inglês – Intermediário  
-
----
-
-## 📫 Contatos
+## Contato
 
 <div>
-<a href="https://www.youtube.com/channel/UCxmQxHcgZBr1D64tLxk528A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="https://www.instagram.com/lianefh" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=liane22070222@aluno.cesupa.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/liane-f-heidemann-495707352/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/liane-f-heidemann-495707352/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/lianeheidemann" target="_blank"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="mailto:haruru.myra@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
 <!--
