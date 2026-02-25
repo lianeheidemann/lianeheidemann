@@ -15,6 +15,6 @@
 
 <div>
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lianeheidemann&layout=compact&theme=dark&cache_seconds=1800"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lianeheidemann&layout=compact&theme=github_dark"/>
 
 </div>
