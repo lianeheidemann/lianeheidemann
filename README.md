@@ -8,3 +8,13 @@
 <a href="https://www.linkedin.com/in/liane-f-heidemann-495707352/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 </div>
+
+<br>
+
+## Linguagens mais usadas:
+
+<div>
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lianeheidemann&layout=compact&theme=dark"/>
+
+</div>
