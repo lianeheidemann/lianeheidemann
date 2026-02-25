@@ -9,7 +9,6 @@
 
 </div>
 
-<br>
 
 ## Linguagens mais usadas:
 
