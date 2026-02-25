@@ -2,7 +2,7 @@
 
 <p align="center">
 <strong>Graduanda em Ciência da Computação</strong><br>
-Estagiária em Suporte de TI • Desenvolvimento e Infraestrutura
+Estagiária em Suporte de TI • Explorando diferentes áreas da Tecnologia
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@ Estagiária em Suporte de TI • Desenvolvimento e Infraestrutura
 
 ## 👩🏻‍💻 Perfil
 
-🎓 Graduanda em Ciência da Computação no **CESUPA** (2022 – 2025)  
+🎓 Graduanda em Ciência da Computação no **CESUPA** (2023 – 2027)  
 🖥️ Estagiária em Suporte de TI (Jul/2025 – Atual)  
 🌎 Intercâmbio nos Estados Unidos – Programa Ciência sem Fronteiras (2013 – 2014)  
 📈 Foco em crescimento técnico, resolução de problemas e desenvolvimento de soluções  
