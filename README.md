@@ -30,6 +30,10 @@ Jul/2025 – Atual
 • Apoio na manutenção de sistemas  
 • Organização e acompanhamento de demandas  
 
+🌍 **Intercâmbio – Estados Unidos**  
+Programa Ciência sem Fronteiras  
+Ago/2013 – Dez/2014  
+
 ---
 
 ## 🎓 Formação Acadêmica
@@ -37,10 +41,6 @@ Jul/2025 – Atual
 🎓 **Ciência da Computação**  
 Centro Universitário do Estado do Pará – CESUPA  
 2022 – 2025 | 6º semestre  
-
-🌍 **Intercâmbio – Estados Unidos**  
-Programa Ciência sem Fronteiras  
-Ago/2013 – Dez/2014  
 
 ---
 
