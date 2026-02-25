@@ -1,6 +1,6 @@
 ## Contatos:
 
-<div align="center">
+<div align="left">
   
 <a href="https://www.youtube.com/channel/UCxmQxHcgZBr1D64tLxk528A" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
