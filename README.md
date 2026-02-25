@@ -68,7 +68,7 @@ Python • JavaScript • HTML • CSS • C • C++ • Java • SQL
 
 ## 📊 Estatísticas do GitHub
 
-<p align="left">
+<p align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lianeheidemann&theme=github_dark"/>
 
