@@ -9,9 +9,7 @@
 <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-<a href="mailto:liane22070222@aluno.cesupa.br">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=liane22070222@aluno.cesupa.br" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
