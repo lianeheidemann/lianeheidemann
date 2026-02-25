@@ -1,4 +1,4 @@
-<h1 align="center">Liane Heidemann 👩🏻‍💻</h1>
+<h1 align="center">Liane F. Heidemann 👩🏻‍💻</h1>
 
 <p align="center">
 <strong>Graduanda em Ciência da Computação</strong><br>
