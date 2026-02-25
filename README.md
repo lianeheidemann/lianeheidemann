@@ -56,12 +56,12 @@ Ago/2013 – Dez/2014
 <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
 <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+
 
 </div>
 
 <p align="center">
-Python • JavaScript • HTML • CSS • C • C++ • Java • SQL • Linux
+Python • JavaScript • HTML • CSS • C • C++ • Java • SQL
 </p>
 
 ---
