@@ -8,9 +8,15 @@
 ---
 
 ## 📌 SOBRE MIM
+────────────────────────────
+SOBRE MIM
+────────────────────────────
+
 Sou estudante de Ciência da Computação com interesse em desenvolvimento de software, análise de dados e gestão de TI.
-Tenho experiência prática com suporte técnico, organização de dados e resolução de problemas.
-Também tenho interesse em desenvolvimento mobile com Flutter, além de projetos com hardware utilizando Arduino, buscando integrar software e automação em soluções práticas.
+
+Tenho experiência prática com suporte técnico, organização de dados e resolução de problemas, atuando no apoio a rotinas operacionais de tecnologia.
+
+Também tenho interesse em desenvolvimento mobile, além de projetos com hardware utilizando microcontroladores. Busco explorar tanto a criação de aplicações quanto soluções envolvendo automação e integração entre software e dispositivos físicos.
 
 ---
 
