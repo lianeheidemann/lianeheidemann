@@ -15,7 +15,6 @@ Estagiária em Suporte de TI • Explorando diferentes áreas da Tecnologia
 
 🎓 Graduanda em Ciência da Computação no **CESUPA** (2023 – 2027)  
 🖥️ Estagiária em Suporte de TI (Jul/2025 – Atual)  
-🌎 Intercâmbio nos Estados Unidos – Programa Ciência sem Fronteiras (2013 – 2014)  
 📈 Foco em crescimento técnico, resolução de problemas e desenvolvimento de soluções  
 
 ---
