@@ -1,4 +1,4 @@
- # ────────────────────────────
+# ────────────────────────────
 # 💻 LIANE F. HEIDEMANN
 # ────────────────────────────
 
@@ -11,13 +11,14 @@
 Sou estudante de Ciência da Computação com interesse em desenvolvimento de software, análise de dados e tecnologia aplicada.  
 Tenho experiência prática com suporte técnico, organização de dados e resolução de problemas.
 
-Também tenho interesse em desenvolvimento de sistemas e projetos com hardware, especialmente utilizando Arduino, buscando integrar software e automação em soluções práticas.
+Também tenho interesse em desenvolvimento mobile com Flutter, além de projetos com hardware utilizando Arduino, buscando integrar software e automação em soluções práticas.
 
 ---
 
 ## 🎯 OBJETIVO
 Atuar como estagiária na área de tecnologia, com foco em:
 • Desenvolvimento de software  
+• Desenvolvimento mobile (Flutter)  
 • Análise de dados  
 • Automação de processos  
 • Sistemas embarcados (Arduino)  
@@ -29,11 +30,14 @@ Atuar como estagiária na área de tecnologia, com foco em:
 
 ### Linguagens e Tecnologias
 • Python (Pandas, NumPy)  
+• Dart (Flutter)  
 • HTML / CSS  
 • JavaScript  
 • SQL (básico)  
 • Java (básico)  
-• C++ (básico — base para Arduino)  
+• C++ (básico)
+• C
+• Arduino
 
 ### Ferramentas e Métodos
 • Excel (intermediário)  
@@ -47,18 +51,9 @@ Atuar como estagiária na área de tecnologia, com foco em:
 ## 🔬 INTERESSES TÉCNICOS
 
 • Desenvolvimento de software (backend e automação)  
+• Desenvolvimento de aplicativos mobile com Flutter  
 • Projetos com Arduino e sistemas embarcados  
 • Integração entre software e hardware  
-• Soluções tecnológicas aplicadas ao mundo real  
-
----
-
-## 🚧 EM DESENVOLVIMENTO
-
-Atualmente explorando:
-• Lógica e programação para Arduino  
-• Projetos simples de automação e sensores  
-• Integração entre código e dispositivos físicos  
 
 ---
 
@@ -108,34 +103,6 @@ Atualmente explorando:
 
 🔗 GitHub: https://github.com/lianeheidemann  
 🔗 LinkedIn: https://linkedin.com/in/liane-f-heidemann  
-
----
-
-# ────────────────────────────
-# ✨ Obrigada por visitar meu perfil!
-# ────────────────────────────
-
----
-
-## 🚀 Tecnologias
-
-<div align="center">
-
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-
-
-</div>
-
-<p align="center">
-Python • JavaScript • HTML • CSS • C • C++ • Java • SQL
-</p>
 
 ---
 
