@@ -35,7 +35,7 @@ Atuar como estagiária na área de tecnologia, com foco em:
 • JavaScript  
 • SQL (básico)  
 • Java (básico)  
-• C++ (básico)
+• C++ (básico)  
 • C
 • Arduino
 
