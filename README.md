@@ -8,9 +8,6 @@
 ---
 
 ## 📌 SOBRE MIM
-────────────────────────────
-SOBRE MIM
-────────────────────────────
 
 Sou estudante de Ciência da Computação com interesse em desenvolvimento de software, análise de dados e gestão de TI.
 
