@@ -1,45 +1,119 @@
-<h1 align="center">Liane F. Heidemann 👩🏻‍💻</h1>
+# ────────────────────────────
+# 💻 LIANE F. HEIDEMANN
+# ────────────────────────────
 
-<p align="center">
-<strong>Graduanda em Ciência da Computação</strong><br>
-Estagiária em Suporte de TI • Explorando diferentes áreas da Tecnologia
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=1F6FEB&center=true&vCenter=true&width=700&lines=Ciência+da+Computação;Resolução+de+Problemas;Desenvolvimento+de+Software;Aprendizado+Contínuo">
-</p>
+🎓 Graduanda em Ciência da Computação  
+📍 Belém - PA, Brasil  
 
 ---
 
-## 👩🏻‍💻 Perfil
+## 📌 SOBRE MIM
+Sou estudante de Ciência da Computação com interesse em desenvolvimento de software, análise de dados e tecnologia aplicada.  
+Tenho experiência prática com suporte técnico, organização de dados e resolução de problemas.
 
-🎓 Graduanda em Ciência da Computação no **CESUPA** (2023 – 2027)  
-🖥️ Estagiária em Suporte de TI (Jul/2025 – Atual)  
-📈 Foco em crescimento técnico, resolução de problemas e desenvolvimento de soluções  
-
----
-
-## 💼 Experiência Profissional
-
-### 🖥️ Estágio – Suporte de TI
-Jul/2025 – Atual  
-
-• Atendimento e suporte técnico a usuários  
-• Diagnóstico e resolução de incidentes  
-• Apoio na manutenção de sistemas  
-• Organização e acompanhamento de demandas  
+Também tenho interesse em desenvolvimento de sistemas e projetos com hardware, especialmente utilizando Arduino, buscando integrar software e automação em soluções práticas.
 
 ---
 
-## 🎓 Formação Acadêmica
+## 🎯 OBJETIVO
+Atuar como estagiária na área de tecnologia, com foco em:
+• Desenvolvimento de software  
+• Análise de dados  
+• Automação de processos  
+• Sistemas embarcados (Arduino)  
+• Suporte e gestão de TI  
 
-🎓 **Ciência da Computação**  
-Centro Universitário do Estado do Pará – CESUPA  
-2022 – 2025 | 6º semestre
+---
 
-🌍 **Intercâmbio – Estados Unidos**  
-Programa Ciência sem Fronteiras  
-Ago/2013 – Dez/2014  
+## 🛠️ COMPETÊNCIAS TÉCNICAS
+
+### Linguagens e Tecnologias
+• Python (Pandas, NumPy)  
+• HTML / CSS  
+• JavaScript  
+• SQL (básico)  
+• Java (básico)  
+• C++ (básico — base para Arduino)  
+
+### Ferramentas e Métodos
+• Excel (intermediário)  
+• Análise e tratamento de dados  
+• Visualização de dados  
+• Trello  
+• Scrum e Kanban (básico)  
+
+---
+
+## 🔬 INTERESSES TÉCNICOS
+
+• Desenvolvimento de software (backend e automação)  
+• Projetos com Arduino e sistemas embarcados  
+• Integração entre software e hardware  
+• Soluções tecnológicas aplicadas ao mundo real  
+
+---
+
+## 🚧 EM DESENVOLVIMENTO
+
+Atualmente explorando:
+• Lógica e programação para Arduino  
+• Projetos simples de automação e sensores  
+• Integração entre código e dispositivos físicos  
+
+---
+
+## 💼 EXPERIÊNCIA
+
+### 🖥️ Suporte de TI — CESUPA  
+📅 Jul/2025 – Atual  
+
+• Suporte a usuários e resolução de problemas técnicos  
+• Organização e acompanhamento de chamados  
+• Apoio em rotinas operacionais de TI  
+
+### 🗄️ Apoio em Banco de Dados — Museu Paraense Emílio Goeldi  
+📅 Ago/2012 – Set/2012  
+
+• Inserção e atualização de dados em sistema interno  
+• Padronização de informações  
+• Organização de dados para consulta  
+
+---
+
+## 🎓 FORMAÇÃO ACADÊMICA
+
+🎓 Ciência da Computação — CESUPA  
+📅 2022 – 2026 (previsão)  
+
+---
+
+## 🌎 EXPERIÊNCIA ACADÊMICA
+
+🎓 Programa Ciência sem Fronteiras — CAPES/CNPq  
+📍 Estados Unidos  
+📅 Jul/2013 – Dez/2014  
+
+---
+
+## 🌐 IDIOMAS
+• Português — Nativo  
+• Inglês — Intermediário/Avançado  
+
+---
+
+## 🔗 CONTATO
+
+📧 Email: liane2207022@aluno.cesupa.br  
+📱 Telefone: (91) 99278-2231  
+
+🔗 GitHub: https://github.com/lianeheidemann  
+🔗 LinkedIn: https://linkedin.com/in/liane-f-heidemann  
+
+---
+
+# ────────────────────────────
+# ✨ Obrigada por visitar meu perfil!
+# ────────────────────────────
 
 ---
 
@@ -74,26 +148,3 @@ Python • JavaScript • HTML • CSS • C • C++ • Java • SQL
 </p>
 
 
----
-
-## 🌎 Idiomas
-
-🇧🇷 Português — Nativo  
-🇺🇸 Inglês — Intermediário  
-
----
-
-## 🎯 Objetivo Profissional
-
-Contribuir com o desenvolvimento de soluções tecnológicas de forma colaborativa e comprometida, buscando evolução contínua como profissional da área de tecnologia.
-
----
-
-## 📫 Contato
-
-<p align="center">
-<a href="https://www.youtube.com/channel/UCxmQxHcgZBr1D64tLxk528A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="https://www.instagram.com/lianeheidemann" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=liane22070222@aluno.cesupa.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/liane-f-heidemann-495707352/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
