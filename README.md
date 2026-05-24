@@ -23,12 +23,3 @@
   <a href="https://stats.hyo.dev"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=lianeheidemann" width="600" /></a>
 
 </details>
-
-<details>
-  <summary>🏆GitHub Throphies</summary>
-  <a href="https://stats.hyo.dev"><img src="https://stats.hyo.dev/api/github-trophies?login=lianeheidemann" width="600" /></a>
-
-</details>
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lianeheidemann&locale=pt_BR)](https://git.io/streak-stats)
