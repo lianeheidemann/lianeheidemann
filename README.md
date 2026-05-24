@@ -11,10 +11,10 @@
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lianeheidemann&theme=github_dark&hide=jupyter%20notebook"/>
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lianeheidemann&theme=github_dark&exclude=jupyter%20Notebook"/>
 
 </p>
-
 
 </details>
 
