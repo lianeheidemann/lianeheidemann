@@ -19,7 +19,7 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-languag
 </details>
 
 <details close>
-  <summary>📊GitHub Stats</summary>
+  <summary>             </summary>
   <a href="https://stats.hyo.dev"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=lianeheidemann" width="600" /></a>
 
 </details>
@@ -27,4 +27,4 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-languag
 
 
 
-<
+
