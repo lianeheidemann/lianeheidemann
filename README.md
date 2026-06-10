@@ -22,14 +22,13 @@
 ![C](https://img.shields.io/badge/C-555555?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 <!-- Menores -->
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Git](https://img.shields.io/badge/-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Flutter](https://img.shields.io/badge/-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Blender](https://img.shields.io/badge/-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Arduino](https://img.shields.io/badge/-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 </p>
 
 ---
