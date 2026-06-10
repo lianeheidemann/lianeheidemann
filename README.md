@@ -36,29 +36,71 @@ Graduanda em Ciência da Computação <br>
 
 ---
 
-## 📊 Estatísticas do GitHub
+<!-- statistics -->
+<div align="center"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lianeheidemann&show_icons=true&theme=default&hide_border=true&include_all_commits=false&count_private=false#gh-light-mode-only"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lianeheidemann&layout=compact&theme=default&hide_border=true&langs_count=6&hide=Jupyter%20Notebook#gh-light-mode-only"/>
+</div>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</details>
+<details close>
+  
+<!-- Galáxia -->
+<summary>             </summary>
+<p align="center">
+  <a href="https://stats.hyo.dev">
+    <img src="https://stats.hyo.dev/api/github-stats-advanced?login=lianeheidemann" width="600"/>
+  </a>
+</p>
+
+<!-- Light Mode -->
+<div align="center"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lianeheidemann&show_icons=true&theme=default&hide_border=true&include_all_commits=false&count_private=false#gh-light-mode-only"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lianeheidemann&layout=compact&theme=default&hide_border=true&langs_count=6&hide=Jupyter%20Notebook#gh-light-mode-only"/>
+</div>
+
+<!-- Dark Mode -->
+<div align="center"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lianeheidemann&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false#gh-dark-mode-only"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lianeheidemann&layout=compact&theme=github_dark&hide_border=true&langs_count=6&hide=Jupyter%20Notebook#gh-dark-mode-only"/>
+</div>
+
+<!-- Logo Grande -->
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,html,css,cpp,c,java,dart,flutter,git,arduino,blender" />
+</p>
+
+<!-- Antigo -->
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lianeheidemann&theme=github_dark&exclude=jupyter%20Notebook"/>
 </p>
 
 </details>
 
-<details close>
-  <summary>             </summary>
-  <a href="https://stats.hyo.dev"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=lianeheidemann" width="600" /></a>
-
-</details>
 
 
 
 
 
-<!-- 
-  <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,cpp,c,java,dart,flutter,git,arduino,blender" />
-  </p>
--->
 
 
 
