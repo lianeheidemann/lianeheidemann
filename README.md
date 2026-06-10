@@ -12,9 +12,6 @@ Graduanda em Ciência da Computação <br>
 ---
 
 
-
-
-
 <p align="center">
   <!-- Linguagens -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -52,6 +49,16 @@ Graduanda em Ciência da Computação <br>
   <a href="https://stats.hyo.dev"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=lianeheidemann" width="600" /></a>
 
 </details>
+
+
+
+
+
+<!-- 
+  <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,cpp,c,java,dart,flutter,git,arduino,blender" />
+  </p>
+-->
 
 
 
