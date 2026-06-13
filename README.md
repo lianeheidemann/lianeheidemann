@@ -35,7 +35,7 @@ Graduanda em Ciência da Computação <br>
 
 ---
 
-<div style="display:flex; justify-content:center;">
+<div align="center">
   <img height="180em"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=lianeheidemann&layout=compact&theme=github_dark&hide_border=true&langs_count=6&hide=Jupyter%20Notebook#gh-dark-mode-only"/>
 </div>
