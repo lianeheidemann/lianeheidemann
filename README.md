@@ -49,9 +49,8 @@ Graduanda em Ciência da Computação <br>
 
 
 
-</details>
-<details close>
-  
-   
 
+<details>
+  <summary>   </summary>
+  
 </details>
