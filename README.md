@@ -65,36 +65,6 @@
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lianeheidemann&layout=compact&theme=github_dark&hide_border=true&langs_count=6&hide=Jupyter%20Notebook#gh-dark-mode-only"/>
-</div>
-
----
-
-## 🌱 Atualmente estudando
-
-- Inteligência Artificial Generativa
-- Prompt Engineering
-- Large Language Models (LLMs)
-- Engenharia de Software
-- APIs REST
-- Flutter
-- Python
-
----
-
-## 📌 Projetos em destaque
-
-- 🤖 Chatbot para Agência de Viagens
-- 📱 CírioApp
-- 📊 Análise Exploratória de Dados
-- 🗄️ Sistema CRUD com Python + MySQL
-
----
-
 ## 📫 Contato
 
 <p align="left">
