@@ -22,7 +22,7 @@
 
 🤖 Estudando Inteligência Artificial Generativa, LLMs e Engenharia de Software
 
-📱 Desenvolvendo projetos com Flutter, Python e JavaScript
+📱 Desenvolvendo projetos com Python, JavaScript e Dart
 
 📚 Sempre aprendendo novas tecnologias e boas práticas de desenvolvimento.
 
