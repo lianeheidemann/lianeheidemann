@@ -7,6 +7,15 @@
 <h1 align="center">Me chamo Liane Heidemann 👩🏻‍💻</h1>
 
 <p align="center">
+<a href="mailto:liane22070222@aluno.cesupa.br">
+<img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/liane-f-heidemann-495707352">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+<p align="center">
 🌐 Belém - PA, Brasil <br>
 
 </p>
@@ -32,8 +41,6 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
 
 #### Frameworks e Bibliotecas
@@ -56,25 +63,6 @@
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white"/>
 </p>
 
----
-
-## 📫 Contato
-
-<p align="left">
-
-<a href="mailto:liane22070222@aluno.cesupa.br">
-<img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/lianeheidemann">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/liane-f-heidemann-495707352">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
 
 
 
