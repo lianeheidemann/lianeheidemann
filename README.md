@@ -4,7 +4,7 @@
 
 <h1 align="center">Olá! 👋</h1>
 
-<h1 align="center">Me chamo Liane Heidemann 👩🏻‍💻</h1>
+<h2 align="center">Me chamo Liane Heidemann 👩🏻‍💻</h2>
 
 <p align="center">
 <a href="mailto:liane22070222@aluno.cesupa.br">
