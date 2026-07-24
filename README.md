@@ -22,14 +22,6 @@
 
 ---
 
-## Sobre mim
-
-- Estudante de Ciência da Computação (6º semestre)
-
-- Estagiária de Suporte de TI
-
----
-
 ##  Tecnologias
 
 #### Linguagens
