@@ -1,11 +1,8 @@
 <!-- ====================================================== -->
 <!--                       HEADER                           -->
 <!-- ====================================================== -->
-
-<h1 align="center">Olá! 👋</h1>
-
-<h2 align="center">Me chamo Liane Heidemann 👩🏻‍💻</h2>
-
+<h1 align="center">Hi there! 👋</h1>
+<h2 align="center">My name is Liane Heidemann 👩🏻‍💻</h2>
 <p align="center">
 <a href="mailto:liane22070222@aluno.cesupa.br">
 <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -14,23 +11,21 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
-
 <p align="center">
-🌐 Belém - PA, Brasil <br>
+🌐 Belém - PA, Brazil <br>
 </p>
 
 ---
 
-##  Tecnologias
+## Technologies
 
-#### Linguagens
-
+#### Languages
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
 </p>
 
-#### Dados & IA
+#### Data & AI
 <p>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -39,8 +34,7 @@
 <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge"/>
 </p>
 
-#### Ferramentas
-
+#### Tools
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
