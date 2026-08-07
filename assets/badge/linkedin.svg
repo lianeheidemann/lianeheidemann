@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="166" height="44" viewBox="0 0 166 44" role="img" aria-labelledby="title desc">
   <title id="title">LinkedIn</title><desc id="desc">LinkedIn badge with automatic light and dark themes</desc>
-  <style>.bg{fill:#f1f8ff;stroke:#0A66C2}.label{fill:#064b91}@media (prefers-color-scheme:dark){.bg{fill:#071b2e;stroke:#48a8ff}.label{fill:#eef7ff}}</style>
-  <rect class="bg" x=".75" y=".75" width="164.5" height="42.5" rx="10"/>
+  <style>.bg{fill:#E2F1FF;stroke:#075EAD}.label{fill:#053F75}@media (prefers-color-scheme:dark){.bg{fill:#071b2e;stroke:#48a8ff}.label{fill:#eef7ff}}</style>
+  <rect class="bg" x=".75" y=".75" width="164.5" height="42.5" rx="10" stroke-width="1.5"/>
   <rect x="14" y="9" width="28" height="26" rx="5" fill="#0A66C2"/><circle cx="21" cy="17" r="2.2" fill="#fff"/><path d="M19 21h4v10h-4zm6 0h3.8v1.5c1-1.3 2.4-2 4.2-2 3.4 0 5 2.2 5 6.2V31h-4v-3.8c0-2-.7-3-2.2-3-1.7 0-2.8 1.1-2.8 3.4V31h-4z" fill="#fff"/>
   <text class="label" x="53" y="28" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="700" letter-spacing="1.6">LINKEDIN</text>
 </svg>
