@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="154" height="44" viewBox="0 0 154 44" role="img" aria-labelledby="title desc">
   <title id="title">Pandas</title><desc id="desc">Pandas badge with automatic light and dark themes</desc>
-  <style>.bg{fill:#f8f5ff;stroke:#6f58c9}.label{fill:#25194f}@media (prefers-color-scheme:dark){.bg{fill:#171126;stroke:#a78bfa}.label{fill:#faf7ff}}</style>
-  <rect class="bg" x=".75" y=".75" width="152.5" height="42.5" rx="10"/>
+  <style>.bg{fill:#EEE6FF;stroke:#5C3DB5}.label{fill:#211542}@media (prefers-color-scheme:dark){.bg{fill:#171126;stroke:#a78bfa}.label{fill:#faf7ff}}</style>
+  <rect class="bg" x=".75" y=".75" width="152.5" height="42.5" rx="10" stroke-width="1.5"/>
   <path d="M16 12h5v8h-5zm0 11h5v9h-5zm15-11h5v12h-5zm0 15h5v5h-5z" fill="#150458"/><path d="M23.5 16h5v12h-5z" fill="#E70488"/><path d="M23.5 11h5v3h-5zm0 19h5v3h-5z" fill="#00AEEF"/>
   <text class="label" x="53" y="28" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="700" letter-spacing="1.6">PANDAS</text>
 </svg>
