@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="198" height="44" viewBox="0 0 198 44" role="img" aria-labelledby="title desc">
+  <title id="title">Claude Code</title><desc id="desc">Claude Code badge with automatic light and dark themes</desc>
+  <style>.bg{fill:#fff6f1;stroke:#D97757}.label{fill:#6f2e1f}@media (prefers-color-scheme:dark){.bg{fill:#27130f;stroke:#ff865f}.label{fill:#fff6f1}}</style>
+  <rect class="bg" x=".75" y=".75" width="196.5" height="42.5" rx="10"/>
+  <g stroke="#D97757" stroke-width="3" stroke-linecap="round"><path d="M28 10v24M16 22h24M19.5 13.5l17 17M36.5 13.5l-17 17"/></g><circle cx="28" cy="22" r="4" fill="#D97757"/>
+  <text class="label" x="53" y="28" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="700" letter-spacing="1.4">CLAUDE CODE</text>
+</svg>
