@@ -47,4 +47,4 @@
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 </p>
 
-<img width="1200" height="120" alt="1000363594" src="https://github.com/user-attachments/assets/06912eba-0ad7-4883-8908-ee8f4da0a5da" />
+<img width="1200" height="120" alt="Animated cyber divider" src="./assets/cyber-divider.svg?v=1" />
