@@ -1,10 +1,10 @@
 <!-- ====================================================== -->
 <!--                       HEADER                           -->
 <!-- ====================================================== -->
-<img width="1200" alt="Liane Heidemann — Computer Science, Software Development, AI and Data" src="./liane-dev-portal.svg?v=2" />
+<img width="1200" alt="Liane Heidemann — Computer Science, Software Development, AI and Data" src="./liane-dev-portal.svg?v=3" />
 
 
-<h1 align="center">Hi there! <img src="./waving-hand.svg?v=1" width="38" height="38" alt="Waving hand" /></h1>
+<h1 align="center">Hi there! <img src="./assets/waving-hand-v2.svg" width="36" alt="Waving hand" /></h1>
 <p align="center">
 <a href="mailto:liane22070222@aluno.cesupa.br">
 <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
