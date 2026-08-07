@@ -5,7 +5,6 @@
 
 
 <h1 align="center">Hi there! 👋🏻</h1>
-<h2 align="center">My name is Liane Heidemann 👩🏻‍💻</h2>
 <p align="center">
 <a href="mailto:liane22070222@aluno.cesupa.br">
 <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
