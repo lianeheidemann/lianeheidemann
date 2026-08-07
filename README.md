@@ -1,7 +1,7 @@
 <!-- ====================================================== -->
 <!--                       HEADER                           -->
 <!-- ====================================================== -->
-<img width="1200" height="120" alt="1000363595" src="https://github.com/user-attachments/assets/6ab9e119-490e-45e6-b190-be9778c76d38" />
+<img width="1200" alt="Liane Heidemann — Computer Science, Software Development, AI and Data" src="./github-profile-banner.svg" />
 
 
 <h1 align="center">Hi there! 👋🏻</h1>
