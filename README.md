@@ -1,6 +1,9 @@
 <!-- ====================================================== -->
 <!--                       HEADER                           -->
 <!-- ====================================================== -->
+<img width="1200" height="120" alt="1000363595" src="https://github.com/user-attachments/assets/6ab9e119-490e-45e6-b190-be9778c76d38" />
+
+
 <h1 align="center">Hi there! 👋🏻</h1>
 <h2 align="center">My name is Liane Heidemann 👩🏻‍💻</h2>
 <p align="center">
@@ -40,3 +43,5 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 </p>
+
+<img width="1200" height="120" alt="1000363594" src="https://github.com/user-attachments/assets/06912eba-0ad7-4883-8908-ee8f4da0a5da" />
