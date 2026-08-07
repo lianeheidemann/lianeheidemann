@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title description">
+  <title id="title">Liane Heidemann developer portal</title>
+  <desc id="description">Animated neon profile panel for a Computer Science student focused on software development, artificial intelligence and data.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="330" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#040817"/>
+      <stop offset="0.5" stop-color="#091224"/>
+      <stop offset="1" stop-color="#0b1020"/>
+    </linearGradient>
+
+    <linearGradient id="flow" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="0.4" stop-color="#38bdf8"/>
+      <stop offset="0.68" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-160 0;160 0;-160 0" dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <radialGradient id="core" cx="50%" cy="48%" r="52%">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.32"/>
+      <stop offset="0.48" stop-color="#3b82f6" stop-opacity="0.12"/>
+      <stop offset="0.78" stop-color="#8b5cf6" stop-opacity="0.05"/>
+      <stop offset="1" stop-color="#040817" stop-opacity="0"/>
+    </radialGradient>
+
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#67e8f9" stroke-opacity="0.055">
+        <animateTransform attributeName="transform" type="translate" values="0 0;36 36;0 0" dur="24s" repeatCount="indefinite"/>
+      </path>
+    </pattern>
+
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <style>
+      .micro { font: 700 11px 'Segoe UI', Arial, sans-serif; letter-spacing: 4px; }
+      .name { font: 800 36px 'Segoe UI', Arial, sans-serif; letter-spacing: 5px; }
+      .role { font: 500 14px 'Segoe UI', Arial, sans-serif; letter-spacing: 2px; }
+      .focus { font: 600 13px 'Segoe UI', Arial, sans-serif; letter-spacing: 2px; }
+      .chip { font: 700 12px 'Segoe UI', Arial, sans-serif; letter-spacing: 1.4px; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="330" rx="30" fill="url(#background)"/>
+  <rect width="1200" height="330" rx="30" fill="url(#grid)"/>
+
+  <ellipse cx="600" cy="150" rx="278" ry="178" fill="url(#core)">
+    <animate attributeName="rx" values="270;306;270" dur="10s" repeatCount="indefinite"/>
+    <animate attributeName="ry" values="170;194;170" dur="10s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <rect x="8" y="8" width="1184" height="314" rx="26" fill="none" stroke="url(#flow)" stroke-width="2" stroke-opacity="0.76" stroke-dasharray="500 110" stroke-linecap="round">
+    <animate attributeName="stroke-dashoffset" from="0" to="-610" dur="20s" repeatCount="indefinite"/>
+  </rect>
+
+  <g fill="none" stroke="url(#flow)" stroke-linecap="round" filter="url(#glow)">
+    <path d="M108 72H392M808 72H1092" stroke-width="3"/>
+    <path d="M118 242H420M780 242H1082" stroke-width="2" opacity="0.68"/>
+  </g>
+
+  <g fill="none" stroke="#22d3ee" stroke-linecap="round" filter="url(#glow)">
+    <g>
+      <circle cx="600" cy="80" r="27" fill="#071426" stroke-width="2.5"/>
+      <path d="M600 42V54M600 106V118M562 80H574M626 80H638" stroke-width="2.5"/>
+      <path d="M600 53A27 27 0 0 1 626 80" stroke="#a78bfa" stroke-width="4"/>
+      <circle cx="627" cy="80" r="3.5" fill="#e0f2fe" stroke-width="1.5"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 600 80" to="360 600 80" dur="20s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <circle cx="600" cy="80" r="14" fill="#22d3ee" fill-opacity="0.12" stroke="#60a5fa" stroke-width="1"/>
+  <path d="M591 80L598 87L610 73" fill="none" stroke="#cffafe" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <animate attributeName="opacity" values="0.58;1;0.58" dur="4s" repeatCount="indefinite"/>
+  </path>
+
+  <g font-family="'Segoe UI',Arial,sans-serif" text-anchor="middle">
+    <text x="600" y="34" class="micro" fill="#8be9f5">LIANE // SYSTEM INTERFACE</text>
+    <text x="600" y="149" class="name" fill="#f8fafc">LIANE HEIDEMANN</text>
+    <text x="600" y="179" class="role" fill="#9fb0c7">COMPUTER SCIENCE STUDENT</text>
+    <text x="600" y="208" class="focus" fill="#67e8f9">SOFTWARE DEVELOPMENT  ·  AI  ·  DATA
+      <animate attributeName="fill" values="#67e8f9;#93c5fd;#c4b5fd;#67e8f9" dur="12s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <g font-family="'Segoe UI',Arial,sans-serif" text-anchor="middle" class="chip">
+    <g transform="translate(310 264)">
+      <rect width="134" height="34" rx="17" fill="#0b172a" stroke="#22d3ee" stroke-opacity="0.55"/>
+      <text x="67" y="22" fill="#dbeafe">PROJECTS</text>
+    </g>
+    <g transform="translate(462 264)">
+      <rect width="128" height="34" rx="17" fill="#0b172a" stroke="#60a5fa" stroke-opacity="0.55"/>
+      <text x="64" y="22" fill="#dbeafe">TECH STACK</text>
+    </g>
+    <g transform="translate(608 264)">
+      <rect width="128" height="34" rx="17" fill="#0b172a" stroke="#8b5cf6" stroke-opacity="0.58"/>
+      <text x="64" y="22" fill="#dbeafe">ABOUT ME</text>
+    </g>
+    <g transform="translate(754 264)">
+      <rect width="136" height="34" rx="17" fill="#0b172a" stroke="#22d3ee" stroke-opacity="0.55"/>
+      <text x="68" y="22" fill="#dbeafe">CONTACT</text>
+    </g>
+  </g>
+</svg>
