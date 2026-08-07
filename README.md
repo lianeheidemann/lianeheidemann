@@ -1,7 +1,11 @@
 <!-- ====================================================== -->
 <!--                       HEADER                           -->
 <!-- ====================================================== -->
-<img width="1200" alt="Liane Heidemann — Computer Science, Software Development, AI and Data" src="./github-profile-banner.gif?v=6" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-banner-dark.gif?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-banner-light.gif?v=1">
+  <img width="1200" alt="Liane Heidemann — Computer Science, Software Development, AI and Data" src="./assets/profile-banner-light.gif?v=1">
+</picture>
 
 
 <h1 align="center">Hi there! <img src="./assets/waving-hand-v2.svg" width="36" alt="Waving hand" /></h1>
