@@ -1,7 +1,7 @@
 <!-- ====================================================== -->
 <!--                       HEADER                           -->
 <!-- ====================================================== -->
-<img width="1200" alt="Liane Heidemann — Computer Science, Software Development, AI and Data" src="./github-profile-banner.gif?v=5" />
+<img width="1200" alt="Liane Heidemann — Computer Science, Software Development, AI and Data" src="./github-profile-banner.gif?v=6" />
 
 
 <h1 align="center">Hi there! <img src="./assets/waving-hand-v2.svg" width="36" alt="Waving hand" /></h1>
