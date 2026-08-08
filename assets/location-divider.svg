@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" width="1000" height="100" role="img" aria-labelledby="title desc">
+  <title id="title">Animated double-line divider</title>
+  <desc id="desc">Two horizontal lines with cyan and violet highlights moving in opposite directions, adapted to light and dark themes.</desc>
+
+  <style>
+    .track {
+      stroke: #cbd5e1;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      .track {
+        stroke: #1f2937;
+      }
+    }
+  </style>
+
+  <path class="track" d="M0 40 H1000" stroke-width="6"/>
+  <path class="track" d="M0 60 H1000" stroke-width="6"/>
+
+  <path d="M0 40 H1000" stroke="#22d3ee" stroke-width="3"
+        stroke-dasharray="120 1200">
+    <animate attributeName="stroke-dashoffset" values="1320;0" dur="2.5s" repeatCount="indefinite"/>
+  </path>
+
+  <path d="M0 60 H1000" stroke="#8b5cf6" stroke-width="3"
+        stroke-dasharray="120 1200">
+    <animate attributeName="stroke-dashoffset" values="0;1320" dur="2.5s" repeatCount="indefinite"/>
+  </path>
+</svg>
