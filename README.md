@@ -19,6 +19,7 @@
 </p>
 <p align="center">
 🌐 Belém - PA, Brazil <br>
+<img src="./assets/badge/readme-components.svg?v=1" alt="README Components" width="330"/>
 </p>
 
 ---
