@@ -1,4 +1,4 @@
-
+centralizarar tanto na diagonal quanto na horizontal: "
 <div align="center">
 
   
@@ -22,7 +22,7 @@
   </td>
     
   <td width="50%" valign="top">
-  <img align="center" width="400" src="assets/projects/logos/tenisfun.png"/>
+  <img align="center" width="400" src="assets/projects/logos/readme-components.svg"/>
   </td>
     
   </tr>
@@ -31,4 +31,4 @@
   
   <sub>👉 <a href="https://www.linkedin.com/in/lianeheidemann/details/certifications/" target="_blank">Clique aqui para validar todas as certificações no LinkedIn</a></sub>
 
-</div>
+</div>"
