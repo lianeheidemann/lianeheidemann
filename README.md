@@ -56,9 +56,9 @@
   </picture>
 </p>
 
-<img width="1200" height="120" alt="Animated cyber divider" src="./assets/cyber-divider.svg?v=1" />
+<img width="1200" height="120" alt="Animated cyber divider" src="./assets/cyber-divider.svg?v=1" /><br><br>
 
----
+
 
 ## Featured Projects
 Four projects showcasing mobile development, game development, artificial intelligence, and developer tools.
@@ -113,7 +113,7 @@ Four projects showcasing mobile development, game development, artificial intell
       <br>
     </td>
     <td align="center" width="50%" valign="top">
-      <br><br><br>
+      <br><br>
       <a href="https://github.com/lianeheidemann/readme_components">
         <img src="assets/projects/logos/readme-components.svg" width="280" alt="README Components logo">
         <p align="center"><img src="assets/badge_under-construction_v3.svg?v=4" width="180" alt="Under construction"></p>
