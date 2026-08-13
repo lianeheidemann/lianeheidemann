@@ -113,7 +113,7 @@ Four projects showcasing mobile development, game development, artificial intell
       <br>
     </td>
     <td align="center" width="50%" valign="top">
-      <br>
+      <br><br><br>
       <a href="https://github.com/lianeheidemann/readme_components">
         <img src="assets/projects/logos/readme-components.svg" width="280" alt="README Components logo">
       </a>
