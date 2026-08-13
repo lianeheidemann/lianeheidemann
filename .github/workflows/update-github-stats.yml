@@ -1,0 +1,45 @@
+name: Update GitHub stats SVG
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "15 */6 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - "scripts/update-github-stats.py"
+      - ".github/workflows/update-github-stats.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate live stats SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/update-github-stats.py
+
+      - name: Commit updated stats
+        run: |
+          if git diff --quiet -- assets/github-stats.svg README.md; then
+            echo "GitHub stats are already current."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-stats.svg README.md
+          git commit -m "chore: refresh GitHub profile stats"
+          git push
