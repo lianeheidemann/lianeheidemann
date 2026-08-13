@@ -33,20 +33,26 @@ jobs:
 
       - name: Compact stats card
         run: |
-          sed -i 's/height="300" viewBox="0 0 1200 300"/height="240" viewBox="0 0 1200 240"/' assets/github-stats.svg
-          sed -i 's/x2="1200" y2="300"/x2="1200" y2="240"/' assets/github-stats.svg
-          sed -i 's/width="1200" height="300" rx="30"/width="1200" height="240" rx="26"/g' assets/github-stats.svg
-          sed -i 's/cx="600" cy="145" rx="360" ry="190"/cx="600" cy="116" rx="360" ry="150"/' assets/github-stats.svg
-          sed -i 's/width="1184" height="284" rx="26"/width="1184" height="224" rx="22"/' assets/github-stats.svg
-          sed -i 's/x="600" y="52" class="micro"/x="600" y="37" class="micro"/' assets/github-stats.svg
-          sed -i 's/M105 82H1095/M105 58H1095/' assets/github-stats.svg
-          sed -i 's/translate(72 104)/translate(72 72)/' assets/github-stats.svg
-          sed -i 's/translate(342 104)/translate(342 72)/' assets/github-stats.svg
-          sed -i 's/translate(612 104)/translate(612 72)/' assets/github-stats.svg
-          sed -i 's/translate(882 104)/translate(882 72)/' assets/github-stats.svg
-          sed -i 's/height="116" rx="20"/height="105" rx="18"/g' assets/github-stats.svg
-          sed -i 's/x="600" y="267" class="meta"/x="600" y="215" class="meta"/' assets/github-stats.svg
-          sed -i 's/\(assets\/github-stats.svg?v=[^"]*\)"/\1-compact"/' README.md
+          sed -i 's/height="300" viewBox="0 0 1200 300"/height="190" viewBox="0 0 1200 190"/' assets/github-stats.svg
+          sed -i 's/x2="1200" y2="300"/x2="1200" y2="190"/' assets/github-stats.svg
+          sed -i 's/width="1200" height="300" rx="30"/width="1200" height="190" rx="24"/g' assets/github-stats.svg
+          sed -i 's/cx="600" cy="145" rx="360" ry="190"/cx="600" cy="92" rx="360" ry="118"/' assets/github-stats.svg
+          sed -i 's/width="1184" height="284" rx="26"/width="1184" height="174" rx="20"/' assets/github-stats.svg
+          sed -i 's/x="600" y="52" class="micro"/x="600" y="27" class="micro"/' assets/github-stats.svg
+          sed -i 's/M105 82H1095/M105 42H1095/' assets/github-stats.svg
+          sed -i 's/translate(72 104)/translate(72 50)/' assets/github-stats.svg
+          sed -i 's/translate(342 104)/translate(342 50)/' assets/github-stats.svg
+          sed -i 's/translate(612 104)/translate(612 50)/' assets/github-stats.svg
+          sed -i 's/translate(882 104)/translate(882 50)/' assets/github-stats.svg
+          sed -i 's/height="116" rx="20"/height="96" rx="17"/g' assets/github-stats.svg
+          sed -i 's/cy="27" r="5"/cy="20" r="5"/' assets/github-stats.svg
+          sed -i 's/x="123" y="68" class="value"/x="123" y="57" class="value"/g' assets/github-stats.svg
+          sed -i 's/x="123" y="94" class="label"/x="123" y="82" class="label"/g' assets/github-stats.svg
+          sed -i 's/cy="23" r="7"/cy="18" r="7"/' assets/github-stats.svg
+          sed -i 's/M111 39c3-7 21-7 24 0/M111 34c3-7 21-7 24 0/' assets/github-stats.svg
+          sed -i 's/M113 23h20M123 13v20/M113 18h20M123 8v20/' assets/github-stats.svg
+          sed -i 's/x="600" y="267" class="meta"/x="600" y="171" class="meta"/' assets/github-stats.svg
+          sed -i 's/\(assets\/github-stats.svg?v=[^"]*\)"/\1-compact190"/' README.md
 
       - name: Commit updated stats
         run: |
