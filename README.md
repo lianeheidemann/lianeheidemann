@@ -83,7 +83,7 @@ Four projects showcasing mobile development, game development, artificial intell
     <td align="center" width="50%" valign="top">
       <br>
       <a href="https://github.com/lianeheidemann/tennis-fun-game">
-        <img src="assets/projects/logos/tenisfun.png" width="300" alt="TenisFun logo">
+        <img src="assets/projects/logos/tenisfun-4.svg" width="300" alt="TenisFun logo">
       </a>
       <h3>
         <a href="https://github.com/lianeheidemann/tennis-fun-game">TenisFun</a>
