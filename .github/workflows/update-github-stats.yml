@@ -33,7 +33,7 @@ jobs:
 
       - name: Commit updated stats
         run: |
-          if git diff --quiet -- assets/github-stats.svg README.md; then
+          if [ -z "$(git status --porcelain -- assets/github-stats.svg README.md)" ]; then
             echo "GitHub stats are already current."
             exit 0
           fi
