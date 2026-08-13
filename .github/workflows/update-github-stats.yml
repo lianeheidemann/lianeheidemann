@@ -54,15 +54,44 @@ jobs:
           sed -i 's/x="600" y="267" class="meta"/x="600" y="171" class="meta"/' assets/github-stats.svg
           sed -i 's/\(assets\/github-stats.svg?v=[^"]*\)"/\1-compact190"/' README.md
 
+      - name: Generate light-theme stats card
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          src = Path('assets/github-stats.svg').read_text(encoding='utf-8')
+          replacements = {
+              '#040817': '#F8FBFF',
+              '#091224': '#EEF4FF',
+              '#0b1020': '#E8F0FC',
+              '#071426': '#FFFFFF',
+              '#f8fafc': '#0F172A',
+              '#8be9f5': '#0E7490',
+              '#718096': '#64748B',
+              '#67e8f9': '#0E7490',
+              '#93c5fd': '#2563EB',
+              '#c4b5fd': '#7C3AED',
+          }
+          for old, new in replacements.items():
+              src = src.replace(old, new)
+          src = src.replace('GitHub live stats</title>', 'GitHub live stats — light theme</title>')
+          Path('assets/github-stats-light.svg').write_text(src, encoding='utf-8')
+          PY
+
+          cache_key=$(grep -o 'github-stats.svg?v=[^" ]*' README.md | head -1 | sed 's/.*?v=//')
+          if [ -n "$cache_key" ]; then
+            sed -i "s|github-stats-light.svg?v=[^\" ]*|github-stats-light.svg?v=${cache_key}|g" README.md
+          fi
+
       - name: Commit updated stats
         run: |
-          if [ -z "$(git status --porcelain -- assets/github-stats.svg README.md)" ]; then
+          if [ -z "$(git status --porcelain -- assets/github-stats.svg assets/github-stats-light.svg README.md)" ]; then
             echo "GitHub stats are already current."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/github-stats.svg README.md
+          git add assets/github-stats.svg assets/github-stats-light.svg README.md
           git commit -m "chore: refresh GitHub profile stats"
           git push
