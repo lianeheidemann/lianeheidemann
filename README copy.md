@@ -22,7 +22,7 @@
   </td>
     
   <td width="50%" valign="top">
-  <img align="center" width="400" src="assets/projects/logos/tenisfun.png"/>
+  <img align="center" width="400" src="assets/projects/logos/readme-components.svg"/>
   </td>
     
   </tr>
