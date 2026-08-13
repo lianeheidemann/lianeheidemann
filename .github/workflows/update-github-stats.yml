@@ -31,6 +31,23 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/update-github-stats.py
 
+      - name: Compact stats card
+        run: |
+          sed -i 's/height="300" viewBox="0 0 1200 300"/height="240" viewBox="0 0 1200 240"/' assets/github-stats.svg
+          sed -i 's/x2="1200" y2="300"/x2="1200" y2="240"/' assets/github-stats.svg
+          sed -i 's/width="1200" height="300" rx="30"/width="1200" height="240" rx="26"/g' assets/github-stats.svg
+          sed -i 's/cx="600" cy="145" rx="360" ry="190"/cx="600" cy="116" rx="360" ry="150"/' assets/github-stats.svg
+          sed -i 's/width="1184" height="284" rx="26"/width="1184" height="224" rx="22"/' assets/github-stats.svg
+          sed -i 's/x="600" y="52" class="micro"/x="600" y="37" class="micro"/' assets/github-stats.svg
+          sed -i 's/M105 82H1095/M105 58H1095/' assets/github-stats.svg
+          sed -i 's/translate(72 104)/translate(72 72)/' assets/github-stats.svg
+          sed -i 's/translate(342 104)/translate(342 72)/' assets/github-stats.svg
+          sed -i 's/translate(612 104)/translate(612 72)/' assets/github-stats.svg
+          sed -i 's/translate(882 104)/translate(882 72)/' assets/github-stats.svg
+          sed -i 's/height="116" rx="20"/height="105" rx="18"/g' assets/github-stats.svg
+          sed -i 's/x="600" y="267" class="meta"/x="600" y="215" class="meta"/' assets/github-stats.svg
+          sed -i 's/\(assets\/github-stats.svg?v=[^"]*\)"/\1-compact"/' README.md
+
       - name: Commit updated stats
         run: |
           if [ -z "$(git status --porcelain -- assets/github-stats.svg README.md)" ]; then
