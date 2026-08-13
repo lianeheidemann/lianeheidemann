@@ -41,7 +41,7 @@
 
 #### Tools
 <p>
-<img src="./assets/badge/git.svg?v=2" alt="Git" height="30"/>
+<img src="./assets/badge/git.svg?v=3" alt="Git" height="30"/>
 <img src="./assets/badge/github.svg?v=2" alt="GitHub" height="30"/>
 <img src="./assets/badge/google-cloud.svg?v=2" alt="Google Cloud" height="30"/>
 </p>
