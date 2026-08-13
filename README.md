@@ -8,7 +8,7 @@
 </picture>
 
 
-<h1 align="center">Hi there! <img src="./assets/waving-hand-v3.svg" width="36" alt="Waving hand" /></h1>
+<h1 align="center">Hi there! <img src="./assets/waving-hand-v3.svg?v=2" width="36" alt="Waving hand" /></h1>
 <p align="center">
 <a href="mailto:liane22070222@aluno.cesupa.br">
 <img src="./assets/badge/gmail.svg?v=2" alt="Gmail" height="30"/>
