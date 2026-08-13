@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="330" height="60" viewBox="0 0 330 60" role="img" aria-labelledby="title desc">
+  <title id="title">README Components</title>
+  <desc id="desc">README Components badge with automatic light and dark themes and a blinking LED</desc>
+  <defs>
+    <linearGradient id="accent" x1="18" y1="8" x2="312" y2="52" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6"/>
+      <stop offset=".52" stop-color="#3B82F6"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-40%" width="140%" height="180%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <style>
+    .card{fill:#F7F8FC;stroke:#CBD5E1}
+    .title{fill:#172033}
+    .muted{stroke:#64748B}
+    .icon-bg{fill:#EEF2FF}
+    .icon-page{fill:#FFFFFF;stroke:#4F46E5}
+    .led-core{fill:#8B5CF6;transform-box:fill-box;transform-origin:center;animation:led-blink 1.6s ease-in-out infinite}
+    .led-halo{fill:#8B5CF6;transform-box:fill-box;transform-origin:center;animation:halo-blink 1.6s ease-in-out infinite}
+    @keyframes led-blink{
+      0%,100%{opacity:1;transform:scale(1)}
+      50%{opacity:.35;transform:scale(.82)}
+    }
+    @keyframes halo-blink{
+      0%,100%{opacity:.24;transform:scale(1)}
+      50%{opacity:.04;transform:scale(.72)}
+    }
+    @media (prefers-color-scheme:dark){
+      .card{fill:#11131A;stroke:#343948}
+      .title{fill:#F7FAFF}
+      .muted{stroke:#A8B3C7}
+      .icon-bg{fill:#1C2030}
+      .icon-page{fill:#151824;stroke:#67E8F9}
+      .led-core,.led-halo{fill:#67E8F9}
+    }
+    @media (prefers-reduced-motion:reduce){
+      .led-core,.led-halo{animation:none}
+      .led-halo{opacity:.16}
+    }
+  </style>
+
+  <rect class="card" x="1" y="1" width="328" height="58" rx="14" stroke-width="1.5"/>
+  <rect x="1" y="1" width="328" height="58" rx="14" fill="none" stroke="url(#accent)" stroke-width="1.5" opacity=".8"/>
+  <path d="M17 15h80" stroke="url(#accent)" stroke-width="2.5" stroke-linecap="round" opacity=".9" filter="url(#glow)"/>
+  <path d="M233 45h80" stroke="url(#accent)" stroke-width="2.5" stroke-linecap="round" opacity=".9" filter="url(#glow)"/>
+
+  <rect class="icon-bg" x="15" y="11" width="38" height="38" rx="10"/>
+  <path class="icon-page" d="M25.5 18.5h13l5 5v18h-18z" stroke-width="1.4" stroke-linejoin="round"/>
+  <path d="M38.5 18.5v5h5" fill="none" stroke="url(#accent)" stroke-width="1.4" stroke-linejoin="round"/>
+  <path class="muted" d="M30 29h9M30 33h9M30 37h6" fill="none" stroke-width="1.6" stroke-linecap="round"/>
+  <path d="m19.5 30 3-3m-3 3 3 3m25-6 3 3-3 3" fill="none" stroke="url(#accent)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <circle class="led-halo" cx="68" cy="30" r="7" opacity=".24"/>
+  <circle class="led-core" cx="68" cy="30" r="3.5"/>
+  <text class="title" x="81" y="36" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="19" font-weight="750" letter-spacing=".4">README Components</text>
+</svg>
