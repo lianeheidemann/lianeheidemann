@@ -27,6 +27,7 @@
 #### Languages
 <p>
 <img src="./assets/badge/python.svg?v=2" alt="Python" height="30"/>
+<img src="./assets/badge/javascript.svg?v=1" alt="JavaScript" height="30"/>
 <img src="./assets/badge/sql.svg?v=2" alt="SQL" height="30"/>
 </p>
 

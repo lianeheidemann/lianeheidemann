@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170" height="44" viewBox="0 0 170 44" role="img" aria-labelledby="title desc">
+  <title id="title">JavaScript</title><desc id="desc">JavaScript badge with automatic light and dark themes</desc>
+  <style>.bg{fill:#FFF7C7;stroke:#C7A900}.label{fill:#3A3200}@media (prefers-color-scheme:dark){.bg{fill:#211f0d;stroke:#F7DF1E}.label{fill:#fff9d6}}</style>
+  <rect class="bg" x=".75" y=".75" width="168.5" height="42.5" rx="10" stroke-width="1.5"/>
+  <rect x="16" y="10" width="24" height="24" rx="2" fill="#F7DF1E"/>
+  <text x="20.1" y="30.8" fill="#111" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="12.5" font-weight="800" letter-spacing="-.7">JS</text>
+  <text class="label" x="53" y="28" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="700" letter-spacing="1.4">JAVASCRIPT</text>
+</svg>
