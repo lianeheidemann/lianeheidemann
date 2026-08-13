@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="38" viewBox="0 0 220 38" role="img" aria-labelledby="title desc">
+  <title id="title">Under construction</title>
+  <desc id="desc">Theme-adaptive badge with animated bubbles and three dots appearing one at a time.</desc>
+
+  <style>
+    :root {
+      color-scheme: light dark;
+      --text: #F7F5FC;
+      --text-outline: #342C48;
+      --border-outer: #342C48;
+      --border-inner: #C5AAF0;
+      --bubble-start: #E8DEFC;
+      --bubble-end: #8B5FD3;
+      --bubble-small: #B99AE9;
+      --bubble-highlight: #FFFFFF;
+      --dots: #E8DEFC;
+      --dots-outline: #5E3A8C;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --text: #FFFFFF;
+        --text-outline: #261E3A;
+        --border-outer: #261E3A;
+        --border-inner: #DCCFF7;
+        --bubble-start: #F3E8FD;
+        --bubble-end: #A879E3;
+        --bubble-small: #DCCFF7;
+        --bubble-highlight: #FFFFFF;
+        --dots: #F3E8FD;
+        --dots-outline: #6D42A8;
+      }
+    }
+
+    .badge-border-outer { stroke: var(--border-outer); }
+    .badge-border-inner { stroke: var(--border-inner); }
+    .badge-text {
+      fill: var(--text);
+      stroke: var(--text-outline);
+      stroke-width: 2.4px;
+      paint-order: stroke fill;
+      stroke-linejoin: round;
+    }
+    .badge-dots {
+      fill: var(--dots);
+      stroke: var(--dots-outline);
+      stroke-width: 2.4px;
+      paint-order: stroke fill;
+    }
+    .bubble-small { fill: var(--bubble-small); }
+    .bubble-highlight { fill: var(--bubble-highlight); }
+  </style>
+
+  <defs>
+    <linearGradient id="bubble" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="var(--bubble-start)"/>
+      <stop offset="1" stop-color="var(--bubble-end)"/>
+    </linearGradient>
+  </defs>
+
+  <rect class="badge-border-outer" x="1.5" y="1.5" width="217" height="35" rx="17.5"
+        fill="none" stroke-width="3"/>
+  <rect class="badge-border-inner" x="2" y="2" width="216" height="34" rx="17"
+        fill="none" stroke-width="1.5"/>
+
+  <g aria-hidden="true">
+    <circle cx="18" cy="20" r="5.5" fill="url(#bubble)" opacity="0.9">
+      <animate attributeName="r" values="5;6;5" dur="2.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.72;1;0.72" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle class="bubble-small" cx="27" cy="12" r="3" opacity="0.75">
+      <animate attributeName="cy" values="13;10;13" dur="2.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.5;0.95;0.5" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle class="bubble-highlight" cx="14" cy="11" r="1.8" opacity="0.9"/>
+  </g>
+
+  <text class="badge-text" x="40" y="23.5"
+        font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace"
+        font-size="12.5"
+        font-weight="700">under construction<tspan class="badge-dots">.<animate attributeName="opacity" dur="2s" repeatCount="indefinite" calcMode="discrete" values="0;1;1;1;0" keyTimes="0;0.2;0.4;0.95;1"/></tspan><tspan class="badge-dots">.<animate attributeName="opacity" dur="2s" repeatCount="indefinite" calcMode="discrete" values="0;0;1;1;0" keyTimes="0;0.2;0.4;0.95;1"/></tspan><tspan class="badge-dots">.<animate attributeName="opacity" dur="2s" repeatCount="indefinite" calcMode="discrete" values="0;0;0;1;0" keyTimes="0;0.2;0.4;0.6;1"/></tspan></text>
+</svg>
