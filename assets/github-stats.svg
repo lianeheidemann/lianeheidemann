@@ -72,7 +72,7 @@
 
     <g transform="translate(612 50)">
       <rect width="246" height="96" rx="17" fill="#071426" fill-opacity="0.86" stroke="#8b5cf6" stroke-opacity="0.56"/>
-      <circle cx="123" cx="210" cy="10" r="5" fill="none" stroke="#c4b5fd" stroke-width="2"/>
+      <circle cx="210" cy="10" r="5" fill="none" stroke="#c4b5fd" stroke-width="2"/>
       <path d="M201 25c2.5-5.5 15.5-5.5 18 0" fill="none" stroke="#c4b5fd" stroke-width="2" stroke-linecap="round"/>
       <text x="123" y="57" class="value" fill="#f8fafc">17</text>
       <text x="123" y="82" class="label" fill="#c4b5fd">FOLLOWERS</text>
