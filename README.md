@@ -116,7 +116,7 @@ Four projects showcasing mobile development, game development, artificial intell
       <br><br><br>
       <a href="https://github.com/lianeheidemann/readme_components">
         <img src="assets/projects/logos/readme-components.svg" width="280" alt="README Components logo">
-        <p align="center"><img src="assets/badge_under-construction_v3.svg" width="200"></p>
+        <p align="center"><img src="assets/badge_under-construction_v3.svg?v=4" width="200" alt="Under construction"></p>
       </a>
       <h3>
         <a href="https://github.com/lianeheidemann/readme_components">README Components</a>
