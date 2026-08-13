@@ -86,7 +86,7 @@ def get_year_contributions(year: int) -> int | str:
 def render_svg(*, public_repos: int, stars: int, followers: int, contributions: int | str, year: int) -> str:
     return f'''<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title description">
   <title id="title">Liane Heidemann GitHub live stats</title>
-  <desc id="description">Automatically updated GitHub statistics for @{USERNAME}: public repositories, stars earned, followers and {year} contributions.</desc>
+  <desc id="description">Automatically updated GitHub statistics: public repositories, stars earned, followers and {year} contributions.</desc>
 
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
@@ -117,7 +117,6 @@ def render_svg(*, public_repos: int, stars: int, followers: int, contributions: 
     </filter>
     <style>
       .micro {{ font: 700 11px 'Segoe UI', Arial, sans-serif; letter-spacing: 4px; }}
-      .title {{ font: 800 24px 'Segoe UI', Arial, sans-serif; letter-spacing: 3px; }}
       .value {{ font: 800 34px 'Segoe UI', Arial, sans-serif; }}
       .label {{ font: 700 11px 'Segoe UI', Arial, sans-serif; letter-spacing: 1.8px; }}
       .meta {{ font: 600 11px 'Segoe UI', Arial, sans-serif; letter-spacing: 1.2px; }}
@@ -135,31 +134,29 @@ def render_svg(*, public_repos: int, stars: int, followers: int, contributions: 
   </rect>
 
   <g font-family="'Segoe UI',Arial,sans-serif" text-anchor="middle">
-    <text x="600" y="38" class="micro" fill="#8be9f5">GITHUB // LIVE METRICS</text>
-    <text x="600" y="72" class="title" fill="#f8fafc">@{USERNAME}</text>
-    <text x="600" y="94" class="meta" fill="#9fb0c7">AUTO-SYNC · GITHUB ACTIONS</text>
+    <text x="600" y="52" class="micro" fill="#8be9f5">GITHUB // LIVE METRICS</text>
   </g>
 
   <g fill="none" stroke="url(#flow)" stroke-linecap="round" filter="url(#glow)">
-    <path d="M105 112H1095" stroke-width="2" stroke-opacity="0.72"/>
+    <path d="M105 82H1095" stroke-width="2" stroke-opacity="0.72"/>
   </g>
 
   <g font-family="'Segoe UI',Arial,sans-serif" text-anchor="middle">
-    <g transform="translate(72 132)">
+    <g transform="translate(72 104)">
       <rect width="246" height="116" rx="20" fill="#071426" fill-opacity="0.86" stroke="#22d3ee" stroke-opacity="0.52"/>
       <circle cx="123" cy="27" r="5" fill="#22d3ee" filter="url(#glow)"><animate attributeName="opacity" values="0.45;1;0.45" dur="3.2s" repeatCount="indefinite"/></circle>
       <text x="123" y="68" class="value" fill="#f8fafc">{public_repos}</text>
       <text x="123" y="94" class="label" fill="#67e8f9">PUBLIC REPOS</text>
     </g>
 
-    <g transform="translate(342 132)">
+    <g transform="translate(342 104)">
       <rect width="246" height="116" rx="20" fill="#071426" fill-opacity="0.86" stroke="#60a5fa" stroke-opacity="0.52"/>
       <path d="M123 18l3.3 6.7 7.4 1.1-5.4 5.2 1.3 7.4-6.6-3.5-6.6 3.5 1.3-7.4-5.4-5.2 7.4-1.1z" fill="#93c5fd" opacity="0.9"/>
       <text x="123" y="68" class="value" fill="#f8fafc">{stars}</text>
       <text x="123" y="94" class="label" fill="#93c5fd">STARS EARNED</text>
     </g>
 
-    <g transform="translate(612 132)">
+    <g transform="translate(612 104)">
       <rect width="246" height="116" rx="20" fill="#071426" fill-opacity="0.86" stroke="#8b5cf6" stroke-opacity="0.56"/>
       <circle cx="123" cy="23" r="7" fill="none" stroke="#c4b5fd" stroke-width="2"/>
       <path d="M111 39c3-7 21-7 24 0" fill="none" stroke="#c4b5fd" stroke-width="2" stroke-linecap="round"/>
@@ -167,7 +164,7 @@ def render_svg(*, public_repos: int, stars: int, followers: int, contributions: 
       <text x="123" y="94" class="label" fill="#c4b5fd">FOLLOWERS</text>
     </g>
 
-    <g transform="translate(882 132)">
+    <g transform="translate(882 104)">
       <rect width="246" height="116" rx="20" fill="#071426" fill-opacity="0.86" stroke="#22d3ee" stroke-opacity="0.52"/>
       <path d="M113 23h20M123 13v20" stroke="#67e8f9" stroke-width="2.2" stroke-linecap="round" filter="url(#glow)"/>
       <text x="123" y="68" class="value" fill="#f8fafc">{contributions}</text>
@@ -176,7 +173,7 @@ def render_svg(*, public_repos: int, stars: int, followers: int, contributions: 
   </g>
 
   <g font-family="'Segoe UI',Arial,sans-serif" text-anchor="middle">
-    <text x="600" y="275" class="meta" fill="#718096">PUBLIC PROFILE DATA · REFRESHED WHEN METRICS CHANGE</text>
+    <text x="600" y="267" class="meta" fill="#718096">AUTO-SYNC · GITHUB ACTIONS</text>
   </g>
 </svg>
 '''
