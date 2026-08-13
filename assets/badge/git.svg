@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="44" viewBox="0 0 120 44" role="img" aria-labelledby="title desc" shape-rendering="geometricPrecision">
   <title id="title">Git</title>
-  <desc id="desc">Git badge with corrected logo and automatic light and dark themes</desc>
+  <desc id="desc">Git badge with refined Git mark and automatic light and dark themes</desc>
 
   <style>
     .bg { fill: #FFE5DE; stroke: #CF391F; }
@@ -13,18 +13,20 @@
 
   <rect class="bg" x=".75" y=".75" width="118.5" height="42.5" rx="10" stroke-width="1.5"/>
 
-  <!-- Corrected Git mark -->
-  <g transform="rotate(45 28 22)">
-    <rect x="16.5" y="10.5" width="23" height="23" rx="3.2" fill="#F05032"/>
+  <!-- Git mark, proportioned to match the familiar official silhouette -->
+  <g>
+    <rect x="17" y="11" width="22" height="22" rx="2.8"
+          fill="#F05032" transform="rotate(45 28 22)"/>
 
-    <g fill="none" stroke="#fff" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round">
-      <path d="M22.5 15.5V27.5C22.5 29.8 24.2 31 26 31"/>
-      <path d="M22.5 20.5H31.5V27.8"/>
+    <g fill="none" stroke="#fff" stroke-width="3.1" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M20.8 12.8 L26.2 18.2"/>
+      <path d="M26.2 18.2 L36.1 23.1"/>
+      <path d="M26.2 18.2 L26.2 31.0"/>
     </g>
 
-    <circle cx="22.5" cy="15.5" r="2.35" fill="#fff"/>
-    <circle cx="31.5" cy="20.5" r="2.35" fill="#fff"/>
-    <circle cx="31.5" cy="29.5" r="2.35" fill="#fff"/>
+    <circle cx="26.2" cy="18.2" r="3.1" fill="#fff"/>
+    <circle cx="36.1" cy="23.1" r="3.1" fill="#fff"/>
+    <circle cx="26.2" cy="31.0" r="3.1" fill="#fff"/>
   </g>
 
   <text class="label" x="53" y="28" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="700" letter-spacing="1.8">GIT</text>
