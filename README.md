@@ -47,4 +47,10 @@
 <img src="./assets/badge/google-cloud.svg?v=2" alt="Google Cloud" height="30"/>
 </p>
 
+## GitHub Stats
+
+<p align="center">
+  <img src="./assets/github-stats.svg?v=live" width="100%" alt="Live GitHub statistics for Liane Heidemann" />
+</p>
+
 <img width="1200" height="120" alt="Animated cyber divider" src="./assets/cyber-divider.svg?v=1" />
