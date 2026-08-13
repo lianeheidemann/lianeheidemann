@@ -51,9 +51,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-stats.svg?v=24-7-17-1299-2026-compact190">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/github-stats-light.svg?v=24-7-17-1299-2026-compact190">
-    <img src="./assets/github-stats-light.svg?v=24-7-17-1299-2026-compact190" width="100%" alt="Live GitHub statistics for Liane Heidemann" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-stats.svg?v=24-7-17-1290-2026-compact190-icons2">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-stats-light.svg?v=24-7-17-1290-2026-compact190-icons2">
+    <img src="./assets/github-stats-light.svg?v=24-7-17-1290-2026-compact190-icons2" width="100%" alt="Live GitHub statistics for Liane Heidemann" />
   </picture>
 </p>
 
