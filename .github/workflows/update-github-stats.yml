@@ -46,14 +46,14 @@ jobs:
           sed -i 's/translate(882 104)/translate(882 50)/' assets/github-stats.svg
           sed -i 's/height="116" rx="20"/height="96" rx="17"/g' assets/github-stats.svg
           sed -i 's/cy="27" r="5"/cy="18" r="4"/' assets/github-stats.svg
-          sed -i 's/M123 18l3.3 6.7 7.4 1.1-5.4 5.2 1.3 7.4-6.6-3.5-6.6 3.5 1.3-7.4-5.4-5.2 7.4-1.1z/M123 7l2.4 4.9 5.4.8-3.9 3.8.9 5.4-4.8-2.6-4.8 2.6.9-5.4-3.9-3.8 5.4-.8z/' assets/github-stats.svg
+          sed -i 's/M123 18l3.3 6.7 7.4 1.1-5.4 5.2 1.3 7.4-6.6-3.5-6.6 3.5 1.3-7.4-5.4-5.2 7.4-1.1z/M210 5l2.6 5.3 5.9.9-4.3 4.2 1 5.9-5.2-2.8-5.2 2.8 1-5.9-4.3-4.2 5.9-.9z/' assets/github-stats.svg
           sed -i 's/x="123" y="68" class="value"/x="123" y="57" class="value"/g' assets/github-stats.svg
           sed -i 's/x="123" y="94" class="label"/x="123" y="82" class="label"/g' assets/github-stats.svg
-          sed -i 's/cy="23" r="7"/cy="12" r="5"/' assets/github-stats.svg
-          sed -i 's/M111 39c3-7 21-7 24 0/M114 27c2.5-5.5 15.5-5.5 18 0/' assets/github-stats.svg
+          sed -i 's/cy="23" r="7"/cx="210" cy="10" r="5"/' assets/github-stats.svg
+          sed -i 's/M111 39c3-7 21-7 24 0/M201 25c2.5-5.5 15.5-5.5 18 0/' assets/github-stats.svg
           sed -i 's/M113 23h20M123 13v20/M113 18h20M123 8v20/' assets/github-stats.svg
           sed -i 's/x="600" y="267" class="meta"/x="600" y="171" class="meta"/' assets/github-stats.svg
-          sed -i 's/\(assets\/github-stats.svg?v=[^"]*\)"/\1-compact190"/' README.md
+          sed -i 's/\(assets\/github-stats.svg?v=[^"]*\)"/\1-compact190-icons2"/' README.md
 
       - name: Generate light-theme stats card
         run: |
