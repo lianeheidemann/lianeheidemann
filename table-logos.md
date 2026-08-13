@@ -26,6 +26,6 @@
   </tr>
   </table>
 
-  <sub>👉 <a href="https://www.linkedin.com/in/lianeheidemann/details/certifications/" target="_blank">Clique aqui para validar todas as certificações no LinkedIn</a></sub>
+  <sub>👉 <a href="https://www.linkedin.com/in/liane-f-heidemann/details/certifications/" target="_blank">Clique aqui para validar todas as certificações no LinkedIn</a></sub>
 
 </div>
