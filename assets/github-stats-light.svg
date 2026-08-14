@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-labelledby="title description">
+  <title id="title">Liane Heidemann GitHub live stats — light theme</title>
+  <desc id="description">Automatically updated GitHub statistics: public repositories, stars earned, followers and 2026 contributions.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="190" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F8FBFF"/>
+      <stop offset="0.5" stop-color="#EEF4FF"/>
+      <stop offset="1" stop-color="#E8F0FC"/>
+    </linearGradient>
+    <linearGradient id="flow" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="0.4" stop-color="#38bdf8"/>
+      <stop offset="0.68" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-160 0;160 0;-160 0" dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="core" cx="50%" cy="45%" r="58%">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.18"/>
+      <stop offset="0.52" stop-color="#3b82f6" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#F8FBFF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#0E7490" stroke-opacity="0.055">
+        <animateTransform attributeName="transform" type="translate" values="0 0;36 36;0 0" dur="24s" repeatCount="indefinite"/>
+      </path>
+    </pattern>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="3.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .micro { font: 700 11px 'Segoe UI', Arial, sans-serif; letter-spacing: 4px; }
+      .value { font: 800 34px 'Segoe UI', Arial, sans-serif; }
+      .label { font: 700 11px 'Segoe UI', Arial, sans-serif; letter-spacing: 1.8px; }
+      .meta { font: 600 11px 'Segoe UI', Arial, sans-serif; letter-spacing: 1.2px; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="190" rx="24" fill="url(#background)"/>
+  <rect width="1200" height="190" rx="24" fill="url(#grid)"/>
+  <ellipse cx="600" cy="92" rx="360" ry="118" fill="url(#core)">
+    <animate attributeName="rx" values="350;390;350" dur="10s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <rect x="8" y="8" width="1184" height="174" rx="20" fill="none" stroke="url(#flow)" stroke-width="2" stroke-opacity="0.76" stroke-dasharray="500 110" stroke-linecap="round">
+    <animate attributeName="stroke-dashoffset" from="0" to="-610" dur="20s" repeatCount="indefinite"/>
+  </rect>
+
+  <g font-family="'Segoe UI',Arial,sans-serif" text-anchor="middle">
+    <text x="600" y="27" class="micro" fill="#0E7490">GITHUB // LIVE METRICS</text>
+  </g>
+
+  <g fill="none" stroke="url(#flow)" stroke-linecap="round" filter="url(#glow)">
+    <path d="M105 42H1095" stroke-width="2" stroke-opacity="0.72"/>
+  </g>
+
+  <g font-family="'Segoe UI',Arial,sans-serif" text-anchor="middle">
+    <g transform="translate(72 50)">
+      <rect width="246" height="96" rx="17" fill="#FFFFFF" fill-opacity="0.86" stroke="#22d3ee" stroke-opacity="0.52"/>
+      <circle cx="123" cy="18" r="4" fill="#22d3ee" filter="url(#glow)"><animate attributeName="opacity" values="0.45;1;0.45" dur="3.2s" repeatCount="indefinite"/></circle>
+      <text x="123" y="57" class="value" fill="#0F172A">24</text>
+      <text x="123" y="82" class="label" fill="#0E7490">PUBLIC REPOS</text>
+    </g>
+
+    <g transform="translate(342 50)">
+      <rect width="246" height="96" rx="17" fill="#FFFFFF" fill-opacity="0.86" stroke="#60a5fa" stroke-opacity="0.52"/>
+      <path d="M123 7l2.4 4.9 5.4.8-3.9 3.8.9 5.4-4.8-2.6-4.8 2.6.9-5.4-3.9-3.8 5.4-.8z" fill="#2563EB" opacity="0.9"/>
+      <text x="123" y="57" class="value" fill="#0F172A">10</text>
+      <text x="123" y="82" class="label" fill="#2563EB">STARS EARNED</text>
+    </g>
+
+    <g transform="translate(612 50)">
+      <rect width="246" height="96" rx="17" fill="#FFFFFF" fill-opacity="0.86" stroke="#8b5cf6" stroke-opacity="0.56"/>
+      <circle cx="123" cy="12" r="5" fill="none" stroke="#7C3AED" stroke-width="2"/>
+      <path d="M114 27c2.5-5.5 15.5-5.5 18 0" fill="none" stroke="#7C3AED" stroke-width="2" stroke-linecap="round"/>
+      <text x="123" y="57" class="value" fill="#0F172A">17</text>
+      <text x="123" y="82" class="label" fill="#7C3AED">FOLLOWERS</text>
+    </g>
+
+    <g transform="translate(882 50)">
+      <rect width="246" height="96" rx="17" fill="#FFFFFF" fill-opacity="0.86" stroke="#22d3ee" stroke-opacity="0.52"/>
+      <path d="M113 18h20M123 8v20" stroke="#0E7490" stroke-width="2.2" stroke-linecap="round" filter="url(#glow)"/>
+      <text x="123" y="57" class="value" fill="#0F172A">1400</text>
+      <text x="123" y="82" class="label" fill="#0E7490">CONTRIBUTIONS 2026</text>
+    </g>
+  </g>
+
+  <g font-family="'Segoe UI',Arial,sans-serif" text-anchor="middle">
+    <text x="600" y="171" class="meta" fill="#64748B">AUTO-SYNC · GITHUB ACTIONS</text>
+  </g>
+</svg>
