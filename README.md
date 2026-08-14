@@ -124,7 +124,7 @@ Four projects showcasing mobile development, game development, artificial intell
       <p>
         A reusable collection of badges, icons, images, widgets, and templates for polished GitHub READMEs.
       </p>
-      <p><code>Markdown</code> <code>SVG</code> <code>Shields.io</code></p>
+      <p><code>Markdown</code> <code>SVG</code> <code>badge</code> <code>icon</code> <code>template</code></p>
       <p><a href="https://github.com/lianeheidemann/readme_components"><strong>View repository →</strong></a></p>
       <br>
     </td>
