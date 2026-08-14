@@ -4,7 +4,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/liane-dev-portal.svg?v=1">
   <source media="(prefers-color-scheme: light)" srcset="./assets/liane-dev-portal-light.svg?v=1">
-  <img width="1200" alt="Liane Heidemann — Computer Science, Software Development, AI and Data" src="./assets/liane-dev-portal-light.svg?v=1">
+  <img width="1200" alt="Liane Heidemann — Computer Science, Software Development, AI and Data" src="./assets/liane-dev-portal-light.svg?v=1">b
 </picture>
 
 <h1 align="center">Hi there! <img src="./assets/waving-hand-v3.svg?v=2" width="36" alt="Waving hand" /></h1>
