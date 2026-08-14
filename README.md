@@ -62,7 +62,7 @@ Four projects showcasing mobile development, game development, artificial intell
       <p>
         Android app with schedules, maps, news, notifications, favorites, and an AI assistant for the Círio of Nazaré.
       </p>
-      <p><code>Flutter</code> <code>Dart</code> <code>Firebase</code> <code>Gemini</code></p>
+      <p><code>Flutter</code> <code>Dart</code> <code>Firebase</code> <code>Gemini</code> <code>Mobile</code></p>
       <p><a href="https://github.com/lianeheidemann/cirioapp_v2"><strong>View repository →</strong></a></p>
       <br>
     </td>
@@ -77,7 +77,7 @@ Four projects showcasing mobile development, game development, artificial intell
       <p>
         A 2D tennis game with progressive difficulty, responsive controls, and a downloadable Windows executable.
       </p>
-      <p><code>Python</code> <code>Pygame</code></p>
+      <p><code>Python</code> <code>Pygame</code> <code></p>
       <p><a href="https://github.com/lianeheidemann/tennis-fun-game"><strong>View repository →</strong></a></p>
       <br>
     </td>
@@ -94,7 +94,7 @@ Four projects showcasing mobile development, game development, artificial intell
       <p>
         Responsive web workspace with six specialized AI workflows, contextual conversations, and local history.
       </p>
-      <p><code>Python</code> <code>Flask</code> <code>JavaScript</code> <code>Gemini</code></p>
+      <p><code>Python</code> <code>Flask</code> <code>JavaScript</code> <code>Gemini</code> <code>IA</code></p>
       <p><a href="https://github.com/lianeheidemann/ai-prompt-studio"><strong>View repository →</strong></a></p>
       <br>
     </td>
