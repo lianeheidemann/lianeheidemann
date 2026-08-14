@@ -86,7 +86,7 @@ Four projects showcasing mobile development, game development, artificial intell
     <td align="center" width="50%" valign="top">
       <br>
       <a href="https://github.com/lianeheidemann/ai-prompt-studio">
-        <img src="assets/projects/logos/ia-prompt-studio.svg" width="90" alt="AI Prompt Studio logo">
+        <img src="assets/projects/logos/ia-prompt-studio.svg" width="100" alt="AI Prompt Studio logo">
       </a>
       <h3>
         <a href="https://github.com/lianeheidemann/ai-prompt-studio">AI Prompt Studio</a>
@@ -98,8 +98,7 @@ Four projects showcasing mobile development, game development, artificial intell
       <p><a href="https://github.com/lianeheidemann/ai-prompt-studio"><strong>View repository →</strong></a></p>
       <br>
     </td>
-    <td align="center" width="50%" valign="top">
-      <br><br>
+    <td align="center" width="50%" valign="top"><br><br>
       <a href="https://github.com/lianeheidemann/readme_components">
         <img src="assets/projects/logos/readme-components.svg" width="250" alt="README Components logo">
         <p align="center"><img src="assets/badge/badge_under-construction_v3.svg?v=4" width="180" alt="Under construction"></p>
