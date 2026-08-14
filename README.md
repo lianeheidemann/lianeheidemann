@@ -46,7 +46,7 @@
 <img src="./assets/badge/google-cloud.svg?v=2" alt="Google Cloud" height="30"/>
 </p>
 
-<img src="./assets/location-divider.svg?v=1" alt="Animated cyan and violet divider" width="1000" height="100"/>
+<img src="./assets/location-divider-rotated-180.svg?v=1" alt="Animated cyan and violet divider" width="1000" height="100"/>
 
 <p align="center">
   <picture>
