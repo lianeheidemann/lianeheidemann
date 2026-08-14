@@ -62,7 +62,7 @@ Four projects showcasing mobile development, game development, artificial intell
       <p>
         Android app with schedules, maps, news, notifications, favorites, and an AI assistant for the Círio of Nazaré.
       </p>
-      <p><code>Flutter</code> <code>Dart</code> <code>Firebase</code> <code>Gemini</code> <code>Mobile</code></p>
+      <p><code>Flutter</code> <code>Dart</code> <code>Firebase</code> <code>Gemini</code> <code>Mobile</code> <code>IA</code></p>
       <p><a href="https://github.com/lianeheidemann/cirioapp_v2"><strong>View repository →</strong></a></p>
       <br>
     </td>
