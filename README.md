@@ -48,18 +48,6 @@
 
 <img src="./assets/image/location-divider-rotated-180.svg?v=1" alt="Animated cyan and violet divider" width="1000" height="100"/>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/image/github-stats.svg?v=24-10-18-1382-2026-compact190">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/image/github-stats-light.svg?v=24-10-18-1382-2026-compact190">
-    <img src="./assets/image/github-stats-light.svg?v=24-10-18-1382-2026-compact190" width="100%" alt="Live GitHub statistics for Liane Heidemann" />
-  </picture>
-</p>
-
-<img width="1200" height="120" alt="Animated cyber divider" src="./assets/image/cyber-divider.svg?v=1" /><br><br>
-
-
-
 ## Featured Projects
 Four projects showcasing mobile development, game development, artificial intelligence, and developer tools.
 
@@ -130,3 +118,15 @@ Four projects showcasing mobile development, game development, artificial intell
     </td>
   </tr>
 </table>
+
+<img src="./assets/image/location-divider.svg?v=1" alt="Animated cyan and violet divider" width="1000" height="100"/></p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/image/github-stats.svg?v=24-10-18-1382-2026-compact190">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/image/github-stats-light.svg?v=24-10-18-1382-2026-compact190">
+    <img src="./assets/image/github-stats-light.svg?v=24-10-18-1382-2026-compact190" width="100%" alt="Live GitHub statistics for Liane Heidemann" />
+  </picture>
+</p>
+
+<img width="1200" height="120" alt="Animated cyber divider" src="./assets/image/cyber-divider.svg?v=1" /><br><br>
