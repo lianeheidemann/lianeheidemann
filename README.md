@@ -54,7 +54,7 @@ Four projects showcasing mobile development, game development, artificial intell
     <td align="center" width="50%" valign="top">
       <br>
       <a href="https://github.com/lianeheidemann/cirioapp_v2">
-        <img src="assets/projects/logos/cirioapp.png" width="110" alt="CírioApp logo">
+        <img src="assets/projects/logos/cirioapp.png" width="90" alt="CírioApp logo">
       </a>
       <h3>
         <a href="https://github.com/lianeheidemann/cirioapp_v2">CírioApp</a>
@@ -69,7 +69,7 @@ Four projects showcasing mobile development, game development, artificial intell
     <td align="center" width="50%" valign="top">
       <br>
       <a href="https://github.com/lianeheidemann/tennis-fun-game">
-        <img src="assets/projects/logos/tenisfun-4.svg" width="300" alt="TenisFun logo">
+        <img src="assets/projects/logos/tenisfun-4.svg" width="250" alt="TenisFun logo">
       </a>
       <h3>
         <a href="https://github.com/lianeheidemann/tennis-fun-game">TenisFun</a>
@@ -86,7 +86,7 @@ Four projects showcasing mobile development, game development, artificial intell
     <td align="center" width="50%" valign="top">
       <br>
       <a href="https://github.com/lianeheidemann/ai-prompt-studio">
-        <img src="assets/projects/logos/ia-prompt-studio.svg" width="100" alt="AI Prompt Studio logo">
+        <img src="assets/projects/logos/ia-prompt-studio.svg" width="90" alt="AI Prompt Studio logo">
       </a>
       <h3>
         <a href="https://github.com/lianeheidemann/ai-prompt-studio">AI Prompt Studio</a>
@@ -101,7 +101,7 @@ Four projects showcasing mobile development, game development, artificial intell
     <td align="center" width="50%" valign="top">
       <br><br>
       <a href="https://github.com/lianeheidemann/readme_components">
-        <img src="assets/projects/logos/readme-components.svg" width="280" alt="README Components logo">
+        <img src="assets/projects/logos/readme-components.svg" width="250" alt="README Components logo">
         <p align="center"><img src="assets/badge/badge_under-construction_v3.svg?v=4" width="180" alt="Under construction"></p>
       </a>
       <h3>
