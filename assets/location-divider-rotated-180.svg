@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" width="1000" height="100" role="img" aria-labelledby="title desc" shape-rendering="geometricPrecision">
+  <title id="title">Animated double-line divider rotated 180 degrees</title>
+  <desc id="desc">Two refined horizontal lines with cyan and violet highlights moving smoothly in opposite directions, adapted to light and dark themes, rotated 180 degrees.</desc>
+
+  <style>
+    .track {
+      stroke: #cbd5e1;
+      stroke-width: 2;
+      stroke-linecap: round;
+    }
+
+    .highlight {
+      fill: none;
+      stroke-width: 3;
+      stroke-linecap: round;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      .track {
+        stroke: #1f2937;
+      }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .highlight animate {
+        display: none;
+      }
+    }
+  </style>
+
+  <g transform="rotate(180 500 50)">
+    <path class="track" d="M0 40 H1000"/>
+    <path class="track" d="M0 60 H1000"/>
+
+    <path class="highlight" d="M0 40 H1000" stroke="#22d3ee" stroke-dasharray="120 1200">
+      <animate attributeName="stroke-dashoffset" values="1320;0" dur="20s" calcMode="linear" repeatCount="indefinite"/>
+    </path>
+
+    <path class="highlight" d="M0 60 H1000" stroke="#8b5cf6" stroke-dasharray="120 1200">
+      <animate attributeName="stroke-dashoffset" values="0;1320" dur="20s" calcMode="linear" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>
