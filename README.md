@@ -2,12 +2,12 @@
 <!--                       HEADER                           -->
 <!-- ====================================================== -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/liane-dev-portal.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/liane-dev-portal-light.svg?v=1">
-  <img width="1200" alt="Liane Heidemann — Computer Science, Software Development, AI and Data" src="./assets/liane-dev-portal-light.svg?v=1">b
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/image/liane-dev-portal.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/image/liane-dev-portal-light.svg?v=1">
+  <img width="1200" alt="Liane Heidemann — Computer Science, Software Development, AI and Data" src="./assets/image/liane-dev-portal-light.svg?v=1">
 </picture>
 
-<h1 align="center">Hi there! <img src="./assets/waving-hand-v3.svg?v=2" width="36" alt="Waving hand" /></h1>
+<h1 align="center">Hi there! <img src="./assets/icon/waving-hand-v3.svg?v=2" width="36" alt="Waving hand" /></h1>
 <p align="center">
 <a href="mailto:liane22070222@aluno.cesupa.br">
 <img src="./assets/badge/gmail.svg?v=2" alt="Gmail" height="30"/>
@@ -19,7 +19,7 @@
 <p align="center">
 🌐 Belém - PA, Brazil <br>
   
-<img src="./assets/location-divider.svg?v=1" alt="Animated cyan and violet divider" width="1000" height="100"/></p>
+<img src="./assets/image/location-divider.svg?v=1" alt="Animated cyan and violet divider" width="1000" height="100"/></p>
 
 ## Technologies
 
@@ -46,17 +46,17 @@
 <img src="./assets/badge/google-cloud.svg?v=2" alt="Google Cloud" height="30"/>
 </p>
 
-<img src="./assets/location-divider-rotated-180.svg?v=1" alt="Animated cyan and violet divider" width="1000" height="100"/>
+<img src="./assets/image/location-divider-rotated-180.svg?v=1" alt="Animated cyan and violet divider" width="1000" height="100"/>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-stats.svg?v=24-10-18-1382-2026-compact190">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/github-stats-light.svg?v=24-10-18-1382-2026-compact190">
-    <img src="./assets/github-stats-light.svg?v=24-10-18-1382-2026-compact190" width="100%" alt="Live GitHub statistics for Liane Heidemann" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/image/github-stats.svg?v=24-10-18-1382-2026-compact190">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/image/github-stats-light.svg?v=24-10-18-1382-2026-compact190">
+    <img src="./assets/image/github-stats-light.svg?v=24-10-18-1382-2026-compact190" width="100%" alt="Live GitHub statistics for Liane Heidemann" />
   </picture>
 </p>
 
-<img width="1200" height="120" alt="Animated cyber divider" src="./assets/cyber-divider.svg?v=1" /><br><br>
+<img width="1200" height="120" alt="Animated cyber divider" src="./assets/image/cyber-divider.svg?v=1" /><br><br>
 
 
 
@@ -116,7 +116,7 @@ Four projects showcasing mobile development, game development, artificial intell
       <br><br>
       <a href="https://github.com/lianeheidemann/readme_components">
         <img src="assets/projects/logos/readme-components.svg" width="280" alt="README Components logo">
-        <p align="center"><img src="assets/badge_under-construction_v3.svg?v=4" width="180" alt="Under construction"></p>
+        <p align="center"><img src="assets/badge/badge_under-construction_v3.svg?v=4" width="180" alt="Under construction"></p>
       </a>
       <h3>
         <a href="https://github.com/lianeheidemann/readme_components">README Components</a>
