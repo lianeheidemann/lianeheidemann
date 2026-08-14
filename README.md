@@ -77,7 +77,7 @@ Four projects showcasing mobile development, game development, artificial intell
       <p>
         A 2D tennis game with progressive difficulty, responsive controls, and a downloadable Windows executable.
       </p>
-      <p><code>Python</code> <code>Pygame</code> <code></p>
+      <p><code>Python</code> <code>Pygame</code></p>
       <p><a href="https://github.com/lianeheidemann/tennis-fun-game"><strong>View repository →</strong></a></p>
       <br>
     </td>
