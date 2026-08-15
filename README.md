@@ -10,7 +10,7 @@
   <a href="mailto:lianeheidemann92@gmail.com">
   <img src="./assets/badge/gmail.svg?v=2" alt="Gmail" height="30"/>
   </a>
-  <a href="https://www.linkedin.com/in/liane-f-heidemann-495707352">
+  <a href="https://www.linkedin.com/in/liane-f-heidemann">
   <img src="./assets/badge/linkedin.svg?v=2" alt="LinkedIn" height="30"/>
   </a>
 </p>
