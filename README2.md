@@ -4,8 +4,6 @@
   <img width="1200" alt="Liane Heidemann — Computer Science, Software Development, AI and Data" src="./assets/image/liane-dev-portal-light.svg?v=1">
 </picture>
 
-<h1 align="center">Liane Heidemann</h1>
-
 <p align="center">
   Computer Science student focused on Software Development, Artificial Intelligence and Data.<br>
   Belém, Pará, Brazil.
