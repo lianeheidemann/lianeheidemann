@@ -22,7 +22,7 @@
 I'm Liane, 
 a Computer Science student from Brazil,<br>
 passionate about software development, AI, data,<br>
-and building useful projects.
+and building useful projects 💙
 
 Here you'll find a mix of apps, experiments,<br>
 automations, and projects I'm developing while <br>
