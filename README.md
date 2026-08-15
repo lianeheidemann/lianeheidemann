@@ -28,6 +28,8 @@ Here you'll find a mix of apps, experiments,<br>
 automations, and projects I'm developing while <br>
 learning and growing in tech. 🦾
 
+<img src="./assets/image/location-divider-rotated-180.svg?v=1" alt="Animated cyan and violet divider" width="1000" height="100"/>
+
 ## Technologies
 
 #### Languages
@@ -53,7 +55,7 @@ learning and growing in tech. 🦾
   <img src="./assets/badge/google-cloud.svg?v=2" alt="Google Cloud" height="30"/>
 </p>
 
-<img src="./assets/image/location-divider-rotated-180.svg?v=1" alt="Animated cyan and violet divider" width="1000" height="100"/>
+<img src="./assets/image/location-divider.svg?v=1" alt="Animated cyan and violet divider" width="1000" height="100"/></p>
 
 ## Featured Projects
 Four projects showcasing mobile development, game development, artificial intelligence, and developer tools.
