@@ -7,7 +7,7 @@
 <h1 align="center">Hi there! <img src="./assets/icon/waving-hand-v3.svg?v=2" width="36" alt="Waving hand" /></h1>
 
 <p align="center">
-  <a href="mailto:liane22070222@aluno.cesupa.br">
+  <a href="mailto:lianeheidemann92@gmail.com">
   <img src="./assets/badge/gmail.svg?v=2" alt="Gmail" height="30"/>
   </a>
   <a href="https://www.linkedin.com/in/liane-f-heidemann-495707352">
