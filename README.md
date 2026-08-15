@@ -8,7 +8,7 @@
 
 <p align="center">
   Computer Science student · Software Development, Artificial Intelligence and Data<br>
-  Belém, Pará — Brazil
+  🌐 Belém, Pará — Brazil
 </p>
 
 <p align="center">
