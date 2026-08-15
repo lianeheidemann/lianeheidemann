@@ -26,7 +26,7 @@ and building useful projects.
 
 Here you'll find a mix of apps, experiments,<br>
 automations, and projects I'm developing while <br>
-learning and growing in tech. 🚀
+learning and growing in tech. 🦾
 
 ## Technologies
 
