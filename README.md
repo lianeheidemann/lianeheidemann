@@ -19,6 +19,15 @@
 🌐 Belém - PA, Brazil <br>
 <img src="./assets/image/location-divider.svg?v=1" alt="Animated cyan and violet divider" width="1000" height="100"/></p>
 
+I'm Liane, 
+a Computer Science student from Brazil,<br>
+passionate about software development, AI, data,<br>
+and building useful projects.
+
+Here you'll find a mix of apps, experiments,<br>
+automations, and projects I'm developing while <br>
+learning and growing in tech. 🚀
+
 ## Technologies
 
 #### Languages
