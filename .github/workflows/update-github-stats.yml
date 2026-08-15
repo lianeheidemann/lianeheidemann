@@ -31,68 +31,15 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/update-github-stats.py
 
-      - name: Compact stats card
-        run: |
-          sed -i 's/height="300" viewBox="0 0 1200 300"/height="190" viewBox="0 0 1200 190"/' assets/github-stats.svg
-          sed -i 's/x2="1200" y2="300"/x2="1200" y2="190"/' assets/github-stats.svg
-          sed -i 's/width="1200" height="300" rx="30"/width="1200" height="190" rx="24"/g' assets/github-stats.svg
-          sed -i 's/cx="600" cy="145" rx="360" ry="190"/cx="600" cy="92" rx="360" ry="118"/' assets/github-stats.svg
-          sed -i 's/width="1184" height="284" rx="26"/width="1184" height="174" rx="20"/' assets/github-stats.svg
-          sed -i 's/x="600" y="52" class="micro"/x="600" y="27" class="micro"/' assets/github-stats.svg
-          sed -i 's/M105 82H1095/M105 42H1095/' assets/github-stats.svg
-          sed -i 's/translate(72 104)/translate(72 50)/' assets/github-stats.svg
-          sed -i 's/translate(342 104)/translate(342 50)/' assets/github-stats.svg
-          sed -i 's/translate(612 104)/translate(612 50)/' assets/github-stats.svg
-          sed -i 's/translate(882 104)/translate(882 50)/' assets/github-stats.svg
-          sed -i 's/height="116" rx="20"/height="96" rx="17"/g' assets/github-stats.svg
-          sed -i 's/cy="27" r="5"/cy="18" r="4"/' assets/github-stats.svg
-          sed -i 's/M123 18l3.3 6.7 7.4 1.1-5.4 5.2 1.3 7.4-6.6-3.5-6.6 3.5 1.3-7.4-5.4-5.2 7.4-1.1z/M123 7l2.4 4.9 5.4.8-3.9 3.8.9 5.4-4.8-2.6-4.8 2.6.9-5.4-3.9-3.8 5.4-.8z/' assets/github-stats.svg
-          sed -i 's/x="123" y="68" class="value"/x="123" y="57" class="value"/g' assets/github-stats.svg
-          sed -i 's/x="123" y="94" class="label"/x="123" y="82" class="label"/g' assets/github-stats.svg
-          sed -i 's/cy="23" r="7"/cy="12" r="5"/' assets/github-stats.svg
-          sed -i 's/M111 39c3-7 21-7 24 0/M114 27c2.5-5.5 15.5-5.5 18 0/' assets/github-stats.svg
-          sed -i 's/M113 23h20M123 13v20/M113 18h20M123 8v20/' assets/github-stats.svg
-          sed -i 's/x="600" y="267" class="meta"/x="600" y="171" class="meta"/' assets/github-stats.svg
-          sed -i 's/\(assets\/github-stats.svg?v=[^"]*\)"/\1-compact190"/' README.md
-
-      - name: Generate light-theme stats card
-        run: |
-          python - <<'PY'
-          from pathlib import Path
-
-          src = Path('assets/github-stats.svg').read_text(encoding='utf-8')
-          replacements = {
-              '#040817': '#F8FBFF',
-              '#091224': '#EEF4FF',
-              '#0b1020': '#E8F0FC',
-              '#071426': '#FFFFFF',
-              '#f8fafc': '#0F172A',
-              '#8be9f5': '#0E7490',
-              '#718096': '#64748B',
-              '#67e8f9': '#0E7490',
-              '#93c5fd': '#2563EB',
-              '#c4b5fd': '#7C3AED',
-          }
-          for old, new in replacements.items():
-              src = src.replace(old, new)
-          src = src.replace('GitHub live stats</title>', 'GitHub live stats — light theme</title>')
-          Path('assets/github-stats-light.svg').write_text(src, encoding='utf-8')
-          PY
-
-          cache_key=$(grep -o 'github-stats.svg?v=[^" ]*' README.md | head -1 | sed 's/.*?v=//')
-          if [ -n "$cache_key" ]; then
-            sed -i "s|github-stats-light.svg?v=[^\" ]*|github-stats-light.svg?v=${cache_key}|g" README.md
-          fi
-
       - name: Commit updated stats
         run: |
-          if [ -z "$(git status --porcelain -- assets/github-stats.svg assets/github-stats-light.svg README.md)" ]; then
+          if [ -z "$(git status --porcelain -- assets/image/github-stats.svg assets/image/github-stats-light.svg README*.md)" ]; then
             echo "GitHub stats are already current."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/github-stats.svg assets/github-stats-light.svg README.md
+          git add assets/image/github-stats.svg assets/image/github-stats-light.svg README*.md
           git commit -m "chore: refresh GitHub profile stats"
           git push

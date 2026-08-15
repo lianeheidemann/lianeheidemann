@@ -169,9 +169,9 @@ taught me to debug patiently and to think about the person on the other side of 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/image/github-stats.svg?v=24-10-18-1382-2026-compact190">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/image/github-stats-light.svg?v=24-10-18-1382-2026-compact190">
-    <img src="./assets/image/github-stats-light.svg?v=24-10-18-1382-2026-compact190" width="100%" alt="Live GitHub statistics for Liane Heidemann" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/image/github-stats.svg?v=25-10-18-1403-2026">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/image/github-stats-light.svg?v=25-10-18-1403-2026">
+    <img src="./assets/image/github-stats-light.svg?v=25-10-18-1403-2026" width="100%" alt="Live GitHub statistics for Liane Heidemann" />
   </picture>
 </p>
 
