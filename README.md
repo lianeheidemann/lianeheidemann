@@ -109,21 +109,21 @@ Four projects showcasing mobile development, game development, artificial intell
       <p><a href="https://github.com/lianeheidemann/ai-prompt-studio"><strong>View repository →</strong></a></p>
       <br>
     </td>
-    <td align="center" width="50%" valign="top"><br><br>
-      <a href="https://github.com/lianeheidemann/readme_components">
-        <img src="assets/projects/logos/readme-components.svg" width="250" alt="README Components logo">
-        <p align="center"><img src="assets/badge/badge_under-construction_v3.svg?v=4" width="180" alt="Under construction"></p>
-      </a>
-      <h3>
-        <a href="https://github.com/lianeheidemann/readme_components">README Components</a>
-      </h3>
-      <p>
-        A reusable collection of badges, icons, images, widgets, and templates for polished GitHub READMEs.
-      </p>
-      <p><code>Markdown</code> <code>SVG</code> <code>badge</code> <code>icon</code> <code>template</code></p>
-      <p><a href="https://github.com/lianeheidemann/readme_components"><strong>View repository →</strong></a></p>
-      <br>
-    </td>
+    <td align="center" width="50%" valign="top">
+  <br>
+  <a href="https://github.com/lianeheidemann/video-to-gif">
+    <img src="assets/projects/logos/video-to-gif.png" width="90" alt="Video to GIF logo">
+  </a>
+  <h3>
+    <a href="https://github.com/lianeheidemann/video-to-gif">Video to GIF</a>
+  </h3>
+  <p>
+    Android app that converts videos to GIF with trimming, crop, resolution and frame controls, plus file-size estimation before conversion.
+  </p>
+  <p><code>Flutter</code> <code>Dart</code> <code>FFmpeg</code> <code>Android</code> <code>Mobile</code> <code>Tests</code></p>
+  <p><a href="https://github.com/lianeheidemann/video-to-gif"><strong>View repository →</strong></a></p>
+  <br>
+</td>
   </tr>
 </table><br>
 
