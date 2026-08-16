@@ -110,7 +110,7 @@ Four projects showcasing mobile development, game development, artificial intell
       <br>
     </td>
     <td align="center" width="50%" valign="top">
-  <br>
+     <br>
   <a href="https://github.com/lianeheidemann/video-to-gif">
     <img src="assets/projects/logos/video-to-gif.png" width="90" alt="Video to GIF logo">
   </a>
