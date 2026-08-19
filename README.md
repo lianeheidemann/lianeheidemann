@@ -35,7 +35,7 @@ learning and growing in tech. 🦾
 <img src="./assets/image/location-divider-rotated-180.svg?v=1" alt="Animated cyan and violet divider" width="1000" height="100">
 
 <p>
-  <strong><big><big>Technologies</big></big></strong>
+  <strong><big><big>TECHNOLOGIES</big></big></strong>
 </p><br>
 
 <p>
@@ -73,7 +73,7 @@ learning and growing in tech. 🦾
 <img src="./assets/image/location-divider.svg?v=1" alt="Animated cyan and violet divider" width="1000" height="100">
 
 <p>
-  <strong><big><big>Featured Projects</big></big></strong>
+  <strong><big><big>FEATURED PROJECTS</big></big></strong>
 </p><br>
 
 Four projects showcasing mobile development, game development, artificial intelligence, and developer tools.
