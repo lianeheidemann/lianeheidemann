@@ -36,7 +36,7 @@ learning and growing in tech. 🦾
 
 <p>
   <strong><big><big>TECHNOLOGIES</big></big></strong>
-</p><br>
+</p>
 
 <p>
   Languages
@@ -74,7 +74,7 @@ learning and growing in tech. 🦾
 
 <p>
   <strong><big><big>FEATURED PROJECTS</big></big></strong>
-</p><br>
+</p>
 
 Four projects showcasing mobile development, game development, artificial intelligence, and developer tools.
 
