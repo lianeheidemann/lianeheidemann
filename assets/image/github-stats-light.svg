@@ -81,7 +81,7 @@
     <g transform="translate(882 50)">
       <rect width="246" height="96" rx="17" fill="#FFFFFF" fill-opacity="0.86" stroke="#22d3ee" stroke-opacity="0.52"/>
       <path d="M113 18h20M123 8v20" stroke="#0E7490" stroke-width="2.2" stroke-linecap="round" filter="url(#glow)"/>
-      <text x="123" y="57" class="value" fill="#0F172A">1801</text>
+      <text x="123" y="57" class="value" fill="#0F172A">1802</text>
       <text x="123" y="82" class="label" fill="#0E7490">CONTRIBUTIONS 2026</text>
     </g>
   </g>
