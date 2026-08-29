@@ -101,6 +101,9 @@ Four projects showcasing mobile development, game development, artificial intell
       <br>
     </td>
   </tr>
+</table>
+
+<table>
   <tr>
     <td align="center" width="50%" valign="top">
       <br>
