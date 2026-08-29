@@ -61,6 +61,15 @@ learning and growing in tech. 🦾
 </p>
 
 <p>
+  Mobile &amp; Backend
+</p>
+
+<p>
+  <img src="./assets/badge/flutter.svg?v=1" alt="Flutter" height="30">
+  <img src="./assets/badge/firebase.svg?v=1" alt="Firebase" height="30">
+</p>
+
+<p>
   Tools
 </p>
 

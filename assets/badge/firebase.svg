@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="168" height="44" viewBox="0 0 168 44" role="img" aria-labelledby="title desc">
+  <title id="title">Firebase</title><desc id="desc">Firebase badge with automatic light and dark themes</desc>
+  <defs>
+    <linearGradient id="fb" x1="16" y1="6" x2="36" y2="35" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFCA28"/>
+      <stop offset="1" stop-color="#FFA000"/>
+    </linearGradient>
+  </defs>
+  <style>.bg{fill:#FFECC7;stroke:#C77700}.label{fill:#5A3300}@media (prefers-color-scheme:dark){.bg{fill:#241a08;stroke:#FFCA28}.label{fill:#fff6e0}}</style>
+  <rect class="bg" x=".75" y=".75" width="166.5" height="42.5" rx="10" stroke-width="1.5"/>
+  <path d="M26 6C20 13 16 19 16 25a10 10 0 0 0 20 0c0-8-5-13-10-19z" fill="url(#fb)"/>
+  <path d="M26 15c-3 4-5 7-5 10a5 5 0 0 0 10 0c0-4-2-6-5-10z" fill="#FFE082"/>
+  <text class="label" x="53" y="28" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">FIREBASE</text>
+</svg>
