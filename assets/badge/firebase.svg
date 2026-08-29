@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="168" height="44" viewBox="0 0 168 44" role="img" aria-labelledby="title desc">
+  <title id="title">Firebase</title><desc id="desc">Firebase badge with automatic light and dark themes</desc>
+  <style>.bg{fill:#FFECC7;stroke:#C77700}.label{fill:#5A3300}@media (prefers-color-scheme:dark){.bg{fill:#241a08;stroke:#FFCA28}.label{fill:#fff6e0}}</style>
+  <rect class="bg" x=".75" y=".75" width="166.5" height="42.5" rx="10" stroke-width="1.5"/>
+  <defs>
+    <path id="drop" d="M92,6 95,10 99,14 102,18 105,22 109,26 112,30 115,34 119,38 122,42 125,46 129,50 132,54 135,58 138,62 141,66 143,70 146,74 148,78 150,82 151,86 152,90 153,94 154,98 154,102 155,106 154,110 154,114 153,118 153,122 152,126 150,130 148,134 146,138 144,142 141,146 138,150 134,154 130,158 124,162 117,166 107,170 97,172 70,170 67,166 74,162 79,158 83,154 86,150 85,146 81,142 78,138 75,134 72,130 70,126 68,122 66,118 64,114 62,110 61,106 60,102 59,98 58,94 58,90 57,86 57,82 57,78 57,74 57,70 58,66 59,62 59,58 60,54 62,50 63,46 65,42 66,38 69,34 71,30 73,26 76,22 80,18 83,14 87,10 92,6Z"/>
+    <clipPath id="dropClip"><use href="#drop"/></clipPath>
+    <clipPath id="circClip"><ellipse cx="68.5" cy="122" rx="46.5" ry="50"/></clipPath>
+    <mask id="dropMinusCirc" maskUnits="userSpaceOnUse" x="0" y="0" width="180" height="180">
+      <use href="#drop" fill="#fff"/>
+      <ellipse cx="68.5" cy="122" rx="46.5" ry="50" fill="#000"/>
+    </mask>
+    <mask id="circMinusDrop" maskUnits="userSpaceOnUse" x="0" y="0" width="180" height="180">
+      <ellipse cx="68.5" cy="122" rx="46.5" ry="50" fill="#fff"/>
+      <use href="#drop" fill="#000"/>
+    </mask>
+  </defs>
+  <g transform="translate(8 6) scale(.155)">
+    <use href="#drop" fill="#DD2C00" mask="url(#dropMinusCirc)"/>
+    <ellipse cx="68.5" cy="122" rx="46.5" ry="50" fill="#FFC400" mask="url(#circMinusDrop)"/>
+    <g clip-path="url(#dropClip)">
+      <g clip-path="url(#circClip)">
+        <rect x="0" y="0" width="180" height="180" fill="#FF9100"/>
+      </g>
+    </g>
+  </g>
+  <text class="label" x="53" y="28" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">FIREBASE</text>
+</svg>
