@@ -88,7 +88,6 @@ Four projects showcasing mobile development, game development, artificial intell
       <p><strong><big><a href="https://github.com/lianeheidemann/cirioapp_v2">CírioApp</a></big></strong></p>
       <p>Android app with schedules, maps, news, notifications, favorites, and an AI assistant for the Círio of Nazaré.</p>
       <p><code>Flutter</code> <code>Dart</code> <code>Firebase</code> <code>Gemini</code> <code>Mobile</code> <code>IA</code></p>
-      <p><a href="https://github.com/lianeheidemann/cirioapp_v2"><strong>View repository →</strong></a></p>
       <br>
     </td>
     <td align="center" width="50%" valign="top">
@@ -99,7 +98,6 @@ Four projects showcasing mobile development, game development, artificial intell
       <p><strong><big><a href="https://github.com/lianeheidemann/tennis-fun-game">TenisFun</a></big></strong></p>
       <p>A 2D tennis game with progressive difficulty, responsive controls, and a downloadable Windows executable.</p>
       <p><code>Python</code> <code>Pygame</code></p>
-      <p><a href="https://github.com/lianeheidemann/tennis-fun-game"><strong>View repository →</strong></a></p>
       <br>
     </td>
   </tr>
@@ -112,7 +110,6 @@ Four projects showcasing mobile development, game development, artificial intell
       <p><strong><big><a href="https://github.com/lianeheidemann/ai-prompt-studio">AI Prompt Studio</a></big></strong></p>
       <p>Responsive web workspace with six specialized AI workflows, contextual conversations, and local history.</p>
       <p><code>Python</code> <code>Flask</code> <code>JavaScript</code> <code>Gemini</code> <code>IA</code></p>
-      <p><a href="https://github.com/lianeheidemann/ai-prompt-studio"><strong>View repository →</strong></a></p>
       <br>
     </td>
     <td align="center" width="50%" valign="top">
@@ -123,7 +120,6 @@ Four projects showcasing mobile development, game development, artificial intell
       <p><strong><big><a href="https://github.com/lianeheidemann/video-to-gif">Video to GIF</a></big></strong></p>
       <p>Android app that converts videos to GIF with trimming, crop, resolution and frame controls, plus file-size estimation before conversion.</p>
       <p><code>Flutter</code> <code>Dart</code> <code>FFmpeg</code> <code>Android</code> <code>Mobile</code> <code>Tests</code></p>
-      <p><a href="https://github.com/lianeheidemann/video-to-gif"><strong>View repository →</strong></a></p>
       <br>
     </td>
   </tr>
