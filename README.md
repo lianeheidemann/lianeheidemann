@@ -122,7 +122,8 @@ Four projects showcasing mobile development, game development, artificial intell
       </a>
       <p><strong><big><a href="https://github.com/lianeheidemann/video-to-gif">Video to GIF</a></big></strong></p>
       <p>Android app that converts videos to GIF with trimming, crop, resolution and frame controls.</p>
-      <p><code>Flutter</code> <code>Dart</code> <code>FFmpeg</code> <code>Android</code> <code>Mobile</code> <code>Tests</code></p>
+      <p><code>Flutter</code> <code>Dart</code> <code>FFmpeg</code> <code>Android</code> <code>Mobile</code>
+      </p>
       <br>
     </td>
   </tr>
