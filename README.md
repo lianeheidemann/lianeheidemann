@@ -121,7 +121,7 @@ Four projects showcasing mobile development, game development, artificial intell
         <img src="assets/projects/logos/video-to-gif.png" width="85" alt="Video-to-GIF logo">
       </a>
       <p><strong><big><a href="https://github.com/lianeheidemann/video-to-gif">Video to GIF</a></big></strong></p>
-      <p>Android app that converts videos to GIF with trimming, crop, resolution and frame controls, plus file-size estimation before conversion.</p>
+      <p>Android app that converts videos to GIF with trimming, crop, resolution and frame controls.</p>
       <p><code>Flutter</code> <code>Dart</code> <code>FFmpeg</code> <code>Android</code> <code>Mobile</code> <code>Tests</code></p>
       <br>
     </td>
