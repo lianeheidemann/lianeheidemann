@@ -61,7 +61,7 @@ learning and growing in tech. 🦾
 </p>
 
 <p>
-  Mobile &amp; Backend
+  Mobile
 </p>
 
 <p>
