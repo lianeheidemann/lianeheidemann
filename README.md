@@ -140,9 +140,9 @@ Four projects showcasing mobile development, game development, artificial intell
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/image/github-stats.svg?v=27-9-16-1917-2026">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/image/github-stats-light.svg?v=27-9-16-1917-2026">
-    <img src="./assets/image/github-stats-light.svg?v=27-9-16-1917-2026" width="100%" alt="Live GitHub statistics for Liane Heidemann">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/image/github-stats.svg?v=27-9-15-1917-2026">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/image/github-stats-light.svg?v=27-9-15-1917-2026">
+    <img src="./assets/image/github-stats-light.svg?v=27-9-15-1917-2026" width="100%" alt="Live GitHub statistics for Liane Heidemann">
   </picture>
 </p>
 
