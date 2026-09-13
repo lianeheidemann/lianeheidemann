@@ -25,7 +25,7 @@
 
 I'm Liane,  
 a Computer Science student from Brazil,<br>
-passionate about software development, AI, data,<br>
+passionate about software development, AI, data, Computer Graphics,<br>
 and building useful projects 💙
 
 Here you'll find a mix of apps, experiments,<br>
