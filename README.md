@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/image/liane-dev-portal.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/image/liane-dev-portal-light.svg?v=1">
-  <img width="1200" alt="Liane Heidemann — Computer Science, Software Development, AI and Data" src="./assets/image/liane-dev-portal-light.svg?v=1">
-</picture>
+<img width="1200" src="./assets/svg/liane-dev-portal-adaptive-v1.svg">
 
 <p align="center">
   <strong><big><big>Hi there!</big></big></strong>
