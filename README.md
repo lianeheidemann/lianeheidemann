@@ -1,8 +1,8 @@
 <img width="1200" src="./assets/svg/liane-dev-portal-adaptive-v1.svg">
 
 <p align="center">
-  <strong><big><big>Hi there!</big></big></strong>
-  <img src="./assets/icon/waving-hand-v3.svg?v=2" width="30" alt="Waving hand">
+  <strong><big><big>Hi there!  </big></big></strong>
+  <img src="./assets/icon/waving-hand-v3.svg?v=2" width="25" alt="Waving hand">
 </p>
 
 <p align="center">
