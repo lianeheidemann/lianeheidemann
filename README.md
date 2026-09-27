@@ -83,31 +83,6 @@ Four projects showcasing mobile development, game development, artificial intell
   <tr>
     <td align="center" width="50%" valign="top">
       <br>
-      <a href="https://github.com/lianeheidemann/cirioapp_v2">
-        <img src="assets/projects/logos/cirioapp.png" width="90" alt="CírioApp logo">
-      </a>
-      <p><strong><big><a href="https://github.com/lianeheidemann/cirioapp_v2">CírioApp</a></big></strong></p>
-      <p>Android app with schedules, maps, news, notifications, favorites, and an AI assistant for the Círio of Nazaré.</p>
-      <p><code>Flutter</code> <code>Dart</code> <code>Firebase</code> <code>Gemini</code> <code>Mobile</code> <code>IA</code></p>
-      <br>
-    </td>
-    <td align="center" width="50%" valign="top">
-      <br>
-      <a href="https://github.com/lianeheidemann/tennis-fun-game">
-        <img src="assets/projects/logos/tenisfun-4.svg" width="250" alt="TenisFun logo">
-      </a>
-      <p><strong><big><a href="https://github.com/lianeheidemann/tennis-fun-game">TenisFun</a></big></strong></p>
-      <p>A 2D tennis game with progressive difficulty, responsive controls, and a downloadable Windows executable.</p>
-      <p><code>Python</code> <code>Pygame</code></p>
-      <br>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <br>
       <a href="https://github.com/lianeheidemann/ai-prompt-studio">
         <img src="assets/projects/logos/ia-prompt-studio.svg" width="100" alt="AI Prompt Studio logo">
       </a>
@@ -125,6 +100,31 @@ Four projects showcasing mobile development, game development, artificial intell
       <p>Android app for creating GitHub README content — GIF, animated WebP, SVG and PNG, with transparency, animation and high resolution.</p>
       <p><code>Flutter</code> <code>Dart</code> <code>FFmpeg</code> <code>Android</code> <code>Mobile</code>
       </p>
+      <br>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <br>
+      <a href="https://github.com/lianeheidemann/cirioapp_v2">
+        <img src="assets/projects/logos/cirioapp.png" width="90" alt="CírioApp logo">
+      </a>
+      <p><strong><big><a href="https://github.com/lianeheidemann/cirioapp_v2">CírioApp</a></big></strong></p>
+      <p>Android app with schedules, maps, news, notifications, favorites, and an AI assistant for the Círio of Nazaré.</p>
+      <p><code>Flutter</code> <code>Dart</code> <code>Firebase</code> <code>Gemini</code> <code>Mobile</code> <code>IA</code></p>
+      <br>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <br>
+      <a href="https://github.com/lianeheidemann/tennis-fun-game">
+        <img src="assets/projects/logos/tenisfun-4.svg" width="250" alt="TenisFun logo">
+      </a>
+      <p><strong><big><a href="https://github.com/lianeheidemann/tennis-fun-game">TenisFun</a></big></strong></p>
+      <p>A 2D tennis game with progressive difficulty, responsive controls, and a downloadable Windows executable.</p>
+      <p><code>Python</code> <code>Pygame</code></p>
       <br>
     </td>
   </tr>
