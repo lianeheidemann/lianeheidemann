@@ -118,11 +118,11 @@ Four projects showcasing mobile development, game development, artificial intell
     </td>
     <td align="center" width="50%" valign="top">
       <br>
-      <a href="https://github.com/lianeheidemann/video-to-gif">
-        <img src="assets/projects/logos/video-to-gif.png" width="85" alt="Video-to-GIF logo">
+      <a href="https://github.com/lianeheidemann/gitbat-app">
+        <img src="assets/projects/logos/gitbat.png" width="130" alt="GitBat logo">
       </a>
-      <p><strong><big><a href="https://github.com/lianeheidemann/video-to-gif">Video to GIF</a></big></strong></p>
-      <p>Android app that converts videos to GIF with trimming, crop, resolution and frame controls.</p>
+      <p><strong><big><a href="https://github.com/lianeheidemann/gitbat-app">GitBat</a></big></strong></p>
+      <p>Android app for creating GitHub README content — GIF, animated WebP, SVG and PNG, with transparency, animation and high resolution.</p>
       <p><code>Flutter</code> <code>Dart</code> <code>FFmpeg</code> <code>Android</code> <code>Mobile</code>
       </p>
       <br>
