@@ -120,7 +120,7 @@ Four projects showcasing mobile development, game development, artificial intell
     <td align="center" width="50%" valign="top">
       <br>
       <a href="https://github.com/lianeheidemann/tennis-fun-game">
-        <img src="assets/projects/logos/tenisfun-sem-bolinha-5.svg" height="90" style="object-fit: contain;" alt="TenisFun logo">
+        <img src="assets/projects/logos/tenisfun-6.svg" height="90" style="object-fit: contain;" alt="TenisFun logo">
       </a>
       <p><strong><big><a href="https://github.com/lianeheidemann/tennis-fun-game">TenisFun</a></big></strong></p>
       <p>A 2D tennis game with progressive difficulty, responsive controls, and a downloadable Windows executable.</p>
