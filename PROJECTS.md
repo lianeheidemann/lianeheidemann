@@ -69,7 +69,7 @@
 <p>Browser-based 3D driving simulator with keyboard and Xbox-compatible gamepad controls.</p>
 </td>
 <td align="center" width="50%" valign="top">
-<p align="center"><a href="https://github.com/lianeheidemann/object-inspector"><img src="https://raw.githubusercontent.com/lianeheidemann/object-inspector/main/assets/interface/overview.png" height="72" alt="Object Inspector interface"></a></p>
+<p align="center"><a href="https://github.com/lianeheidemann/object-inspector"><img src="https://github.com/user-attachments/assets/da3bd052-dde0-49f4-880f-9035163370b8" height="72" alt="Object Inspector interface"></a></p>
 <p><strong><a href="https://github.com/lianeheidemann/object-inspector">object-inspector</a></strong></p>
 <p>Static web viewer that displays geometric deviation heatmaps on 3D surfaces.</p>
 </td>
