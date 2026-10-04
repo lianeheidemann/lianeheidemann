@@ -105,47 +105,6 @@
 </tr>
 </table>
 
-<h2>3D Projects</h2>
-<p>Projects focused on 3D modeling, visualization, simulation, animation, and mesh analysis.</p>
-<table width="100%" cellpadding="10" cellspacing="8" border="0">
-<tr>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/object-inspector"><img src="https://raw.githubusercontent.com/lianeheidemann/object-inspector/main/assets/interface-object-inspector-v1.webp" width="100%" alt="Object Inspector interface preview"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/object-inspector">Object Inspector</a></strong>
-<p>Static web viewer that displays geometric deviation heatmaps on 3D surfaces.</p>
-</td>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/vehicle-3d-showroom"><img src="https://raw.githubusercontent.com/lianeheidemann/vehicle-3d-showroom/main/midia/interface/interface-desktop-v2.webp" width="100%" alt="Vehicle 3D Showroom interface preview"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/vehicle-3d-showroom">Vehicle 3D Showroom</a></strong>
-<p>Browser-based 3D vehicle showroom with interactive models and gamepad support.</p>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/mini-driving-simulator-3d"><img src="https://raw.githubusercontent.com/lianeheidemann/mini-driving-simulator-3d/main/media/interface/interface-v3.webp" width="100%" alt="Mini Driving Simulator interface preview"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/mini-driving-simulator-3d">Mini Driving Simulator 3D</a></strong>
-<p>Browser-based 3D driving simulator with keyboard and Xbox-compatible gamepad controls.</p>
-</td>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/porcelain-inspection-unity"><img src="https://raw.githubusercontent.com/lianeheidemann/porcelain-inspection-unity/main/media/interface-1.gif" width="100%" alt="Porcelain Inspection interface preview"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/porcelain-inspection-unity">Porcelain Inspection</a></strong>
-<p>Unity 3D prototype for rotating, zooming, and inspecting points on a porcelain piece.</p>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/3d-animations"><img src="https://raw.githubusercontent.com/lianeheidemann/3d-animations/main/bone-animation/animation-2.gif" width="100%" alt="3D bone animation preview"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/3d-animations">3D Animations</a></strong>
-<p>Blender collection of 3D character and prop animations, with source and export files.</p>
-</td>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/mesh-comparison"><img src="https://raw.githubusercontent.com/lianeheidemann/mesh-comparison/main/assets/mesh-comparison-logo.png" width="40%" alt="Mesh Comparison logo"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/mesh-comparison">Mesh Comparison</a></strong>
-<p>Python workspace for geometric and perceptual comparison of reconstructed 3D meshes.</p>
-</td>
-</tr>
-</table>
-
 <h2>Projects with interface previews</h2>
 <p>Selected projects with interface and demo previews.</p>
 <table width="100%" cellpadding="10" cellspacing="8" border="0">
