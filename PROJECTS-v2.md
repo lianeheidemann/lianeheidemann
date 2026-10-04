@@ -39,6 +39,31 @@
 </tr>
 </table>
 
+<h2>Hardware Projects</h2>
+<p>Embedded systems, Arduino prototypes, and Bluetooth-controlled hardware.</p>
+<table width="100%" cellpadding="10" cellspacing="8" border="0">
+<tr>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<a href="https://github.com/lianeheidemann/arduino-soil-moisture-monitor"><img src="https://raw.githubusercontent.com/lianeheidemann/arduino-soil-moisture-monitor/main/assets/demonstration.gif" width="100%" alt="Arduino Soil Moisture Monitor demonstration"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/arduino-soil-moisture-monitor">Arduino Soil Moisture Monitor</a></strong>
+<p>Arduino soil-moisture monitor with LCD, status LED, and a control button; simulated in Tinkercad.</p>
+</td>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<a href="https://github.com/lianeheidemann/automated-greenhouse-prototype"><img src="https://raw.githubusercontent.com/lianeheidemann/automated-greenhouse-prototype/main/assets/prototype/video_melhor_qualidade-1.webp" width="100%" alt="Automated greenhouse prototype preview"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/automated-greenhouse-prototype">Automated Greenhouse Prototype</a></strong>
+<p>Arduino greenhouse monitor for temperature, air humidity, and soil moisture, with LCD and Bluetooth reporting.</p>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<a href="https://github.com/lianeheidemann/bluetooth-robotic-car-claw"><img src="https://raw.githubusercontent.com/lianeheidemann/bluetooth-robotic-car-claw/main/assets/prototype/image2.png" width="100%" alt="Bluetooth robotic car joystick interface"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/bluetooth-robotic-car-claw">Bluetooth Robotic Car with Mechanical Claw</a></strong>
+<p>Arduino car controlled over Bluetooth, with a mobile joystick and a mechanical claw.</p>
+</td>
+<td width="50%"></td>
+</tr>
+</table>
+
 <h2>Projects with interface previews</h2><table width="100%" cellpadding="10" cellspacing="8" border="0">
 <tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
@@ -131,21 +156,9 @@
 <p>JavaScript travel assistant that collects booking details in a guided conversation and updates a reservation summary.</p>
 </td>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/arduino-soil-moisture-monitor"><img src="https://raw.githubusercontent.com/lianeheidemann/arduino-soil-moisture-monitor/main/assets/demonstration.gif" width="100%" alt="Arduino Soil Moisture Monitor demonstration"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/arduino-soil-moisture-monitor">Arduino Soil Moisture Monitor</a></strong>
-<p>Arduino soil-moisture monitor with LCD, status LED, and a control button; simulated in Tinkercad.</p>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/poetry-gallery"><img src="https://raw.githubusercontent.com/lianeheidemann/poetry-gallery/main/assets/interface_v2.gif" width="100%" alt="Poetry Gallery interface preview"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/poetry-gallery">Poetry Gallery</a></strong>
 <p>Responsive web gallery for creating and organizing poems with browser-based storage.</p>
-</td>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/automated-greenhouse-prototype"><img src="https://raw.githubusercontent.com/lianeheidemann/automated-greenhouse-prototype/main/assets/prototype/video_melhor_qualidade-1.webp" width="100%" alt="Automated greenhouse prototype preview"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/automated-greenhouse-prototype">Automated Greenhouse Prototype</a></strong>
-<p>Arduino greenhouse monitor for temperature, air humidity, and soil moisture, with LCD and Bluetooth reporting.</p>
 </td>
 </tr>
 <tr>
@@ -159,14 +172,6 @@
 <strong><a href="https://github.com/lianeheidemann/parking-management-system">Parking Management System</a></strong>
 <p>Browser-based system for vehicle registration, search, and parking-fee calculation.</p>
 </td>
-</tr>
-<tr>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/bluetooth-robotic-car-claw"><img src="https://raw.githubusercontent.com/lianeheidemann/bluetooth-robotic-car-claw/main/assets/prototype/image2.png" width="100%" alt="Bluetooth robotic car joystick interface"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/bluetooth-robotic-car-claw">Bluetooth Robotic Car with Mechanical Claw</a></strong>
-<p>Arduino car controlled over Bluetooth, with a mobile joystick and a mechanical claw.</p>
-</td>
-<td width="50%"></td>
 </tr>
 </table>
 
