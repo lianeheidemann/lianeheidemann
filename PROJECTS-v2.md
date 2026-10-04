@@ -19,7 +19,7 @@
 </tr>
 <tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/firebase-remote-config-app"><img src="https://raw.githubusercontent.com/lianeheidemann/firebase-remote-config-app/main/assets/gifs/gif1_cor_FirebaseRemoteConfig.gif" width="100%" alt="Firebase Remote Config app interface"></a><br><br>
+<a href="https://github.com/lianeheidemann/firebase-remote-config-app"><img src="https://raw.githubusercontent.com/lianeheidemann/firebase-remote-config-app/main/assets/gifs/gif1_cor_FirebaseRemoteConfig.gif" width="80%" alt="Firebase Remote Config app interface"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/firebase-remote-config-app">Firebase Remote Config App</a></strong>
 <p>Flutter example of using Firebase Remote Config to change app UI without a new release.</p>
 </td>
@@ -31,7 +31,7 @@
 </tr>
 <tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/squat-counter-app"><img src="https://raw.githubusercontent.com/lianeheidemann/squat-counter-app/main/assets/squat-counter-interface-2.webp" width="100%" alt="Squat Counter interface preview"></a><br><br>
+<a href="https://github.com/lianeheidemann/squat-counter-app"><img src="https://raw.githubusercontent.com/lianeheidemann/squat-counter-app/main/assets/squat-counter-interface-2.webp" width="60%" alt="Squat Counter interface preview"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/squat-counter-app">Squat Counter App</a></strong>
 <p>Flutter app that counts squats and tracks sets using the phone accelerometer.</p>
 </td>
