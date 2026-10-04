@@ -256,9 +256,6 @@ responsive controls, and a downloadable Windows executable.
 
 <p align="center">
   <picture>
-    
-<p align="center">
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/image/github-stats.svg?v=33-12-16-3013-2026">
     <source media="(prefers-color-scheme: light)" srcset="./assets/image/github-stats-light.svg?v=33-12-16-3013-2026">
     <img src="./assets/image/github-stats-light.svg?v=33-12-16-3013-2026" width="100%" alt="Live GitHub statistics for Liane Heidemann">
