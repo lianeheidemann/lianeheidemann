@@ -81,6 +81,11 @@ learning and growing in tech. 🦾
 <td align="center" width="50%" valign="top">
 <a href="https://github.com/lianeheidemann/object-inspector"><img src="https://raw.githubusercontent.com/lianeheidemann/object-inspector/main/assets/interface-object-inspector-v1.webp" width="100%" alt="Object Inspector interface preview"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/object-inspector">Object Inspector</a></strong>
+<p><picture>
+<source media="(prefers-color-scheme: dark)" srcset="./assets/badge/early-project-dark.gif">
+<source media="(prefers-color-scheme: light)" srcset="./assets/badge/early-project-light.gif">
+<img src="./assets/badge/early-project-light.gif" width="190" alt="Early Project">
+</picture></p>
 <p>Static viewer for geometric deviation heatmaps on 3D surfaces.</p>
 </td>
 <td align="center" width="50%" valign="top">
@@ -117,7 +122,11 @@ learning and growing in tech. 🦾
 <td align="center" width="50%" valign="top">
 <a href="https://github.com/lianeheidemann/mesh-comparison"><img src="https://raw.githubusercontent.com/lianeheidemann/mesh-comparison/main/assets/mesh-comparison-logo.png" width="45%" alt="Mesh Comparison logo"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/mesh-comparison">Mesh Comparison</a></strong>
-<p><img src="https://img.shields.io/badge/%E2%8F%B3-Early%20Stage-3B82F6?style=flat-square" alt="Mesh project in early stage"><br>Python workspace for geometric and perceptual comparison of reconstructed 3D meshes.</p>
+<p><picture>
+<source media="(prefers-color-scheme: dark)" srcset="./assets/badge/early-project-dark.gif">
+<source media="(prefers-color-scheme: light)" srcset="./assets/badge/early-project-light.gif">
+<img src="./assets/badge/early-project-light.gif" width="190" alt="Early Project">
+</picture><br>Python workspace for geometric and perceptual comparison of reconstructed 3D meshes.</p>
 </td>
 <td width="50%"></td>
 </tr>
