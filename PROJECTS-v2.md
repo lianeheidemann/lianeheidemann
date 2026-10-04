@@ -158,8 +158,6 @@
 </td>
 </tr>
 <tr>
-</tr>
-<tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <strong><a href="https://github.com/lianeheidemann/skills">Skills</a></strong>
 <p>Collection of reusable AI skill instructions, scripts, and resources.</p>
@@ -170,10 +168,7 @@
 </td>
 </tr>
 <tr>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<strong><a href="https://github.com/lianeheidemann/n8n-ai-agents-projects">AI Agents and n8n Immersion</a></strong>
-<p>Collection of independent AI-agent and n8n automation projects from an immersion course.</p>
-</td>
+<td width="50%"></td>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <strong><a href="https://github.com/lianeheidemann/state-of-data-brasil-2023">State of Data Brazil 2023</a></strong>
 <p>Exploratory analysis of the State of Data Brazil 2023 survey dataset.</p>
