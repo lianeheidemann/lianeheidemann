@@ -127,7 +127,7 @@ learning and growing in tech. 🦾
 </tr>
 <tr>
 <td align="center" width="50%" valign="top">
-<a href="https://github.com/lianeheidemann/mesh-comparison"><img src="https://raw.githubusercontent.com/lianeheidemann/mesh-comparison/main/assets/mesh-comparison-logo.png" height="54" alt="Mesh Comparison logo"></a><br><br>
+<a href="https://github.com/lianeheidemann/mesh-comparison"><img src="./assets/projects/logos/mesh-comparison-logo-v2.png" height="54" alt="Mesh Comparison logo"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/mesh-comparison">Mesh Comparison</a></strong>
 <p><br><img src="./assets/badge/early-project.svg?v=1" width="132" height="20" alt="Early Project"><br>Python workspace for geometric and perceptual comparison of reconstructed 3D meshes.</p>
 </td>
