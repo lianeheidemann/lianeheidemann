@@ -84,7 +84,7 @@ Four projects showcasing mobile development, game development, artificial intell
     <td align="center" width="50%" valign="top">
       <br>
       <a href="https://github.com/lianeheidemann/ai-prompt-studio">
-        <img src="assets/projects/logos/ia-prompt-studio.svg" width="100" alt="AI Prompt Studio logo">
+        <img src="assets/projects/logos/ia-prompt-studio.svg" width="100" height="100" style="object-fit: contain;" alt="AI Prompt Studio logo">
       </a>
       <p><strong><big><a href="https://github.com/lianeheidemann/ai-prompt-studio">AI Prompt Studio</a></big></strong></p>
       <p>Responsive web workspace with six specialized AI workflows, contextual conversations, and local history.</p>
@@ -94,7 +94,7 @@ Four projects showcasing mobile development, game development, artificial intell
     <td align="center" width="50%" valign="top">
       <br>
       <a href="https://github.com/lianeheidemann/gitbat-app">
-        <img src="assets/projects/logos/gitbat.png" width="130" alt="GitBat logo">
+        <img src="assets/projects/logos/gitbat.png" width="130" height="100" style="object-fit: contain;" alt="GitBat logo">
       </a>
       <p><strong><big><a href="https://github.com/lianeheidemann/gitbat-app">GitBat</a></big></strong></p>
       <p>Android app for creating GitHub README content — GIF, animated WebP, SVG and PNG, with transparency, animation and high resolution.</p>
@@ -110,7 +110,7 @@ Four projects showcasing mobile development, game development, artificial intell
     <td align="center" width="50%" valign="top">
       <br>
       <a href="https://github.com/lianeheidemann/cirioapp_v2">
-        <img src="assets/projects/logos/cirioapp.png" width="90" alt="CírioApp logo">
+        <img src="assets/projects/logos/cirioapp.png" width="90" height="100" style="object-fit: contain;" alt="CírioApp logo">
       </a>
       <p><strong><big><a href="https://github.com/lianeheidemann/cirioapp_v2">CírioApp</a></big></strong></p>
       <p>Android app with schedules, maps, news, notifications, favorites, and an AI assistant for the Círio of Nazaré.</p>
@@ -120,7 +120,7 @@ Four projects showcasing mobile development, game development, artificial intell
     <td align="center" width="50%" valign="top">
       <br>
       <a href="https://github.com/lianeheidemann/tennis-fun-game">
-        <img src="assets/projects/logos/tenisfun-4.svg" width="250" alt="TenisFun logo">
+        <img src="assets/projects/logos/tenisfun-4.svg" width="250" height="100" style="object-fit: contain;" alt="TenisFun logo">
       </a>
       <p><strong><big><a href="https://github.com/lianeheidemann/tennis-fun-game">TenisFun</a></big></strong></p>
       <p>A 2D tennis game with progressive difficulty, responsive controls, and a downloadable Windows executable.</p>
