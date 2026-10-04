@@ -81,11 +81,7 @@ learning and growing in tech. 🦾
 <td align="center" width="50%" valign="top">
 <a href="https://github.com/lianeheidemann/object-inspector"><img src="https://raw.githubusercontent.com/lianeheidemann/object-inspector/main/assets/interface-object-inspector-v1.webp" width="100%" alt="Object Inspector interface preview"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/object-inspector">Object Inspector</a></strong>
-<p><picture>
-<source media="(prefers-color-scheme: dark)" srcset="./assets/badge/early-project-dark.gif">
-<source media="(prefers-color-scheme: light)" srcset="./assets/badge/early-project-light.gif">
-<img src="./assets/badge/early-project-light.gif" width="190" alt="Early Project">
-</picture></p>
+<p><img src="./assets/badge/early-project.svg?v=1" width="132" height="20" alt="Early Project"></p>
 <p>Static viewer for geometric deviation heatmaps on 3D surfaces.</p>
 </td>
 <td align="center" width="50%" valign="top">
@@ -122,11 +118,7 @@ learning and growing in tech. 🦾
 <td align="center" width="50%" valign="top">
 <a href="https://github.com/lianeheidemann/mesh-comparison"><img src="https://raw.githubusercontent.com/lianeheidemann/mesh-comparison/main/assets/mesh-comparison-logo.png" width="45%" alt="Mesh Comparison logo"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/mesh-comparison">Mesh Comparison</a></strong>
-<p><picture>
-<source media="(prefers-color-scheme: dark)" srcset="./assets/badge/early-project-dark.gif">
-<source media="(prefers-color-scheme: light)" srcset="./assets/badge/early-project-light.gif">
-<img src="./assets/badge/early-project-light.gif" width="190" alt="Early Project">
-</picture><br>Python workspace for geometric and perceptual comparison of reconstructed 3D meshes.</p>
+<p><img src="./assets/badge/early-project.svg?v=1" width="132" height="20" alt="Early Project"><br>Python workspace for geometric and perceptual comparison of reconstructed 3D meshes.</p>
 </td>
 <td align="center" width="50%" valign="top">
 <a href="https://github.com/lianeheidemann/parallel-image-pipeline">
@@ -137,11 +129,7 @@ learning and growing in tech. 🦾
 </picture>
 </a><br><br>
 <strong><a href="https://github.com/lianeheidemann/parallel-image-pipeline">Parallel Image Pipeline</a></strong>
-<p><picture>
-<source media="(prefers-color-scheme: dark)" srcset="./assets/badge/early-project-dark.gif">
-<source media="(prefers-color-scheme: light)" srcset="./assets/badge/early-project-light.gif">
-<img src="./assets/badge/early-project-light.gif" width="190" alt="Early Project">
-</picture></p>
+<p><img src="./assets/badge/early-project.svg?v=1" width="132" height="20" alt="Early Project"></p>
 <p>Experimental image-processing pipeline comparing sequential and parallel execution in Python and the browser, with AWS benchmarks.</p>
 </td>
 </tr>
