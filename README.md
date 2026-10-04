@@ -242,7 +242,7 @@ animation and high resolution.
 <td align="center" width="50%" valign="top">
 <br>
 <a href="https://github.com/lianeheidemann/cirioapp-v2">
-<img src="assets/projects/logos/cirioapp.png" height="100" alt="CírioApp logo">
+<img src="assets/projects/logos/cirioapp.png" height="88" alt="CírioApp logo">
 </a>
 <br><br>
 <strong><a href="https://github.com/lianeheidemann/cirioapp-v2">CírioApp</a></strong>
@@ -274,7 +274,7 @@ favorites, and an AI assistant for the Círio of Nazaré.
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/projects/logos/spriteflow-logo-dark.png">
 <source media="(prefers-color-scheme: light)" srcset="assets/projects/logos/spriteflow-logo-light.png">
-<img src="assets/projects/logos/spriteflow-logo-light.png" height="100" alt="SpriteFlow logo">
+<img src="assets/projects/logos/spriteflow-logo-light.png" height="88" alt="SpriteFlow logo">
 </picture>
 <br><br>
 <strong>SpriteFlow</strong>
