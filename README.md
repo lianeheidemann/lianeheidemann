@@ -115,6 +115,8 @@ learning and growing in tech. 🦾
 </tr>
 </table>
 
+<img src="./assets/image/location-divider-rotated-180.svg?v=1" alt="Animated cyan and violet divider" width="1000" height="100">
+
 <h2 align="center">Hardware &amp; Mesh Projects</h2>
 <p align="center">Embedded systems and 3D mesh evaluation projects.</p>
 
@@ -138,6 +140,8 @@ learning and growing in tech. 🦾
 <p>
   <strong><big><big>FEATURED PROJECTS</big></big></strong>
 </p>
+
+<img src="./assets/image/location-divider.svg?v=1" alt="Animated cyan and violet divider" width="1000" height="100">
 
 Four projects showcasing mobile development, game development, artificial intelligence, and developer tools.
 
