@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="158" height="44" viewBox="0 0 158 44" role="img" aria-labelledby="title desc">
+<title id="title">Three.js</title><desc id="desc">Theme-adaptive Three.js technology badge.</desc>
+<style>.bg{fill:#f3f4f6;stroke:#6b7280}.label{fill:#111827}.mark{fill:none;stroke:#111827}@media(prefers-color-scheme:dark){.bg{fill:#17191d;stroke:#d1d5db}.label{fill:#f9fafb}.mark{stroke:#f9fafb}}</style>
+<rect class="bg" x=".75" y=".75" width="156.5" height="42.5" rx="10" stroke-width="1.5"/>
+<circle class="mark" cx="28" cy="22" r="12" stroke-width="1.8"/><ellipse class="mark" cx="28" cy="22" rx="5" ry="12" stroke-width="1.6"/><path class="mark" d="M16 22h24M18.7 15.5c5.6 3.4 13 3.4 18.6 0M18.7 28.5c5.6-3.4 13-3.4 18.6 0" stroke-width="1.5"/>
+<text class="label" x="53" y="28" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="700" letter-spacing="1.3">THREE.JS</text></svg>
