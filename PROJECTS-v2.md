@@ -30,7 +30,7 @@
 </tr>
 <tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/gitbat-app"><img src="https://raw.githubusercontent.com/lianeheidemann/gitbat-app/main/assets/interface-v2/gitbat-interface-escuro-v3.png" width="100%" alt="GitBat interface preview"></a><br><br>
+<a href="https://github.com/lianeheidemann/gitbat-app"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lianeheidemann/gitbat-app/main/assets/readme/gitbat-interface-escuro-v3.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lianeheidemann/gitbat-app/main/assets/interface-v2/gitbat-interface-claro-v3.webp"><img src="https://raw.githubusercontent.com/lianeheidemann/gitbat-app/main/assets/readme/gitbat-interface-escuro-v3.png" width="100%" alt="GitBat interface preview"></picture></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/gitbat-app">GitBat</a></strong>
 <p>Android app for creating GIF, animated WebP, SVG, and PNG content for GitHub READMEs.</p>
 </td>
@@ -114,7 +114,7 @@
 <table width="100%" cellpadding="10" cellspacing="8" border="0">
 <tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/parallel-image-pipeline"><img src="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo.png" height="60" alt="Parallel Image Pipeline logo"></a><br><br>
+<a href="https://github.com/lianeheidemann/parallel-image-pipeline"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo-dark.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo.png"><img src="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo.png" height="60" alt="Parallel Image Pipeline logo"></picture></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/parallel-image-pipeline">Parallel Image Pipeline</a></strong>
 <p>Experimental image-processing pipeline comparing sequential and parallel execution and performance.</p>
 </td>
