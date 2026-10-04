@@ -54,6 +54,18 @@
 </tr>
 <tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<a href="https://github.com/lianeheidemann/n8n-ai-agents-projects"><img src="https://raw.githubusercontent.com/lianeheidemann/n8n-ai-agents-projects/main/assets/imagens/primeiro_projeto.png" width="100%" alt="AI agents and n8n project preview"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/n8n-ai-agents-projects">AI Agents and n8n Immersion</a></strong>
+<p>Collection of independent AI-agent and n8n automation projects from an immersion course.</p>
+</td>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<a href="https://github.com/lianeheidemann/automated-greenhouse-prototype"><img src="https://raw.githubusercontent.com/lianeheidemann/automated-greenhouse-prototype/main/assets/prototype/video_melhor_qualidade-1.webp" width="100%" alt="Automated greenhouse prototype preview"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/automated-greenhouse-prototype">Automated Greenhouse Prototype</a></strong>
+<p>Arduino greenhouse monitor for temperature, air humidity, and soil moisture, with LCD and Bluetooth reporting.</p>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/cirioapp-v2"><img src="https://raw.githubusercontent.com/lianeheidemann/cirioapp-v2/main/assets/images/interface_v4.png" width="100%" alt="CírioApp interface preview"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/cirioapp-v2">CírioApp</a></strong>
 <p>Android app for Círio de Nazaré schedules, maps, news, notifications, favorites, and an AI assistant.</p>
@@ -102,6 +114,18 @@
 </tr>
 <tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<a href="https://github.com/lianeheidemann/3d-animations"><img src="https://raw.githubusercontent.com/lianeheidemann/3d-animations/main/bone-animation/animation-2.gif" width="100%" alt="3D bone animation preview"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/3d-animations">3D Animations</a></strong>
+<p>Blender collection of 3D character and prop animations, with source and export files.</p>
+</td>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<a href="https://github.com/lianeheidemann/rpg-esim-python"><img src="https://raw.githubusercontent.com/lianeheidemann/rpg-esim-python/main/assets/demonstration-v4.webp" width="100%" alt="ESIM event camera simulator demonstration"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/rpg-esim-python">ESIM Event Camera Simulator</a></strong>
+<p>Pure-Python port of ESIM's event-generation core for simulating event-camera output.</p>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/bluetooth-robotic-car-claw"><img src="https://raw.githubusercontent.com/lianeheidemann/bluetooth-robotic-car-claw/main/assets/prototype/image2.png" width="100%" alt="Bluetooth robotic car joystick interface"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/bluetooth-robotic-car-claw">Bluetooth Robotic Car with Mechanical Claw</a></strong>
 <p>Arduino car controlled over Bluetooth, with a mobile joystick and a mechanical claw.</p>
@@ -117,11 +141,6 @@
 <a href="https://github.com/lianeheidemann/parallel-image-pipeline"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo-dark.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo.png"><img src="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo.png" height="60" alt="Parallel Image Pipeline logo"></picture></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/parallel-image-pipeline">Parallel Image Pipeline</a></strong>
 <p>Experimental image-processing pipeline comparing sequential and parallel execution and performance.</p>
-</td>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/automated-greenhouse-prototype"><img src="https://raw.githubusercontent.com/lianeheidemann/automated-greenhouse-prototype/main/assets/icon/sprout-icon.svg" height="72" alt="Sprout icon"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/automated-greenhouse-prototype">Automated Greenhouse Prototype</a></strong>
-<p>Arduino greenhouse monitor for temperature, air humidity, and soil moisture, with LCD and Bluetooth reporting.</p>
 </td>
 </tr>
 </table>
@@ -139,14 +158,6 @@
 </td>
 </tr>
 <tr>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<strong><a href="https://github.com/lianeheidemann/3d-animations">3D Animations</a></strong>
-<p>Blender collection of 3D character and prop animations, with source and export files.</p>
-</td>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<strong><a href="https://github.com/lianeheidemann/rpg-esim-python">ESIM Event Camera Simulator</a></strong>
-<p>Pure-Python port of ESIM's event-generation core for simulating event-camera output.</p>
-</td>
 </tr>
 <tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
