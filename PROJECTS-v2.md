@@ -130,8 +130,6 @@
 <strong><a href="https://github.com/lianeheidemann/state-of-data-brasil-2023">State of Data Brazil 2023</a></strong>
 <p>Exploratory analysis of the State of Data Brazil 2023 survey dataset.</p>
 </td>
-</tr>
-<tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/bluetooth-robotic-car-claw"><img src="https://raw.githubusercontent.com/lianeheidemann/bluetooth-robotic-car-claw/main/assets/prototype/image2.png" width="100%" alt="Bluetooth robotic car joystick interface"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/bluetooth-robotic-car-claw">Bluetooth Robotic Car with Mechanical Claw</a></strong>
