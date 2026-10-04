@@ -88,7 +88,11 @@ Four projects showcasing mobile development, game development, artificial intell
 </a>
 <br><br>
 <a href="https://github.com/lianeheidemann/ai-prompt-studio">
-<img src="assets/badge/view-repository-v2.png" width="180" alt="View AI Prompt Studio repository">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/badge/view-repository-dark-v2.png">
+<source media="(prefers-color-scheme: light)" srcset="assets/badge/view-repository-light-v2.png">
+<img src="assets/badge/view-repository-light-v2.png" width="180" alt="View AI Prompt Studio repository">
+</picture>
 </a>
 <p>
 Responsive web workspace with six specialized AI workflows,
@@ -111,7 +115,11 @@ contextual conversations, and local history.
 </a>
 <br><br>
 <a href="https://github.com/lianeheidemann/gitbat-app">
-<img src="assets/badge/view-repository-v2.png" width="180" alt="View GitBat repository">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/badge/view-repository-dark-v2.png">
+<source media="(prefers-color-scheme: light)" srcset="assets/badge/view-repository-light-v2.png">
+<img src="assets/badge/view-repository-light-v2.png" width="180" alt="View GitBat repository">
+</picture>
 </a>
 <p>
 Android app for creating GitHub README content — GIF,
@@ -139,7 +147,11 @@ animation and high resolution.
 </a>
 <br><br>
 <a href="https://github.com/lianeheidemann/cirioapp-v2">
-<img src="assets/badge/view-repository-v2.png" width="180" alt="View CírioApp repository">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/badge/view-repository-dark-v2.png">
+<source media="(prefers-color-scheme: light)" srcset="assets/badge/view-repository-light-v2.png">
+<img src="assets/badge/view-repository-light-v2.png" width="180" alt="View CírioApp repository">
+</picture>
 </a>
 <p>
 Android app with schedules, maps, news, notifications,
@@ -163,7 +175,11 @@ favorites, and an AI assistant for the Círio of Nazaré.
 </a>
 <br><br>
 <a href="https://github.com/lianeheidemann/tennis-fun-game">
-<img src="assets/badge/view-repository-v2.png" width="180" alt="View TenisFun repository">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/badge/view-repository-dark-v2.png">
+<source media="(prefers-color-scheme: light)" srcset="assets/badge/view-repository-light-v2.png">
+<img src="assets/badge/view-repository-light-v2.png" width="180" alt="View TenisFun repository">
+</picture>
 </a>
 <p>
 A 2D tennis game with progressive difficulty,
