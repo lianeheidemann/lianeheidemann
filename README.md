@@ -282,6 +282,22 @@ and exporting ready-to-use animations and images.
 </tr>
 </table>
 
+<h2 align="center">Coming Soon</h2>
+
+<table width="100%">
+<tr>
+<td align="center" width="100%" valign="top">
+<br>
+<img src="./assets/projects/logos/svg-motion-gallery-ellipsis.svg" width="70" alt="Animated three-dot loading icon">
+<br><br>
+<strong>SVG Motion Gallery</strong>
+<p>Mobile app for browsing, previewing, and editing animated SVG files.</p>
+<img src="./assets/projects/previews/svg-motion-gallery-interface-v2.webp" width="100%" alt="Animated preview of five SVG Motion Gallery screens">
+<br><br>
+</td>
+</tr>
+</table>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/image/github-stats.svg?v=33-12-16-3013-2026">
