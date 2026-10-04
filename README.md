@@ -136,12 +136,11 @@ learning and growing in tech. 🦾
 </table>
 
 <br>
+<img src="./assets/image/location-divider.svg?v=1" alt="Animated cyan and violet divider" width="1000" height="100">
 
 <p>
   <strong><big><big>FEATURED PROJECTS</big></big></strong>
 </p>
-
-<img src="./assets/image/location-divider.svg?v=1" alt="Animated cyan and violet divider" width="1000" height="100">
 
 Four projects showcasing mobile development, game development, artificial intelligence, and developer tools.
 
