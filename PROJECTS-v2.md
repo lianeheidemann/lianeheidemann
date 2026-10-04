@@ -126,6 +126,13 @@
 </tr>
 <tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<a href="https://github.com/lianeheidemann/state-of-data-brasil-2023"><img src="https://raw.githubusercontent.com/lianeheidemann/state-of-data-brasil-2023/main/assets/distribuicao_idade_etnia.png" width="100%" alt="State of Data Brazil age and ethnicity distribution chart"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/state-of-data-brasil-2023">State of Data Brazil 2023</a></strong>
+<p>Exploratory analysis of the State of Data Brazil 2023 survey dataset.</p>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/bluetooth-robotic-car-claw"><img src="https://raw.githubusercontent.com/lianeheidemann/bluetooth-robotic-car-claw/main/assets/prototype/image2.png" width="100%" alt="Bluetooth robotic car joystick interface"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/bluetooth-robotic-car-claw">Bluetooth Robotic Car with Mechanical Claw</a></strong>
 <p>Arduino car controlled over Bluetooth, with a mobile joystick and a mechanical claw.</p>
@@ -141,6 +148,11 @@
 <a href="https://github.com/lianeheidemann/parallel-image-pipeline"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo-dark.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo.png"><img src="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo.png" height="60" alt="Parallel Image Pipeline logo"></picture></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/parallel-image-pipeline">Parallel Image Pipeline</a></strong>
 <p>Experimental image-processing pipeline comparing sequential and parallel execution and performance.</p>
+</td>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<a href="https://github.com/lianeheidemann/readme-components"><img src="https://raw.githubusercontent.com/lianeheidemann/readme-components/main/assets/readme-components-badge/readme-components-badge-4.svg" height="72" alt="README Components badge"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/readme-components">README Components</a></strong>
+<p>Reusable collection of badges, icons, images, and templates for GitHub READMEs.</p>
 </td>
 </tr>
 </table>
@@ -163,42 +175,28 @@
 <p>Collection of reusable AI skill instructions, scripts, and resources.</p>
 </td>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<strong><a href="https://github.com/lianeheidemann/readme-components">README Components</a></strong>
-<p>Reusable collection of badges, icons, images, and templates for GitHub READMEs.</p>
-</td>
-</tr>
-<tr>
-<td width="50%"></td>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<strong><a href="https://github.com/lianeheidemann/state-of-data-brasil-2023">State of Data Brazil 2023</a></strong>
-<p>Exploratory analysis of the State of Data Brazil 2023 survey dataset.</p>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <strong><a href="https://github.com/lianeheidemann/minilang-interpreter">MinyLang Interpreter</a></strong>
 <p>Python interpreter for a small language with variables, expressions, and conditionals.</p>
 </td>
+</tr>
+<tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <strong><a href="https://github.com/lianeheidemann/arduino-soil-moisture-monitor">Arduino Soil Moisture Monitor</a></strong>
 <p>Arduino soil-moisture monitor with LCD, status LED, and a control button; simulated in Tinkercad.</p>
 </td>
-</tr>
-<tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <strong><a href="https://github.com/lianeheidemann/java-deque-implementation">Java Deque Implementation</a></strong>
 <p>Java implementation of a double-ended queue, with tests and an example.</p>
 </td>
+</tr>
+<tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <strong><a href="https://github.com/lianeheidemann/parking-management-system">Parking Management System</a></strong>
 <p>Browser-based system for vehicle registration, search, and parking-fee calculation.</p>
 </td>
-</tr>
-<tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <strong><a href="https://github.com/lianeheidemann/python-cloud-database">Python Cloud Database</a></strong>
 <p>Python app that simulates bacterial population growth and stores results in a managed MySQL database.</p>
 </td>
-<td width="50%"></td>
 </tr>
 </table>
