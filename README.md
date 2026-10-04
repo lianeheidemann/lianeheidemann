@@ -135,7 +135,11 @@ learning and growing in tech. 🦾
 <strong><a href="https://github.com/lianeheidemann/bluetooth-robotic-car-claw">Bluetooth Robotic Car with Mechanical Claw</a></strong>
 <p>Arduino car controlled over Bluetooth, with a mobile joystick and a mechanical claw.</p>
 </td>
-<td width="50%"></td>
+<td align="center" width="50%" valign="top">
+<a href="https://github.com/lianeheidemann/automated-greenhouse-prototype"><img src="https://raw.githubusercontent.com/lianeheidemann/automated-greenhouse-prototype/main/assets/prototype/video_melhor_qualidade-1.webp" width="100%" alt="Automated Greenhouse Prototype preview"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/automated-greenhouse-prototype">Automated Greenhouse Prototype</a></strong>
+<p>Arduino greenhouse monitor for temperature, air humidity, and soil moisture, with LCD and Bluetooth reporting.</p>
+</td>
 </tr>
 </table>
 
