@@ -1,6 +1,6 @@
 <h1 align="center">PROJECTS</h1>
 <p align="center">A collection of software, research, and academic projects.</p>
-<p align="center"><sub>32 public repositories · projects with a logo, icon, or demo image appear first</sub></p>
+<p align="center"><sub>31 projects shown · projects with a logo, icon, or demo image appear first</sub></p>
 
 <h2>Mobile Projects</h2>
 <p>Android applications and mobile development projects.</p>
@@ -66,57 +66,9 @@
 </tr>
 <tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/protocolo-soap"><img src="https://raw.githubusercontent.com/lianeheidemann/protocolo-soap/main/assets/interface-desktop.gif" width="100%" alt="SOAP protocol app interface"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/protocolo-soap">Bubble & Co. — SOAP Protocol</a></strong>
-<p>Flask reference app implementing SOAP envelopes and XML parsing without an external SOAP framework.</p>
-</td>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/ai-web-architecture-alura"><img src="https://raw.githubusercontent.com/lianeheidemann/ai-web-architecture-alura/main/assets/gif/interface.gif" width="100%" alt="Alura technology album interface"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/ai-web-architecture-alura">Alura Album — Tech World Cup</a></strong>
-<p>Interactive technology album created during Alura's Web Architecture with AI immersion.</p>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/ai-prompt-studio"><img src="https://raw.githubusercontent.com/lianeheidemann/ai-prompt-studio/main/assets/interface/demonstration-desktop-v3.gif" width="100%" alt="AI Prompt Studio interface preview"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/ai-prompt-studio">AI Prompt Studio</a></strong>
-<p>Responsive workspace with six specialized AI workflows, contextual conversations, and local history.</p>
-</td>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/n8n-ai-agents-projects"><img src="https://raw.githubusercontent.com/lianeheidemann/n8n-ai-agents-projects/main/assets/imagens/primeiro_projeto.png" width="100%" alt="AI agents and n8n project preview"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/n8n-ai-agents-projects">AI Agents and n8n Immersion</a></strong>
-<p>Collection of independent AI-agent and n8n automation projects from an immersion course.</p>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/automated-greenhouse-prototype"><img src="https://raw.githubusercontent.com/lianeheidemann/automated-greenhouse-prototype/main/assets/prototype/video_melhor_qualidade-1.webp" width="100%" alt="Automated greenhouse prototype preview"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/automated-greenhouse-prototype">Automated Greenhouse Prototype</a></strong>
-<p>Arduino greenhouse monitor for temperature, air humidity, and soil moisture, with LCD and Bluetooth reporting.</p>
-</td>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/tennis-fun-game"><img src="https://raw.githubusercontent.com/lianeheidemann/tennis-fun-game/main/assets/gif/TenisFun_Gif_v2.gif" width="100%" alt="TenisFun gameplay preview"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/tennis-fun-game">TenisFun</a></strong>
-<p>2D tennis game with progressive difficulty, responsive controls, and a downloadable Windows build.</p>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/travel-booking-chatbot"><img src="https://raw.githubusercontent.com/lianeheidemann/travel-booking-chatbot/main/assets/gif-e-video/demonstracao-v2.gif" width="100%" alt="Travel booking chatbot interface preview"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/travel-booking-chatbot">Travel Booking Chatbot</a></strong>
-<p>JavaScript travel assistant that collects booking details in a guided conversation and updates a reservation summary.</p>
-</td>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/poetry-gallery"><img src="https://raw.githubusercontent.com/lianeheidemann/poetry-gallery/main/assets/interface_v2.gif" width="100%" alt="Poetry Gallery interface preview"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/poetry-gallery">Poetry Gallery</a></strong>
-<p>Responsive web gallery for creating and organizing poems with browser-based storage.</p>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/inventory-management-system"><img src="https://raw.githubusercontent.com/lianeheidemann/sistema_para_gestao_de_loja/main/picture_inventory-tui.png" width="100%" alt="Inventory Management System terminal interface"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/inventory-management-system">Inventory Management System</a></strong>
-<p>Node.js inventory manager with terminal-based CRUD, search, and filtering.</p>
+<a href="https://github.com/lianeheidemann/atividades-processamento-de-imagens"><img src="https://raw.githubusercontent.com/lianeheidemann/atividades-processamento-de-imagens/main/atividade/atividade-3/output/09_comparacao_antes_depois.png" width="100%" alt="Image processing comparison before and after"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/atividades-processamento-de-imagens">Image Processing Activities</a></strong>
+<p>Coursework in image processing, including quantization, histograms, gamma correction, enhancement, and segmentation.</p>
 </td>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/3d-animations"><img src="https://raw.githubusercontent.com/lianeheidemann/3d-animations/main/bone-animation/animation-2.gif" width="100%" alt="3D bone animation preview"></a><br><br>
@@ -131,21 +83,69 @@
 <p>Pure-Python port of ESIM's event-generation core for simulating event-camera output.</p>
 </td>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/state-of-data-brasil-2023"><img src="https://raw.githubusercontent.com/lianeheidemann/state-of-data-brasil-2023/main/assets/distribuicao_idade_etnia.png" width="100%" alt="State of Data Brazil age and ethnicity distribution chart"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/state-of-data-brasil-2023">State of Data Brazil 2023</a></strong>
-<p>Exploratory analysis of the State of Data Brazil 2023 survey dataset.</p>
+<a href="https://github.com/lianeheidemann/protocolo-soap"><img src="https://raw.githubusercontent.com/lianeheidemann/protocolo-soap/main/assets/interface-desktop.gif" width="100%" alt="SOAP protocol app interface"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/protocolo-soap">Bubble & Co. — SOAP Protocol</a></strong>
+<p>Flask reference app implementing SOAP envelopes and XML parsing without an external SOAP framework.</p>
 </td>
 </tr>
 <tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<a href="https://github.com/lianeheidemann/n8n-ai-agents-projects"><img src="https://raw.githubusercontent.com/lianeheidemann/n8n-ai-agents-projects/main/assets/imagens/primeiro_projeto.png" width="100%" alt="AI agents and n8n project preview"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/n8n-ai-agents-projects">AI Agents and n8n Immersion</a></strong>
+<p>Collection of independent AI-agent and n8n automation projects from an immersion course.</p>
+</td>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<a href="https://github.com/lianeheidemann/ai-web-architecture-alura"><img src="https://raw.githubusercontent.com/lianeheidemann/ai-web-architecture-alura/main/assets/gif/interface.gif" width="100%" alt="Alura technology album interface"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/ai-web-architecture-alura">Alura Album — Tech World Cup</a></strong>
+<p>Interactive technology album created during Alura's Web Architecture with AI immersion.</p>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<a href="https://github.com/lianeheidemann/ai-prompt-studio"><img src="https://raw.githubusercontent.com/lianeheidemann/ai-prompt-studio/main/assets/interface/demonstration-desktop-v3.gif" width="100%" alt="AI Prompt Studio interface preview"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/ai-prompt-studio">AI Prompt Studio</a></strong>
+<p>Responsive workspace with six specialized AI workflows, contextual conversations, and local history.</p>
+</td>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<a href="https://github.com/lianeheidemann/tennis-fun-game"><img src="https://raw.githubusercontent.com/lianeheidemann/tennis-fun-game/main/assets/gif/TenisFun_Gif_v2.gif" width="100%" alt="TenisFun gameplay preview"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/tennis-fun-game">TenisFun</a></strong>
+<p>2D tennis game with progressive difficulty, responsive controls, and a downloadable Windows build.</p>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<a href="https://github.com/lianeheidemann/state-of-data-brasil-2023"><img src="https://raw.githubusercontent.com/lianeheidemann/state-of-data-brasil-2023/main/assets/distribuicao_idade_etnia.png" width="100%" alt="State of Data Brazil age and ethnicity distribution chart"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/state-of-data-brasil-2023">State of Data Brazil 2023</a></strong>
+<p>Exploratory analysis of the State of Data Brazil 2023 survey dataset.</p>
+</td>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<a href="https://github.com/lianeheidemann/travel-booking-chatbot"><img src="https://raw.githubusercontent.com/lianeheidemann/travel-booking-chatbot/main/assets/gif-e-video/demonstracao-v2.gif" width="100%" alt="Travel booking chatbot interface preview"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/travel-booking-chatbot">Travel Booking Chatbot</a></strong>
+<p>JavaScript travel assistant that collects booking details in a guided conversation and updates a reservation summary.</p>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<a href="https://github.com/lianeheidemann/poetry-gallery"><img src="https://raw.githubusercontent.com/lianeheidemann/poetry-gallery/main/assets/interface_v2.gif" width="100%" alt="Poetry Gallery interface preview"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/poetry-gallery">Poetry Gallery</a></strong>
+<p>Responsive web gallery for creating and organizing poems with browser-based storage.</p>
+</td>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<a href="https://github.com/lianeheidemann/automated-greenhouse-prototype"><img src="https://raw.githubusercontent.com/lianeheidemann/automated-greenhouse-prototype/main/assets/prototype/video_melhor_qualidade-1.webp" width="100%" alt="Automated greenhouse prototype preview"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/automated-greenhouse-prototype">Automated Greenhouse Prototype</a></strong>
+<p>Arduino greenhouse monitor for temperature, air humidity, and soil moisture, with LCD and Bluetooth reporting.</p>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<a href="https://github.com/lianeheidemann/inventory-management-system"><img src="https://raw.githubusercontent.com/lianeheidemann/sistema_para_gestao_de_loja/main/picture_inventory-tui.png" width="100%" alt="Inventory Management System terminal interface"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/inventory-management-system">Inventory Management System</a></strong>
+<p>Node.js inventory manager with terminal-based CRUD, search, and filtering.</p>
+</td>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/bluetooth-robotic-car-claw"><img src="https://raw.githubusercontent.com/lianeheidemann/bluetooth-robotic-car-claw/main/assets/prototype/image2.png" width="100%" alt="Bluetooth robotic car joystick interface"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/bluetooth-robotic-car-claw">Bluetooth Robotic Car with Mechanical Claw</a></strong>
 <p>Arduino car controlled over Bluetooth, with a mobile joystick and a mechanical claw.</p>
-</td>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/atividades-processamento-de-imagens"><img src="https://raw.githubusercontent.com/lianeheidemann/atividades-processamento-de-imagens/main/atividade/atividade-3/output/09_comparacao_antes_depois.png" width="100%" alt="Image processing comparison before and after"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/atividades-processamento-de-imagens">Image Processing Activities</a></strong>
-<p>Coursework in image processing, including quantization, histograms, gamma correction, enhancement, and segmentation.</p>
 </td>
 </tr>
 </table>
