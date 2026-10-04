@@ -2,5 +2,5 @@
 <title id="title">WebGL</title><desc id="desc">Theme-adaptive WebGL technology badge.</desc>
 <style>.bg{fill:#e9f2ff;stroke:#3978d4}.label{fill:#173d78}.mark{fill:none;stroke:#2563eb}@media(prefers-color-scheme:dark){.bg{fill:#101f38;stroke:#68a4ff}.label{fill:#ecf4ff}.mark{stroke:#83b6ff}}</style>
 <rect class="bg" x=".75" y=".75" width="140.5" height="42.5" rx="10" stroke-width="1.5"/>
-<path class="mark" d="m28 9 11 6.5v13L28 35l-11-6.5v-13L28 9zm-11 6.5 11 7 11-7M28 22.5V35" stroke-width="1.8" stroke-linejoin="round"/>
+<ellipse class="mark" cx="28" cy="22" rx="14" ry="8" stroke-width="1.8"/><text class="label" x="28" y="24.1" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="6.2" font-weight="700">WebGL</text>
 <text class="label" x="51" y="28" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="700" letter-spacing="1.3">WEBGL</text></svg>
