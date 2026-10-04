@@ -6,50 +6,14 @@
 <table width="100%" cellpadding="10" cellspacing="8" border="0">
 <tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/ai-prompt-studio"><img src="https://raw.githubusercontent.com/lianeheidemann/ai-prompt-studio/main/assets/interface/demonstration-desktop-v3.gif" width="100%" alt="AI Prompt Studio interface preview"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/ai-prompt-studio">AI Prompt Studio</a></strong>
-<p>Responsive workspace with six specialized AI workflows, contextual conversations, and local history.</p>
+<a href="https://github.com/lianeheidemann/object-inspector"><img src="https://raw.githubusercontent.com/lianeheidemann/object-inspector/main/assets/interface-object-inspector-v1.webp" width="100%" alt="Object Inspector interface preview"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/object-inspector">Object Inspector</a></strong>
+<p>Static web viewer that displays geometric deviation heatmaps on 3D surfaces.</p>
 </td>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/gitbat-app"><img src="https://raw.githubusercontent.com/lianeheidemann/gitbat-app/main/assets/interface-v2/gitbat-interface-escuro-v3.png" width="100%" alt="GitBat interface preview"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/gitbat-app">GitBat</a></strong>
-<p>Android app for creating GIF, animated WebP, SVG, and PNG content for GitHub READMEs.</p>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/tennis-fun-game"><img src="https://raw.githubusercontent.com/lianeheidemann/tennis-fun-game/main/assets/gif/TenisFun_Gif_v2.gif" width="100%" alt="TenisFun gameplay preview"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/tennis-fun-game">TenisFun</a></strong>
-<p>2D tennis game with progressive difficulty, responsive controls, and a downloadable Windows build.</p>
-</td>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/squat-counter-app"><img src="https://raw.githubusercontent.com/lianeheidemann/squat-counter-app/main/assets/squat-counter-interface-2.webp" width="100%" alt="Squat Counter interface preview"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/squat-counter-app">Squat Counter App</a></strong>
-<p>Flutter app that counts squats and tracks sets using the phone accelerometer.</p>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/edge-detection-app"><img src="https://raw.githubusercontent.com/lianeheidemann/edge-detection-app/main/assets/edge-detection-interface-v1.png" width="100%" alt="Edge Detection interface preview"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/edge-detection-app">Edge Detection</a></strong>
-<p>Android image-processing app for detecting image edges.</p>
-</td>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/cirioapp-v2"><img src="https://raw.githubusercontent.com/lianeheidemann/cirioapp-v2/main/assets/images/interface_v4.png" width="100%" alt="CírioApp interface preview"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/cirioapp-v2">CírioApp</a></strong>
-<p>Android app for Círio de Nazaré schedules, maps, news, notifications, favorites, and an AI assistant.</p>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/porcelain-inspection-unity"><img src="https://raw.githubusercontent.com/lianeheidemann/porcelain-inspection-unity/main/media/interface-1.gif" width="100%" alt="Porcelain Inspection interface preview"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/porcelain-inspection-unity">Porcelain Inspection</a></strong>
-<p>Unity 3D prototype for rotating, zooming, and inspecting points on a porcelain piece.</p>
-</td>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/travel-booking-chatbot"><img src="https://raw.githubusercontent.com/lianeheidemann/travel-booking-chatbot/main/assets/gif-e-video/demonstracao-v2.gif" width="100%" alt="Viajar chatbot interface preview"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/travel-booking-chatbot">Viajar — Travel Booking Chatbot</a></strong>
-<p>JavaScript travel assistant that collects booking details in a guided conversation and updates a reservation summary.</p>
+<a href="https://github.com/lianeheidemann/vehicle-3d-showroom"><img src="https://raw.githubusercontent.com/lianeheidemann/vehicle-3d-showroom/main/midia/interface/interface-desktop-v2.webp" width="100%" alt="Vehicle 3D Showroom interface preview"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/vehicle-3d-showroom">Vehicle 3D Showroom</a></strong>
+<p>Browser-based 3D vehicle showroom with interactive models and gamepad support.</p>
 </td>
 </tr>
 <tr>
@@ -59,40 +23,16 @@
 <p>Browser-based 3D driving simulator with keyboard and Xbox-compatible gamepad controls.</p>
 </td>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/object-inspector"><img src="https://raw.githubusercontent.com/lianeheidemann/object-inspector/main/assets/interface-object-inspector-v1.webp" width="100%" alt="Object Inspector interface preview"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/object-inspector">Object Inspector</a></strong>
-<p>Static web viewer that displays geometric deviation heatmaps on 3D surfaces.</p>
+<a href="https://github.com/lianeheidemann/porcelain-inspection-unity"><img src="https://raw.githubusercontent.com/lianeheidemann/porcelain-inspection-unity/main/media/interface-1.gif" width="100%" alt="Porcelain Inspection interface preview"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/porcelain-inspection-unity">Porcelain Inspection</a></strong>
+<p>Unity 3D prototype for rotating, zooming, and inspecting points on a porcelain piece.</p>
 </td>
 </tr>
 <tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/bluetooth-robotic-car-claw"><img src="https://raw.githubusercontent.com/lianeheidemann/bluetooth-robotic-car-claw/main/assets/prototype/joystick-app.png" width="100%" alt="Bluetooth robotic car joystick interface"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/bluetooth-robotic-car-claw">Bluetooth Robotic Car with Mechanical Claw</a></strong>
-<p>Arduino car controlled over Bluetooth, with a mobile joystick and a mechanical claw.</p>
-</td>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/inventory-management-system"><img src="https://raw.githubusercontent.com/lianeheidemann/sistema_para_gestao_de_loja/main/picture_inventory-tui.png" width="100%" alt="Inventory Management System terminal interface"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/inventory-management-system">Inventory Management System</a></strong>
-<p>Node.js inventory manager with terminal-based CRUD, search, and filtering.</p>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/poetry-gallery"><img src="https://raw.githubusercontent.com/lianeheidemann/poetry-gallery/main/assets/interface_v2.gif" width="100%" alt="Poetry Gallery interface preview"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/poetry-gallery">Poetry Gallery</a></strong>
-<p>Responsive web gallery for creating and organizing poems with browser-based storage.</p>
-</td>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/firebase-remote-config-app"><img src="https://raw.githubusercontent.com/lianeheidemann/firebase-remote-config-app/main/assets/gifs/gif1_cor_FirebaseRemoteConfig.gif" width="100%" alt="Firebase Remote Config app interface"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/firebase-remote-config-app">Firebase Remote Config App</a></strong>
-<p>Flutter example of using Firebase Remote Config to change app UI without a new release.</p>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/ai-web-architecture-alura"><img src="https://raw.githubusercontent.com/lianeheidemann/ai-web-architecture-alura/main/assets/gif/interface.gif" width="100%" alt="Alura technology album interface"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/ai-web-architecture-alura">Alura Album — Tech World Cup</a></strong>
-<p>Interactive technology album created during Alura's Web Architecture with AI immersion.</p>
+<a href="https://github.com/lianeheidemann/gitbat-app"><img src="https://raw.githubusercontent.com/lianeheidemann/gitbat-app/main/assets/interface-v2/gitbat-interface-escuro-v3.png" width="100%" alt="GitBat interface preview"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/gitbat-app">GitBat</a></strong>
+<p>Android app for creating GIF, animated WebP, SVG, and PNG content for GitHub READMEs.</p>
 </td>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/protocolo-soap"><img src="https://raw.githubusercontent.com/lianeheidemann/protocolo-soap/main/assets/interface-desktop.gif" width="100%" alt="SOAP protocol app interface"></a><br><br>
@@ -102,9 +42,69 @@
 </tr>
 <tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/vehicle-3d-showroom"><img src="https://raw.githubusercontent.com/lianeheidemann/vehicle-3d-showroom/main/midia/interface/interface-desktop-v2.webp" width="100%" alt="Vehicle 3D Showroom interface preview"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/vehicle-3d-showroom">Vehicle 3D Showroom</a></strong>
-<p>Browser-based 3D vehicle showroom with interactive models and gamepad support.</p>
+<a href="https://github.com/lianeheidemann/ai-web-architecture-alura"><img src="https://raw.githubusercontent.com/lianeheidemann/ai-web-architecture-alura/main/assets/gif/interface.gif" width="100%" alt="Alura technology album interface"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/ai-web-architecture-alura">Alura Album — Tech World Cup</a></strong>
+<p>Interactive technology album created during Alura's Web Architecture with AI immersion.</p>
+</td>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<a href="https://github.com/lianeheidemann/ai-prompt-studio"><img src="https://raw.githubusercontent.com/lianeheidemann/ai-prompt-studio/main/assets/interface/demonstration-desktop-v3.gif" width="100%" alt="AI Prompt Studio interface preview"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/ai-prompt-studio">AI Prompt Studio</a></strong>
+<p>Responsive workspace with six specialized AI workflows, contextual conversations, and local history.</p>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<a href="https://github.com/lianeheidemann/cirioapp-v2"><img src="https://raw.githubusercontent.com/lianeheidemann/cirioapp-v2/main/assets/images/interface_v4.png" width="100%" alt="CírioApp interface preview"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/cirioapp-v2">CírioApp</a></strong>
+<p>Android app for Círio de Nazaré schedules, maps, news, notifications, favorites, and an AI assistant.</p>
+</td>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<a href="https://github.com/lianeheidemann/firebase-remote-config-app"><img src="https://raw.githubusercontent.com/lianeheidemann/firebase-remote-config-app/main/assets/gifs/gif1_cor_FirebaseRemoteConfig.gif" width="100%" alt="Firebase Remote Config app interface"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/firebase-remote-config-app">Firebase Remote Config App</a></strong>
+<p>Flutter example of using Firebase Remote Config to change app UI without a new release.</p>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<a href="https://github.com/lianeheidemann/edge-detection-app"><img src="https://raw.githubusercontent.com/lianeheidemann/edge-detection-app/main/assets/edge-detection-interface-v1.png" width="100%" alt="Edge Detection interface preview"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/edge-detection-app">Edge Detection</a></strong>
+<p>Android image-processing app for detecting image edges.</p>
+</td>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<a href="https://github.com/lianeheidemann/squat-counter-app"><img src="https://raw.githubusercontent.com/lianeheidemann/squat-counter-app/main/assets/squat-counter-interface-2.webp" width="100%" alt="Squat Counter interface preview"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/squat-counter-app">Squat Counter App</a></strong>
+<p>Flutter app that counts squats and tracks sets using the phone accelerometer.</p>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<a href="https://github.com/lianeheidemann/tennis-fun-game"><img src="https://raw.githubusercontent.com/lianeheidemann/tennis-fun-game/main/assets/gif/TenisFun_Gif_v2.gif" width="100%" alt="TenisFun gameplay preview"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/tennis-fun-game">TenisFun</a></strong>
+<p>2D tennis game with progressive difficulty, responsive controls, and a downloadable Windows build.</p>
+</td>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<a href="https://github.com/lianeheidemann/travel-booking-chatbot"><img src="https://raw.githubusercontent.com/lianeheidemann/travel-booking-chatbot/main/assets/gif-e-video/demonstracao-v2.gif" width="100%" alt="Viajar chatbot interface preview"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/travel-booking-chatbot">Viajar — Travel Booking Chatbot</a></strong>
+<p>JavaScript travel assistant that collects booking details in a guided conversation and updates a reservation summary.</p>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<a href="https://github.com/lianeheidemann/poetry-gallery"><img src="https://raw.githubusercontent.com/lianeheidemann/poetry-gallery/main/assets/interface_v2.gif" width="100%" alt="Poetry Gallery interface preview"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/poetry-gallery">Poetry Gallery</a></strong>
+<p>Responsive web gallery for creating and organizing poems with browser-based storage.</p>
+</td>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<a href="https://github.com/lianeheidemann/inventory-management-system"><img src="https://raw.githubusercontent.com/lianeheidemann/sistema_para_gestao_de_loja/main/picture_inventory-tui.png" width="100%" alt="Inventory Management System terminal interface"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/inventory-management-system">Inventory Management System</a></strong>
+<p>Node.js inventory manager with terminal-based CRUD, search, and filtering.</p>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<a href="https://github.com/lianeheidemann/bluetooth-robotic-car-claw"><img src="https://raw.githubusercontent.com/lianeheidemann/bluetooth-robotic-car-claw/main/assets/prototype/joystick-app.png" width="100%" alt="Bluetooth robotic car joystick interface"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/bluetooth-robotic-car-claw">Bluetooth Robotic Car with Mechanical Claw</a></strong>
+<p>Arduino car controlled over Bluetooth, with a mobile joystick and a mechanical claw.</p>
 </td>
 <td width="50%"></td>
 </tr>
@@ -114,14 +114,14 @@
 <table width="100%" cellpadding="10" cellspacing="8" border="0">
 <tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/automated-greenhouse-prototype"><img src="https://raw.githubusercontent.com/lianeheidemann/automated-greenhouse-prototype/main/assets/icon/sprout-icon.svg" height="72" alt="Sprout icon"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/automated-greenhouse-prototype">Automated Greenhouse Prototype</a></strong>
-<p>Arduino greenhouse monitor for temperature, air humidity, and soil moisture, with LCD and Bluetooth reporting.</p>
-</td>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/parallel-image-pipeline"><img src="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo.png" height="60" alt="Parallel Image Pipeline logo"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/parallel-image-pipeline">Parallel Image Pipeline</a></strong>
 <p>Experimental image-processing pipeline comparing sequential and parallel execution and performance.</p>
+</td>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<a href="https://github.com/lianeheidemann/automated-greenhouse-prototype"><img src="https://raw.githubusercontent.com/lianeheidemann/automated-greenhouse-prototype/main/assets/icon/sprout-icon.svg" height="72" alt="Sprout icon"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/automated-greenhouse-prototype">Automated Greenhouse Prototype</a></strong>
+<p>Arduino greenhouse monitor for temperature, air humidity, and soil moisture, with LCD and Bluetooth reporting.</p>
 </td>
 </tr>
 </table>
@@ -130,58 +130,8 @@
 <table width="100%" cellpadding="10" cellspacing="8" border="0">
 <tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<strong><a href="https://github.com/lianeheidemann/python-cloud-database">Python Cloud Database</a></strong>
-<p>Python app that simulates bacterial population growth and stores results in a managed MySQL database.</p>
-</td>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<strong><a href="https://github.com/lianeheidemann/parking-management-system">Parking Management System</a></strong>
-<p>Browser-based system for vehicle registration, search, and parking-fee calculation.</p>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<strong><a href="https://github.com/lianeheidemann/java-deque-implementation">Java Deque Implementation</a></strong>
-<p>Java implementation of a double-ended queue, with tests and an example.</p>
-</td>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<strong><a href="https://github.com/lianeheidemann/arduino-soil-moisture-monitor">Arduino Soil Moisture Monitor</a></strong>
-<p>Arduino soil-moisture monitor with LCD, status LED, and a control button; simulated in Tinkercad.</p>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<strong><a href="https://github.com/lianeheidemann/minilang-interpreter">MinyLang Interpreter</a></strong>
-<p>Python interpreter for a small language with variables, expressions, and conditionals.</p>
-</td>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<strong><a href="https://github.com/lianeheidemann/state-of-data-brasil-2023">State of Data Brazil 2023</a></strong>
-<p>Exploratory analysis of the State of Data Brazil 2023 survey dataset.</p>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<strong><a href="https://github.com/lianeheidemann/n8n-ai-agents-projects">AI Agents and n8n Immersion</a></strong>
-<p>Collection of independent AI-agent and n8n automation projects from an immersion course.</p>
-</td>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<strong><a href="https://github.com/lianeheidemann/readme-components">README Components</a></strong>
-<p>Reusable collection of badges, icons, images, and templates for GitHub READMEs.</p>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<strong><a href="https://github.com/lianeheidemann/skills">Skills</a></strong>
-<p>Collection of reusable AI skill instructions, scripts, and resources.</p>
-</td>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<strong><a href="https://github.com/lianeheidemann/rpg-esim-python">ESIM Event Camera Simulator</a></strong>
-<p>Pure-Python port of ESIM's event-generation core for simulating event-camera output.</p>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<strong><a href="https://github.com/lianeheidemann/3d-animations">3D Animations</a></strong>
-<p>Blender collection of 3D character and prop animations, with source and export files.</p>
+<strong><a href="https://github.com/lianeheidemann/mesh-comparison">Mesh Comparison</a></strong>
+<p>Python workspace for geometric and perceptual comparison of reconstructed 3D meshes.</p>
 </td>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <strong><a href="https://github.com/lianeheidemann/atividades-processamento-de-imagens">Image Processing Activities</a></strong>
@@ -190,8 +140,58 @@
 </tr>
 <tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<strong><a href="https://github.com/lianeheidemann/mesh-comparison">Mesh Comparison</a></strong>
-<p>Python workspace for geometric and perceptual comparison of reconstructed 3D meshes.</p>
+<strong><a href="https://github.com/lianeheidemann/3d-animations">3D Animations</a></strong>
+<p>Blender collection of 3D character and prop animations, with source and export files.</p>
+</td>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<strong><a href="https://github.com/lianeheidemann/rpg-esim-python">ESIM Event Camera Simulator</a></strong>
+<p>Pure-Python port of ESIM's event-generation core for simulating event-camera output.</p>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<strong><a href="https://github.com/lianeheidemann/skills">Skills</a></strong>
+<p>Collection of reusable AI skill instructions, scripts, and resources.</p>
+</td>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<strong><a href="https://github.com/lianeheidemann/readme-components">README Components</a></strong>
+<p>Reusable collection of badges, icons, images, and templates for GitHub READMEs.</p>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<strong><a href="https://github.com/lianeheidemann/n8n-ai-agents-projects">AI Agents and n8n Immersion</a></strong>
+<p>Collection of independent AI-agent and n8n automation projects from an immersion course.</p>
+</td>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<strong><a href="https://github.com/lianeheidemann/state-of-data-brasil-2023">State of Data Brazil 2023</a></strong>
+<p>Exploratory analysis of the State of Data Brazil 2023 survey dataset.</p>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<strong><a href="https://github.com/lianeheidemann/minilang-interpreter">MinyLang Interpreter</a></strong>
+<p>Python interpreter for a small language with variables, expressions, and conditionals.</p>
+</td>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<strong><a href="https://github.com/lianeheidemann/arduino-soil-moisture-monitor">Arduino Soil Moisture Monitor</a></strong>
+<p>Arduino soil-moisture monitor with LCD, status LED, and a control button; simulated in Tinkercad.</p>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<strong><a href="https://github.com/lianeheidemann/java-deque-implementation">Java Deque Implementation</a></strong>
+<p>Java implementation of a double-ended queue, with tests and an example.</p>
+</td>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<strong><a href="https://github.com/lianeheidemann/parking-management-system">Parking Management System</a></strong>
+<p>Browser-based system for vehicle registration, search, and parking-fee calculation.</p>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<strong><a href="https://github.com/lianeheidemann/python-cloud-database">Python Cloud Database</a></strong>
+<p>Python app that simulates bacterial population growth and stores results in a managed MySQL database.</p>
 </td>
 <td width="50%"></td>
 </tr>
