@@ -136,9 +136,7 @@ animation and high resolution.
 <br><br>
 </td>
 </tr>
-</table>
 
-<table>
 <tr>
 <td align="center" width="50%" valign="top">
 <br>
