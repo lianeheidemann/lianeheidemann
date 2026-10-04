@@ -37,7 +37,7 @@
 </td>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/mesh-comparison"><img src="https://raw.githubusercontent.com/lianeheidemann/mesh-comparison/main/assets/mesh-comparison-logo.png" width="40%" alt="Mesh Comparison logo"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/mesh-comparison">Mesh Comparison</a></strong>
+<strong><a href="https://github.com/lianeheidemann/mesh-comparison">Mesh Comparison</a></strong><br><img src="https://img.shields.io/badge/%E2%8F%B3-Early%20Stage-3B82F6?style=flat-square" alt="Mesh project in early stage">
 <p>Python workspace for geometric and perceptual comparison of reconstructed 3D meshes.</p>
 </td>
 </tr>
