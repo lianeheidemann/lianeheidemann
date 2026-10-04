@@ -211,7 +211,7 @@ contextual conversations, and local history.
 <img src="assets/projects/logos/gitbat-v2.png" height="100" alt="GitBat logo">
 </a>
 <br><br>
-<strong><a href="https://github.com/lianeheidemann/gitbat-app">GitBat</a></strong>
+<strong><a href="https://github.com/lianeheidemann/gitbat-app">GitBat</a> 💙🏆</strong>
 <br><br>
 <a href="https://github.com/lianeheidemann/gitbat-app">
 <picture>
@@ -305,6 +305,8 @@ and exporting ready-to-use animations and images.
 <tr>
 <td align="center" width="100%" valign="top">
 <br>
+<img src="./assets/projects/logos/svg-motion-gallery-icon-v1.png" width="82" alt="SVG Motion Gallery butterfly icon">
+<br><br>
 <img src="./assets/projects/logos/svg-motion-gallery-ellipsis.svg" width="70" alt="Animated three-dot loading icon">
 <br><br>
 <strong>SVG Motion Gallery</strong>
