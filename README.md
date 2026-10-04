@@ -234,8 +234,29 @@ responsive controls, and a downloadable Windows executable.
 </tr>
 </table>
 
+<h2 align="center">Hardware &amp; Mesh Projects</h2>
+<p align="center">Embedded systems and 3D mesh evaluation projects.</p>
+
+<table width="100%">
+<tr>
+<td align="center" width="50%" valign="top">
+<a href="https://github.com/lianeheidemann/bluetooth-robotic-car-claw"><img src="https://raw.githubusercontent.com/lianeheidemann/bluetooth-robotic-car-claw/main/assets/prototype/image2.png" width="100%" alt="Bluetooth robotic car with mechanical claw"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/bluetooth-robotic-car-claw">Bluetooth Robotic Car with Mechanical Claw</a></strong>
+<p>Arduino car controlled over Bluetooth, with a mobile joystick and a mechanical claw.</p>
+</td>
+<td align="center" width="50%" valign="top">
+<a href="https://github.com/lianeheidemann/mesh-comparison"><img src="https://raw.githubusercontent.com/lianeheidemann/mesh-comparison/main/assets/mesh-comparison-logo.png" width="45%" alt="Mesh Comparison logo"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/mesh-comparison">Mesh Comparison</a></strong>
+<p><strong>Early-stage project</strong><br>Python workspace for geometric and perceptual comparison of reconstructed 3D meshes.</p>
+</td>
+</tr>
+</table>
+
 <br>
 
+<p align="center">
+  <picture>
+    
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/image/github-stats.svg?v=33-12-16-3013-2026">
