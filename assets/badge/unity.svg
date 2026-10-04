@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="154" height="44" viewBox="0 0 154 44" role="img" aria-labelledby="title desc">
-<title id="title">Unity</title><desc id="desc">Theme-adaptive Unity technology badge.</desc>
-<style>.bg{fill:#eef0f3;stroke:#596273}.label{fill:#202632}.mark{fill:none;stroke:#202632}@media(prefers-color-scheme:dark){.bg{fill:#171b23;stroke:#aeb8c6}.label{fill:#f5f7fb}.mark{stroke:#f5f7fb}}</style>
+<title id="title">Unity</title><desc id="desc">Unity badge with the high-resolution vector Unity cube logo.</desc>
+<style>.bg{fill:#f0f1f3;stroke:#a2a7ae}.label{fill:#25292e}.mark{fill:#25292e}@media(prefers-color-scheme:dark){.bg{fill:#22262c;stroke:#7c858f}.label{fill:#f5f6f8}.mark{fill:#f5f6f8}}</style>
 <rect class="bg" x=".75" y=".75" width="152.5" height="42.5" rx="10" stroke-width="1.5"/>
-<path class="mark" d="m28 8 12 7v14l-12 7-12-7V15l12-7zm-12 7 12 7 12-7M28 22v14M21 11.5l12 7v7" stroke-width="2" stroke-linejoin="round"/>
+<path class="mark" transform="translate(13 8) scale(1.15)" d="m 12.9288 4.2939 3.7997 2.1929c.1366.077.1415.2905 0 .3675l-4.515 2.6076a.4192.4192 0 0 1-.4246 0L7.274 6.8543c-.139-.0745-.1415-.293 0-.3675l3.7972-2.193V0L1.3758 5.5977V16.793l3.7177-2.1456v-4.3858c-.0025-.1565.1813-.2682.318-.1838l4.5148 2.6076a.4252.4252 0 0 1 .2136.3676v5.2127c.0025.1565-.1813.2682-.3179.1838l-3.7996-2.1929-3.7178 2.1457L12 24l9.6954-5.5977-3.7178-2.1457-3.7996 2.1929c-.1341.082-.3229-.0248-.3179-.1838V13.053c0-.1565.087-.2956.2136-.3676l4.5149-2.6076c.134-.082.3228.0224.3179.1838v4.3858l3.7177 2.1456V5.5977L12.9288 0Z"/>
 <text class="label" x="52" y="28" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">UNITY</text></svg>
