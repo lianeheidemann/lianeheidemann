@@ -89,9 +89,9 @@ Four projects showcasing mobile development, game development, artificial intell
 <br><br>
 <a href="https://github.com/lianeheidemann/ai-prompt-studio">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/badge/view-repository-dark-v2.png">
-<source media="(prefers-color-scheme: light)" srcset="assets/badge/view-repository-light-v2.png">
-<img src="assets/badge/view-repository-light-v2.png" width="180" alt="View AI Prompt Studio repository">
+<source media="(prefers-color-scheme: dark)" srcset="assets/badge/view-repository-dark-v1.png">
+<source media="(prefers-color-scheme: light)" srcset="assets/badge/view-repository-light-v1.png">
+<img src="assets/badge/view-repository-light-v1.png" width="180" alt="View AI Prompt Studio repository">
 </picture>
 </a>
 <p>
@@ -116,9 +116,9 @@ contextual conversations, and local history.
 <br><br>
 <a href="https://github.com/lianeheidemann/gitbat-app">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/badge/view-repository-dark-v2.png">
-<source media="(prefers-color-scheme: light)" srcset="assets/badge/view-repository-light-v2.png">
-<img src="assets/badge/view-repository-light-v2.png" width="180" alt="View GitBat repository">
+<source media="(prefers-color-scheme: dark)" srcset="assets/badge/view-repository-dark-v1.png">
+<source media="(prefers-color-scheme: light)" srcset="assets/badge/view-repository-light-v1.png">
+<img src="assets/badge/view-repository-light-v1.png" width="180" alt="View GitBat repository">
 </picture>
 </a>
 <p>
@@ -148,9 +148,9 @@ animation and high resolution.
 <br><br>
 <a href="https://github.com/lianeheidemann/cirioapp-v2">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/badge/view-repository-dark-v2.png">
-<source media="(prefers-color-scheme: light)" srcset="assets/badge/view-repository-light-v2.png">
-<img src="assets/badge/view-repository-light-v2.png" width="180" alt="View CírioApp repository">
+<source media="(prefers-color-scheme: dark)" srcset="assets/badge/view-repository-dark-v1.png">
+<source media="(prefers-color-scheme: light)" srcset="assets/badge/view-repository-light-v1.png">
+<img src="assets/badge/view-repository-light-v1.png" width="180" alt="View CírioApp repository">
 </picture>
 </a>
 <p>
@@ -176,9 +176,9 @@ favorites, and an AI assistant for the Círio of Nazaré.
 <br><br>
 <a href="https://github.com/lianeheidemann/tennis-fun-game">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/badge/view-repository-dark-v2.png">
-<source media="(prefers-color-scheme: light)" srcset="assets/badge/view-repository-light-v2.png">
-<img src="assets/badge/view-repository-light-v2.png" width="180" alt="View TenisFun repository">
+<source media="(prefers-color-scheme: dark)" srcset="assets/badge/view-repository-dark-v1.png">
+<source media="(prefers-color-scheme: light)" srcset="assets/badge/view-repository-light-v1.png">
+<img src="assets/badge/view-repository-light-v1.png" width="180" alt="View TenisFun repository">
 </picture>
 </a>
 <p>
