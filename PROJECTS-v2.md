@@ -126,27 +126,35 @@
 </tr>
 <tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<a href="https://github.com/lianeheidemann/arduino-soil-moisture-monitor"><img src="https://raw.githubusercontent.com/lianeheidemann/arduino-soil-moisture-monitor/main/assets/demonstration.gif" width="100%" alt="Arduino Soil Moisture Monitor demonstration"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/arduino-soil-moisture-monitor">Arduino Soil Moisture Monitor</a></strong>
+<p>Arduino soil-moisture monitor with LCD, status LED, and a control button; simulated in Tinkercad.</p>
+</td>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/poetry-gallery"><img src="https://raw.githubusercontent.com/lianeheidemann/poetry-gallery/main/assets/interface_v2.gif" width="100%" alt="Poetry Gallery interface preview"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/poetry-gallery">Poetry Gallery</a></strong>
 <p>Responsive web gallery for creating and organizing poems with browser-based storage.</p>
 </td>
+</tr>
+<tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/automated-greenhouse-prototype"><img src="https://raw.githubusercontent.com/lianeheidemann/automated-greenhouse-prototype/main/assets/prototype/video_melhor_qualidade-1.webp" width="100%" alt="Automated greenhouse prototype preview"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/automated-greenhouse-prototype">Automated Greenhouse Prototype</a></strong>
 <p>Arduino greenhouse monitor for temperature, air humidity, and soil moisture, with LCD and Bluetooth reporting.</p>
 </td>
-</tr>
-<tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/inventory-management-system"><img src="https://raw.githubusercontent.com/lianeheidemann/sistema_para_gestao_de_loja/main/picture_inventory-tui.png" width="100%" alt="Inventory Management System terminal interface"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/inventory-management-system">Inventory Management System</a></strong>
 <p>Node.js inventory manager with terminal-based CRUD, search, and filtering.</p>
 </td>
+</tr>
+<tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/bluetooth-robotic-car-claw"><img src="https://raw.githubusercontent.com/lianeheidemann/bluetooth-robotic-car-claw/main/assets/prototype/image2.png" width="100%" alt="Bluetooth robotic car joystick interface"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/bluetooth-robotic-car-claw">Bluetooth Robotic Car with Mechanical Claw</a></strong>
 <p>Arduino car controlled over Bluetooth, with a mobile joystick and a mechanical claw.</p>
 </td>
+<td width="50%"></td>
 </tr>
 </table>
 
@@ -180,22 +188,19 @@
 </tr>
 <tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<strong><a href="https://github.com/lianeheidemann/arduino-soil-moisture-monitor">Arduino Soil Moisture Monitor</a></strong>
-<p>Arduino soil-moisture monitor with LCD, status LED, and a control button; simulated in Tinkercad.</p>
-</td>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <strong><a href="https://github.com/lianeheidemann/java-deque-implementation">Java Deque Implementation</a></strong>
 <p>Java implementation of a double-ended queue, with tests and an example.</p>
 </td>
-</tr>
-<tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <strong><a href="https://github.com/lianeheidemann/parking-management-system">Parking Management System</a></strong>
 <p>Browser-based system for vehicle registration, search, and parking-fee calculation.</p>
 </td>
+</tr>
+<tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <strong><a href="https://github.com/lianeheidemann/python-cloud-database">Python Cloud Database</a></strong>
 <p>Python app that simulates bacterial population growth and stores results in a managed MySQL database.</p>
 </td>
+<td width="50%"></td>
 </tr>
 </table>
