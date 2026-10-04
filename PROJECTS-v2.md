@@ -30,9 +30,9 @@
 </tr>
 <tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/travel-booking-chatbot"><img src="https://github.com/lianeheidemann/travel-booking-chatbot/blob/main/assets/gif-e-video/demonstracao-v2.gif" alt="Viajar logo"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/travel-booking-chatbot">Viajar — Travel Booking Chatbot</a></strong>
-<p>JavaScript travel assistant that collects booking details in a guided conversation and updates a reservation summary.</p>
+<a href="https://github.com/lianeheidemann/parallel-image-pipeline"><img src="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo.png" height="60" alt="Parallel Image Pipeline logo"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/parallel-image-pipeline">Parallel Image Pipeline</a></strong>
+<p>Experimental image-processing pipeline comparing sequential and parallel execution and performance.</p>
 </td>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/squat-counter-app"><img src="https://raw.githubusercontent.com/lianeheidemann/squat-counter-app/main/assets/squat-counter-icon-v2.png" height="72" alt="Squat Counter icon"></a><br><br>
@@ -59,9 +59,9 @@
 <p>Unity 3D prototype for rotating, zooming, and inspecting points on a porcelain piece.</p>
 </td>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/parallel-image-pipeline"><img src="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo.png" height="60" alt="Parallel Image Pipeline logo"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/parallel-image-pipeline">Parallel Image Pipeline</a></strong>
-<p>Experimental image-processing pipeline comparing sequential and parallel execution and performance.</p>
+<a href="https://github.com/lianeheidemann/travel-booking-chatbot"><img src="https://github.com/lianeheidemann/travel-booking-chatbot/blob/main/assets/gif-e-video/demonstracao-v2.gif" alt="Viajar logo"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/travel-booking-chatbot">Viajar — Travel Booking Chatbot</a></strong>
+<p>JavaScript travel assistant that collects booking details in a guided conversation and updates a reservation summary.</p>
 </td>
 </tr>
 <tr>
