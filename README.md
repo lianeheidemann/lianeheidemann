@@ -66,7 +66,7 @@ learning and growing in tech. 🦾
 </p>
 
 <p>
-  <img src="./assets/badge/threejs.svg?v=1" alt="Three.js" height="30">
+  <img src="./assets/badge/threejs.svg?v=2" alt="Three.js" height="30">
   <img src="./assets/badge/aframe.svg?v=1" alt="A-Frame" height="30">
   <img src="./assets/badge/blender.svg?v=1" alt="Blender" height="30">
   <img src="./assets/badge/opengl.svg?v=4" alt="OpenGL" height="30">
@@ -318,6 +318,8 @@ and exporting ready-to-use animations and images.
 </td>
 </tr>
 </table>
+
+<img src="./assets/image/location-divider.svg?v=1" alt="Animated cyan and violet divider" width="1000" height="100">
 
 <p align="center">
   <picture>
