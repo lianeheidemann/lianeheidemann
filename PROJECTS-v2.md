@@ -2,7 +2,35 @@
 <p align="center">A collection of software, research, and academic projects.</p>
 <p align="center"><sub>32 public repositories · projects with a logo, icon, or demo image appear first</sub></p>
 
-<h2>Projects with a visual identity</h2>
+<h2>Projects with interface previews</h2>
+<table width="100%" cellpadding="10" cellspacing="8" border="0">
+<tr>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<a href="https://github.com/lianeheidemann/porcelain-inspection-unity"><img src="https://github.com/lianeheidemann/porcelain-inspection-unity/blob/main/media/interface-1.gif" alt="Porcelain Inspection logo"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/porcelain-inspection-unity">Porcelain Inspection</a></strong>
+<p>Unity 3D prototype for rotating, zooming, and inspecting points on a porcelain piece.</p>
+</td>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<a href="https://github.com/lianeheidemann/travel-booking-chatbot"><img src="https://github.com/lianeheidemann/travel-booking-chatbot/blob/main/assets/gif-e-video/demonstracao-v2.gif" alt="Viajar logo"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/travel-booking-chatbot">Viajar — Travel Booking Chatbot</a></strong>
+<p>JavaScript travel assistant that collects booking details in a guided conversation and updates a reservation summary.</p>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<a href="https://github.com/lianeheidemann/mini-driving-simulator-3d"><img src="https://raw.githubusercontent.com/lianeheidemann/mini-driving-simulator-3d/main/media/interface/interface-v3.webp" alt="Driving simulator demo"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/mini-driving-simulator-3d">Mini Driving Simulator 3D</a></strong>
+<p>Browser-based 3D driving simulator with keyboard and Xbox-compatible gamepad controls.</p>
+</td>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<a href="https://github.com/lianeheidemann/object-inspector"><img src="https://github.com/lianeheidemann/object-inspector/blob/main/assets/interface-object-inspector-v1.webp" alt="Object Inspector preview"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/object-inspector">Object Inspector</a></strong>
+<p>Static web viewer that displays geometric deviation heatmaps on 3D surfaces.</p>
+</td>
+</tr>
+</table>
+
+<h2>Projects with logos and icons</h2>
 <table width="100%" cellpadding="10" cellspacing="8" border="0">
 <tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
@@ -50,30 +78,6 @@
 <a href="https://github.com/lianeheidemann/cirioapp-v2"><img src="assets/projects/logos/cirioapp.png" height="72" alt="CírioApp logo"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/cirioapp-v2">CírioApp</a></strong>
 <p>Android app for Círio de Nazaré schedules, maps, news, notifications, favorites, and an AI assistant.</p>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/porcelain-inspection-unity"><img src="https://github.com/lianeheidemann/porcelain-inspection-unity/blob/main/media/interface-1.gif" alt="Porcelain Inspection logo"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/porcelain-inspection-unity">Porcelain Inspection</a></strong>
-<p>Unity 3D prototype for rotating, zooming, and inspecting points on a porcelain piece.</p>
-</td>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/travel-booking-chatbot"><img src="https://github.com/lianeheidemann/travel-booking-chatbot/blob/main/assets/gif-e-video/demonstracao-v2.gif" alt="Viajar logo"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/travel-booking-chatbot">Viajar — Travel Booking Chatbot</a></strong>
-<p>JavaScript travel assistant that collects booking details in a guided conversation and updates a reservation summary.</p>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/mini-driving-simulator-3d"><img src="https://raw.githubusercontent.com/lianeheidemann/mini-driving-simulator-3d/main/media/interface/interface-v3.webp" alt="Driving simulator demo"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/mini-driving-simulator-3d">Mini Driving Simulator 3D</a></strong>
-<p>Browser-based 3D driving simulator with keyboard and Xbox-compatible gamepad controls.</p>
-</td>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/object-inspector"><img src="https://github.com/lianeheidemann/object-inspector/blob/main/assets/interface-object-inspector-v1.webp" alt="Object Inspector preview"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/object-inspector">Object Inspector</a></strong>
-<p>Static web viewer that displays geometric deviation heatmaps on 3D surfaces.</p>
 </td>
 </tr>
 </table>
