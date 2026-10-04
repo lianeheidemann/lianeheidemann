@@ -66,12 +66,12 @@
 </tr>
 <tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/mini-driving-simulator-3d"><img src="https://raw.githubusercontent.com/lianeheidemann/mini-driving-simulator-3d/main/media/interface/interface-v3.webp" height="72" alt="Driving simulator demo"></a><br><br>
+<a href="https://github.com/lianeheidemann/mini-driving-simulator-3d"><img src="https://raw.githubusercontent.com/lianeheidemann/mini-driving-simulator-3d/main/media/interface/interface-v3.webp" alt="Driving simulator demo"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/mini-driving-simulator-3d">Mini Driving Simulator 3D</a></strong>
 <p>Browser-based 3D driving simulator with keyboard and Xbox-compatible gamepad controls.</p>
 </td>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/object-inspector"><img src="https://github.com/user-attachments/assets/da3bd052-dde0-49f4-880f-9035163370b8" height="72" alt="Object Inspector preview"></a><br><br>
+<a href="https://github.com/lianeheidemann/object-inspector"><img src="https://github.com/lianeheidemann/object-inspector/blob/main/assets/interface-object-inspector-v1.webp" alt="Object Inspector preview"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/object-inspector">Object Inspector</a></strong>
 <p>Static web viewer that displays geometric deviation heatmaps on 3D surfaces.</p>
 </td>
