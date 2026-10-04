@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="158" height="44" viewBox="0 0 158 44" role="img" aria-labelledby="title desc">
+<title id="title">Blender</title><desc id="desc">Theme-adaptive Blender technology badge.</desc>
+<style>.bg{fill:#fff1e5;stroke:#e47719}.label{fill:#733300}.mark{fill:none;stroke:#e47719}@media(prefers-color-scheme:dark){.bg{fill:#28190f;stroke:#ff9a3d}.label{fill:#fff6ed}.mark{stroke:#ff9a3d}}</style>
+<rect class="bg" x=".75" y=".75" width="156.5" height="42.5" rx="10" stroke-width="1.5"/>
+<path class="mark" d="M14 20h14M17 14l12 7M17 30l12-7" stroke-width="3" stroke-linecap="round"/><circle cx="32" cy="22" r="8.5" fill="#e47719"/><circle cx="32" cy="22" r="4.5" fill="#fff" stroke="#e47719" stroke-width="1.5"/>
+<text class="label" x="53" y="28" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="700" letter-spacing="1.3">BLENDER</text></svg>
