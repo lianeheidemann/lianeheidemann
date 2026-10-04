@@ -98,6 +98,7 @@
 <p>Blender collection of 3D character and prop animations, with source and export files.</p>
 </td>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<a href="https://github.com/lianeheidemann/mesh-comparison"><img src="https://raw.githubusercontent.com/lianeheidemann/mesh-comparison/main/assets/mesh-comparison-logo.png" width="40%" alt="Mesh Comparison logo"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/mesh-comparison">Mesh Comparison</a></strong>
 <p>Python workspace for geometric and perceptual comparison of reconstructed 3D meshes.</p>
 </td>
@@ -213,6 +214,7 @@
 <table width="100%" cellpadding="10" cellspacing="8" border="0">
 <tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<a href="https://github.com/lianeheidemann/python-cloud-database"><img src="https://raw.githubusercontent.com/lianeheidemann/python-cloud-database/main/assets/python-cloud-database-logo.png" width="40%" alt="Python Cloud Database logo"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/python-cloud-database">Python Cloud Database</a></strong>
 <p>Python app that simulates bacterial population growth and stores results in a managed MySQL database.</p>
 </td>
