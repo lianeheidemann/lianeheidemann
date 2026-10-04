@@ -64,7 +64,9 @@
 </tr>
 </table>
 
-<h2>Projects with interface previews</h2><table width="100%" cellpadding="10" cellspacing="8" border="0">
+<h2>3D Projects</h2>
+<p>Projects focused on 3D modeling, visualization, simulation, animation, and mesh analysis.</p>
+<table width="100%" cellpadding="10" cellspacing="8" border="0">
 <tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/object-inspector"><img src="https://raw.githubusercontent.com/lianeheidemann/object-inspector/main/assets/interface-object-inspector-v1.webp" width="100%" alt="Object Inspector interface preview"></a><br><br>
@@ -91,95 +93,103 @@
 </tr>
 <tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<a href="https://github.com/lianeheidemann/3d-animations"><img src="https://raw.githubusercontent.com/lianeheidemann/3d-animations/main/bone-animation/animation-2.gif" width="100%" alt="3D bone animation preview"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/3d-animations">3D Animations</a></strong>
+<p>Blender collection of 3D character and prop animations, with source and export files.</p>
+</td>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<strong><a href="https://github.com/lianeheidemann/mesh-comparison">Mesh Comparison</a></strong>
+<p>Python workspace for geometric and perceptual comparison of reconstructed 3D meshes.</p>
+</td>
+</tr>
+</table>
+
+<h2>Projects with interface previews</h2>
+<p>Selected projects with interface and demo previews.</p>
+<table width="100%" cellpadding="10" cellspacing="8" border="0">
+<tr>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/atividades-processamento-de-imagens"><img src="https://raw.githubusercontent.com/lianeheidemann/atividades-processamento-de-imagens/main/atividade/atividade-3/output/09_comparacao_antes_depois.png" width="100%" alt="Image processing comparison before and after"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/atividades-processamento-de-imagens">Image Processing Activities</a></strong>
 <p>Coursework in image processing, including quantization, histograms, gamma correction, enhancement, and segmentation.</p>
 </td>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/3d-animations"><img src="https://raw.githubusercontent.com/lianeheidemann/3d-animations/main/bone-animation/animation-2.gif" width="100%" alt="3D bone animation preview"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/3d-animations">3D Animations</a></strong>
-<p>Blender collection of 3D character and prop animations, with source and export files.</p>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/rpg-esim-python"><img src="https://raw.githubusercontent.com/lianeheidemann/rpg-esim-python/main/assets/demonstration-v4.webp" width="100%" alt="ESIM event camera simulator demonstration"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/rpg-esim-python">ESIM Event Camera Simulator</a></strong>
 <p>Pure-Python port of ESIM's event-generation core for simulating event-camera output.</p>
 </td>
+</tr>
+<tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/protocolo-soap"><img src="https://raw.githubusercontent.com/lianeheidemann/protocolo-soap/main/assets/interface-desktop.gif" width="100%" alt="SOAP protocol app interface"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/protocolo-soap">Bubble & Co. — SOAP Protocol</a></strong>
 <p>Flask reference app implementing SOAP envelopes and XML parsing without an external SOAP framework.</p>
 </td>
-</tr>
-<tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/n8n-ai-agents-projects"><img src="https://raw.githubusercontent.com/lianeheidemann/n8n-ai-agents-projects/main/assets/imagens/primeiro_projeto.png" width="100%" alt="AI agents and n8n project preview"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/n8n-ai-agents-projects">AI Agents and n8n Immersion</a></strong>
 <p>Collection of independent AI-agent and n8n automation projects from an immersion course.</p>
 </td>
+</tr>
+<tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/ai-web-architecture-alura"><img src="https://raw.githubusercontent.com/lianeheidemann/ai-web-architecture-alura/main/assets/gif/interface.gif" width="100%" alt="Alura technology album interface"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/ai-web-architecture-alura">Alura Album — Tech World Cup</a></strong>
 <p>Interactive technology album created during Alura's Web Architecture with AI immersion.</p>
 </td>
-</tr>
-<tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/ai-prompt-studio"><img src="https://raw.githubusercontent.com/lianeheidemann/ai-prompt-studio/main/assets/interface/demonstration-desktop-v3.gif" width="100%" alt="AI Prompt Studio interface preview"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/ai-prompt-studio">AI Prompt Studio</a></strong>
 <p>Responsive workspace with six specialized AI workflows, contextual conversations, and local history.</p>
 </td>
+</tr>
+<tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/tennis-fun-game"><img src="https://raw.githubusercontent.com/lianeheidemann/tennis-fun-game/main/assets/gif/TenisFun_Gif_v2.gif" width="100%" alt="TenisFun gameplay preview"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/tennis-fun-game">TenisFun</a></strong>
 <p>2D tennis game with progressive difficulty, responsive controls, and a downloadable Windows build.</p>
 </td>
-</tr>
-<tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/state-of-data-brasil-2023"><img src="https://raw.githubusercontent.com/lianeheidemann/state-of-data-brasil-2023/main/assets/distribuicao_idade_etnia.png" width="100%" alt="State of Data Brazil age and ethnicity distribution chart"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/state-of-data-brasil-2023">State of Data Brazil 2023</a></strong>
 <p>Exploratory analysis of the State of Data Brazil 2023 survey dataset.</p>
 </td>
+</tr>
+<tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/minilang-interpreter"><img src="https://raw.githubusercontent.com/lianeheidemann/minilang-interpreter/main/assets/image2_MiniLang.png" width="100%" alt="MinyLang Interpreter preview"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/minilang-interpreter">MinyLang Interpreter</a></strong>
 <p>Python interpreter for a small language with variables, expressions, and conditionals.</p>
 </td>
-</tr>
-<tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/travel-booking-chatbot"><img src="https://raw.githubusercontent.com/lianeheidemann/travel-booking-chatbot/main/assets/gif-e-video/demonstracao-v2.gif" width="100%" alt="Travel booking chatbot interface preview"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/travel-booking-chatbot">Travel Booking Chatbot</a></strong>
 <p>JavaScript travel assistant that collects booking details in a guided conversation and updates a reservation summary.</p>
 </td>
+</tr>
+<tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/poetry-gallery"><img src="https://raw.githubusercontent.com/lianeheidemann/poetry-gallery/main/assets/interface_v2.gif" width="100%" alt="Poetry Gallery interface preview"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/poetry-gallery">Poetry Gallery</a></strong>
 <p>Responsive web gallery for creating and organizing poems with browser-based storage.</p>
 </td>
-</tr>
-<tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/java-deque-implementation"><img src="https://raw.githubusercontent.com/lianeheidemann/java-deque-implementation/main/assets/terminal.png" width="100%" alt="Java Deque Implementation terminal preview"></a><br><br>
+<a href="https://github.com/lianeheidemann/java-deque-implementation"><img src="https://raw.githubusercontent.com/lianeheidemann/java-deque-implementation/main/assets/terminal.png" width="50%" alt="Java Deque Implementation terminal preview"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/java-deque-implementation">Java Deque Implementation</a></strong>
 <p>Java implementation of a double-ended queue, with tests and an example.</p>
 </td>
+</tr>
+<tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/inventory-management-system"><img src="https://raw.githubusercontent.com/lianeheidemann/sistema_para_gestao_de_loja/main/picture_inventory-tui.png" width="100%" alt="Inventory Management System terminal interface"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/inventory-management-system">Inventory Management System</a></strong>
 <p>Node.js inventory manager with terminal-based CRUD, search, and filtering.</p>
 </td>
-</tr>
-<tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/parking-management-system"><img src="https://raw.githubusercontent.com/lianeheidemann/parking-management-system/main/interface.png" width="100%" alt="Parking Management System interface preview"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/parking-management-system">Parking Management System</a></strong>
 <p>Browser-based system for vehicle registration, search, and parking-fee calculation.</p>
 </td>
-<td width="50%"></td>
 </tr>
 </table>
 
@@ -203,12 +213,9 @@
 <table width="100%" cellpadding="10" cellspacing="8" border="0">
 <tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<strong><a href="https://github.com/lianeheidemann/mesh-comparison">Mesh Comparison</a></strong>
-<p>Python workspace for geometric and perceptual comparison of reconstructed 3D meshes.</p>
-</td>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <strong><a href="https://github.com/lianeheidemann/python-cloud-database">Python Cloud Database</a></strong>
 <p>Python app that simulates bacterial population growth and stores results in a managed MySQL database.</p>
 </td>
+<td width="50%"></td>
 </tr>
 </table>
