@@ -163,15 +163,23 @@
 </tr>
 <tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<a href="https://github.com/lianeheidemann/java-deque-implementation"><img src="https://raw.githubusercontent.com/lianeheidemann/java-deque-implementation/main/assets/terminal.png" width="100%" alt="Java Deque Implementation terminal preview"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/java-deque-implementation">Java Deque Implementation</a></strong>
+<p>Java implementation of a double-ended queue, with tests and an example.</p>
+</td>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/inventory-management-system"><img src="https://raw.githubusercontent.com/lianeheidemann/sistema_para_gestao_de_loja/main/picture_inventory-tui.png" width="100%" alt="Inventory Management System terminal interface"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/inventory-management-system">Inventory Management System</a></strong>
 <p>Node.js inventory manager with terminal-based CRUD, search, and filtering.</p>
 </td>
+</tr>
+<tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/parking-management-system"><img src="https://raw.githubusercontent.com/lianeheidemann/parking-management-system/main/interface.png" width="100%" alt="Parking Management System interface preview"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/parking-management-system">Parking Management System</a></strong>
 <p>Browser-based system for vehicle registration, search, and parking-fee calculation.</p>
 </td>
+<td width="50%"></td>
 </tr>
 </table>
 
@@ -199,15 +207,8 @@
 <p>Python workspace for geometric and perceptual comparison of reconstructed 3D meshes.</p>
 </td>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<strong><a href="https://github.com/lianeheidemann/java-deque-implementation">Java Deque Implementation</a></strong>
-<p>Java implementation of a double-ended queue, with tests and an example.</p>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <strong><a href="https://github.com/lianeheidemann/python-cloud-database">Python Cloud Database</a></strong>
 <p>Python app that simulates bacterial population growth and stores results in a managed MySQL database.</p>
 </td>
-<td width="50%"></td>
 </tr>
 </table>
