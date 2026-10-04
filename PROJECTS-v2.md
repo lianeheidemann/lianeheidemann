@@ -54,7 +54,7 @@
 </tr>
 <tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/porcelain-inspection-unity"><img src="https://raw.githubusercontent.com/lianeheidemann/porcelain-inspection-unity/main/media/logo/porcelain-inspection-logo-adaptive.svg" height="72" alt="Porcelain Inspection logo"></a><br><br>
+<a href="https://github.com/lianeheidemann/porcelain-inspection-unity"><img src="https://github.com/lianeheidemann/porcelain-inspection-unity/blob/main/media/interface-1.gif" alt="Porcelain Inspection logo"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/porcelain-inspection-unity">Porcelain Inspection</a></strong>
 <p>Unity 3D prototype for rotating, zooming, and inspecting points on a porcelain piece.</p>
 </td>
