@@ -187,7 +187,7 @@ learning and growing in tech. 🦾
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/badge/view-repository-dark-v1.png">
 <source media="(prefers-color-scheme: light)" srcset="assets/badge/view-repository-light-v1.png">
-<img src="assets/badge/view-repository-light-v1.png" width="144" alt="View AI Prompt Studio repository">
+<img src="assets/badge/view-repository-light-v1.png" height="22" alt="View AI Prompt Studio repository">
 </picture>
 </a>
 <p>
@@ -216,7 +216,7 @@ contextual conversations, and local history.
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/badge/view-repository-dark-v1.png">
 <source media="(prefers-color-scheme: light)" srcset="assets/badge/view-repository-light-v1.png">
-<img src="assets/badge/view-repository-light-v1.png" width="144" alt="View GitBat repository">
+<img src="assets/badge/view-repository-light-v1.png" height="22" alt="View GitBat repository">
 </picture>
 </a>
 <p>
@@ -248,7 +248,7 @@ animation and high resolution.
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/badge/view-repository-dark-v1.png">
 <source media="(prefers-color-scheme: light)" srcset="assets/badge/view-repository-light-v1.png">
-<img src="assets/badge/view-repository-light-v1.png" width="144" alt="View CírioApp repository">
+<img src="assets/badge/view-repository-light-v1.png" height="22" alt="View CírioApp repository">
 </picture>
 </a>
 <p>
@@ -279,7 +279,7 @@ favorites, and an AI assistant for the Círio of Nazaré.
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/%F0%9F%9A%A7-Under%20Construction-2563EB?style=flat-square&amp;labelColor=1F2937">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/%F0%9F%9A%A7-Under%20Construction-1D4ED8?style=flat-square&amp;labelColor=E5E7EB">
-<img height="15" src="https://img.shields.io/badge/%F0%9F%9A%A7-Under%20Construction-1D4ED8?style=flat-square&amp;labelColor=E5E7EB" alt="Under Construction">
+<img height="22" src="https://img.shields.io/badge/%F0%9F%9A%A7-Under%20Construction-1D4ED8?style=flat-square&amp;labelColor=E5E7EB" alt="Under Construction">
 </picture>
 <p>
 Flutter app for importing sprite sheets, editing frames,
