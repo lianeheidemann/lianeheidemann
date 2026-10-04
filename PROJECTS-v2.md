@@ -155,10 +155,18 @@
 <p>Node.js inventory manager with terminal-based CRUD, search, and filtering.</p>
 </td>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<a href="https://github.com/lianeheidemann/parking-management-system"><img src="https://raw.githubusercontent.com/lianeheidemann/parking-management-system/main/interface.png" width="100%" alt="Parking Management System interface preview"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/parking-management-system">Parking Management System</a></strong>
+<p>Browser-based system for vehicle registration, search, and parking-fee calculation.</p>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/bluetooth-robotic-car-claw"><img src="https://raw.githubusercontent.com/lianeheidemann/bluetooth-robotic-car-claw/main/assets/prototype/image2.png" width="100%" alt="Bluetooth robotic car joystick interface"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/bluetooth-robotic-car-claw">Bluetooth Robotic Car with Mechanical Claw</a></strong>
 <p>Arduino car controlled over Bluetooth, with a mobile joystick and a mechanical claw.</p>
 </td>
+<td width="50%"></td>
 </tr>
 </table>
 
@@ -192,12 +200,9 @@
 </tr>
 <tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<strong><a href="https://github.com/lianeheidemann/parking-management-system">Parking Management System</a></strong>
-<p>Browser-based system for vehicle registration, search, and parking-fee calculation.</p>
-</td>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <strong><a href="https://github.com/lianeheidemann/python-cloud-database">Python Cloud Database</a></strong>
 <p>Python app that simulates bacterial population growth and stores results in a managed MySQL database.</p>
 </td>
+<td width="50%"></td>
 </tr>
 </table>
