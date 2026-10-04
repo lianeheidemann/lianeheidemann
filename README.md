@@ -68,6 +68,7 @@ learning and growing in tech. 🦾
   <img src="./assets/badge/threejs.svg?v=1" alt="Three.js" height="30">
   <img src="./assets/badge/aframe.svg?v=1" alt="A-Frame" height="30">
   <img src="./assets/badge/blender.svg?v=1" alt="Blender" height="30">
+  <img src="./assets/badge/unity.svg?v=1" alt="Unity" height="30">
   <img src="./assets/badge/webgl.svg?v=1" alt="WebGL" height="30">
 </p>
 
@@ -91,7 +92,7 @@ learning and growing in tech. 🦾
 <td align="center" width="50%" valign="top">
 <a href="https://github.com/lianeheidemann/object-inspector"><img src="https://raw.githubusercontent.com/lianeheidemann/object-inspector/main/assets/interface-object-inspector-v1.webp" width="100%" alt="Object Inspector interface preview"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/object-inspector">Object Inspector</a></strong>
-<p><img src="./assets/badge/early-project.svg?v=1" width="132" height="20" alt="Early Project"></p>
+<p><br><img src="./assets/badge/early-project.svg?v=1" width="132" height="20" alt="Early Project"></p>
 <p>Static viewer for geometric deviation heatmaps on 3D surfaces.</p>
 </td>
 <td align="center" width="50%" valign="top">
@@ -128,7 +129,7 @@ learning and growing in tech. 🦾
 <td align="center" width="50%" valign="top">
 <a href="https://github.com/lianeheidemann/mesh-comparison"><img src="https://raw.githubusercontent.com/lianeheidemann/mesh-comparison/main/assets/mesh-comparison-logo.png" height="54" alt="Mesh Comparison logo"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/mesh-comparison">Mesh Comparison</a></strong>
-<p><img src="./assets/badge/early-project.svg?v=1" width="132" height="20" alt="Early Project"><br>Python workspace for geometric and perceptual comparison of reconstructed 3D meshes.</p>
+<p><br><img src="./assets/badge/early-project.svg?v=1" width="132" height="20" alt="Early Project"><br>Python workspace for geometric and perceptual comparison of reconstructed 3D meshes.</p>
 </td>
 <td align="center" width="50%" valign="top">
 <a href="https://github.com/lianeheidemann/parallel-image-pipeline">
@@ -139,7 +140,7 @@ learning and growing in tech. 🦾
 </picture>
 </a><br><br>
 <strong><a href="https://github.com/lianeheidemann/parallel-image-pipeline">Parallel Image Pipeline</a></strong>
-<p><img src="./assets/badge/early-project.svg?v=1" width="132" height="20" alt="Early Project"></p>
+<p><br><img src="./assets/badge/early-project.svg?v=1" width="132" height="20" alt="Early Project"></p>
 <p>Experimental image-processing pipeline comparing sequential and parallel execution in Python and the browser, with AWS benchmarks.</p>
 </td>
 </tr>
@@ -238,7 +239,7 @@ animation and high resolution.
 <td align="center" width="50%" valign="top">
 <br>
 <a href="https://github.com/lianeheidemann/cirioapp-v2">
-<img src="assets/projects/logos/cirioapp.png" height="90" alt="CírioApp logo">
+<img src="assets/projects/logos/cirioapp.png" height="100" alt="CírioApp logo">
 </a>
 <br><br>
 <strong><a href="https://github.com/lianeheidemann/cirioapp-v2">CírioApp</a></strong>
@@ -270,7 +271,7 @@ favorites, and an AI assistant for the Círio of Nazaré.
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/projects/logos/spriteflow-logo-dark.png">
 <source media="(prefers-color-scheme: light)" srcset="assets/projects/logos/spriteflow-logo-light.png">
-<img src="assets/projects/logos/spriteflow-logo-light.png" height="90" alt="SpriteFlow logo">
+<img src="assets/projects/logos/spriteflow-logo-light.png" height="100" alt="SpriteFlow logo">
 </picture>
 <br><br>
 <strong>SpriteFlow</strong>
