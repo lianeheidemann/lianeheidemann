@@ -42,7 +42,7 @@
 </tr>
 <tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/edge-detection-app"><img src="https://raw.githubusercontent.com/lianeheidemann/edge-detection-app/main/assets/icons/app-icon.svg" height="72" alt="Image processing icon"></a><br><br>
+<a href="https://github.com/lianeheidemann/edge-detection-app"><img src="https://raw.githubusercontent.com/lianeheidemann/edge-detection-app/main/assets/icons/app-icon.svg" height="60" alt="Image processing icon"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/edge-detection-app">Edge Detection</a></strong>
 <p>Android image-processing app for detecting image edges.</p>
 </td>
@@ -59,7 +59,7 @@
 <p>Unity 3D prototype for rotating, zooming, and inspecting points on a porcelain piece.</p>
 </td>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/parallel-image-pipeline"><img src="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo.png" height="72" alt="Parallel Image Pipeline logo"></a><br><br>
+<a href="https://github.com/lianeheidemann/parallel-image-pipeline"><img src="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo.png" height="60" alt="Parallel Image Pipeline logo"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/parallel-image-pipeline">Parallel Image Pipeline</a></strong>
 <p>Experimental image-processing pipeline comparing sequential and parallel execution and performance.</p>
 </td>
