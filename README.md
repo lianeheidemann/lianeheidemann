@@ -247,7 +247,7 @@ responsive controls, and a downloadable Windows executable.
 <td align="center" width="50%" valign="top">
 <a href="https://github.com/lianeheidemann/mesh-comparison"><img src="https://raw.githubusercontent.com/lianeheidemann/mesh-comparison/main/assets/mesh-comparison-logo.png" width="45%" alt="Mesh Comparison logo"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/mesh-comparison">Mesh Comparison</a></strong>
-<p><strong>Early-stage project</strong><br>Python workspace for geometric and perceptual comparison of reconstructed 3D meshes.</p>
+<p><img src="https://img.shields.io/badge/%E2%8F%B3-Early%20Stage-3B82F6?style=flat-square" alt="Mesh project in early stage"><br>Python workspace for geometric and perceptual comparison of reconstructed 3D meshes.</p>
 </td>
 </tr>
 </table>
