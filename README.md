@@ -91,7 +91,7 @@ Four projects showcasing mobile development, game development, artificial intell
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/badge/view-repository-dark-v1.png">
 <source media="(prefers-color-scheme: light)" srcset="assets/badge/view-repository-light-v1.png">
-<img src="assets/badge/view-repository-light-v1.png" width="180" alt="View AI Prompt Studio repository">
+<img src="assets/badge/view-repository-light-v1.png" width="144" alt="View AI Prompt Studio repository">
 </picture>
 </a>
 <p>
@@ -118,7 +118,7 @@ contextual conversations, and local history.
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/badge/view-repository-dark-v1.png">
 <source media="(prefers-color-scheme: light)" srcset="assets/badge/view-repository-light-v1.png">
-<img src="assets/badge/view-repository-light-v1.png" width="180" alt="View GitBat repository">
+<img src="assets/badge/view-repository-light-v1.png" width="144" alt="View GitBat repository">
 </picture>
 </a>
 <p>
@@ -150,7 +150,7 @@ animation and high resolution.
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/badge/view-repository-dark-v1.png">
 <source media="(prefers-color-scheme: light)" srcset="assets/badge/view-repository-light-v1.png">
-<img src="assets/badge/view-repository-light-v1.png" width="180" alt="View CírioApp repository">
+<img src="assets/badge/view-repository-light-v1.png" width="144" alt="View CírioApp repository">
 </picture>
 </a>
 <p>
@@ -178,7 +178,7 @@ favorites, and an AI assistant for the Círio of Nazaré.
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/badge/view-repository-dark-v1.png">
 <source media="(prefers-color-scheme: light)" srcset="assets/badge/view-repository-light-v1.png">
-<img src="assets/badge/view-repository-light-v1.png" width="180" alt="View TenisFun repository">
+<img src="assets/badge/view-repository-light-v1.png" width="144" alt="View TenisFun repository">
 </picture>
 </a>
 <p>
