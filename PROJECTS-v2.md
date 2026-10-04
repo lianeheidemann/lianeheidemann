@@ -135,7 +135,6 @@
 <strong><a href="https://github.com/lianeheidemann/bluetooth-robotic-car-claw">Bluetooth Robotic Car with Mechanical Claw</a></strong>
 <p>Arduino car controlled over Bluetooth, with a mobile joystick and a mechanical claw.</p>
 </td>
-<td width="50%"></td>
 </tr>
 </table>
 
