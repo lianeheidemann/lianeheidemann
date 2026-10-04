@@ -171,7 +171,7 @@ favorites, and an AI assistant for the Círio of Nazaré.
 <td align="center" width="50%" valign="top">
 <br>
 <a href="https://github.com/lianeheidemann/tennis-fun-game">
-<img src="assets/projects/logos/tenisfun-6.svg" height="90" alt="TenisFun logo">
+<img src="assets/projects/logos/tenisfun-6-animado.svg" height="90" alt="TenisFun logo">
 </a>
 <br><br>
 <a href="https://github.com/lianeheidemann/tennis-fun-game">
