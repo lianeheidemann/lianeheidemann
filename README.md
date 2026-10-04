@@ -128,7 +128,22 @@ learning and growing in tech. 🦾
 <img src="./assets/badge/early-project-light.gif" width="190" alt="Early Project">
 </picture><br>Python workspace for geometric and perceptual comparison of reconstructed 3D meshes.</p>
 </td>
-<td width="50%"></td>
+<td align="center" width="50%" valign="top">
+<a href="https://github.com/lianeheidemann/parallel-image-pipeline">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo-dark.png">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo.png">
+<img src="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo.png" width="78%" alt="Parallel Image Pipeline logo">
+</picture>
+</a><br><br>
+<strong><a href="https://github.com/lianeheidemann/parallel-image-pipeline">Parallel Image Pipeline</a></strong>
+<p><picture>
+<source media="(prefers-color-scheme: dark)" srcset="./assets/badge/early-project-dark.gif">
+<source media="(prefers-color-scheme: light)" srcset="./assets/badge/early-project-light.gif">
+<img src="./assets/badge/early-project-light.gif" width="190" alt="Early Project">
+</picture></p>
+<p>Experimental image-processing pipeline comparing sequential and parallel execution in Python and the browser, with AWS benchmarks.</p>
+</td>
 </tr>
 </table>
 
@@ -157,7 +172,7 @@ learning and growing in tech. 🦾
 
 <h2 align="center">Featured Projects</h2>
 
-Four projects showcasing mobile development, game development, artificial intelligence, and developer tools.
+<p align="center">Four projects showcasing mobile development, game development, artificial intelligence, and developer tools.</p>
 
 <table>
 <tr>
