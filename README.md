@@ -80,55 +80,105 @@ learning and growing in tech. 🦾
 Four projects showcasing mobile development, game development, artificial intelligence, and developer tools.
 
 <table>
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <br>
-      <a href="https://github.com/lianeheidemann/ai-prompt-studio">
-        <img src="assets/projects/logos/ia-prompt-studio.svg" height="100" style="object-fit: contain;" alt="AI Prompt Studio logo">
-      </a>
-      <p><strong><big><a href="https://github.com/lianeheidemann/ai-prompt-studio">AI Prompt Studio</a></big></strong></p>
-      <p>Responsive web workspace with six specialized AI workflows, contextual conversations, and local history.</p>
-      <p><code>Python</code> <code>Flask</code> <code>JavaScript</code> <code>Gemini</code> <code>IA</code></p>
-      <br>
-    </td>
-    <td align="center" width="50%" valign="top">
-      <br>
-      <a href="https://github.com/lianeheidemann/gitbat-app">
-        <img src="assets/projects/logos/gitbat-v2.png" height="100" style="object-fit: contain;" alt="GitBat logo">
-      </a>
-      <p><strong><big><a href="https://github.com/lianeheidemann/gitbat-app">GitBat</a></big></strong></p>
-      <p>Android app for creating GitHub README content — GIF, animated WebP, SVG and PNG, with transparency, animation and high resolution.</p>
-      <p><code>Flutter</code> <code>Dart</code> <code>FFmpeg</code> <code>Android</code> <code>Mobile</code>
-      </p>
-      <br>
-    </td>
-  </tr>
+<tr>
+<td align="center" width="50%" valign="top">
+<br>
+<a href="https://github.com/lianeheidemann/ai-prompt-studio">
+<img src="assets/projects/logos/ia-prompt-studio.svg" height="100" alt="AI Prompt Studio logo">
+</a>
+<br><br>
+<a href="https://github.com/lianeheidemann/ai-prompt-studio">
+<img src="assets/badge/view-repository-v2.png" width="180" alt="View AI Prompt Studio repository">
+</a>
+<p>
+Responsive web workspace with six specialized AI workflows,
+contextual conversations, and local history.
+</p>
+<p>
+<code>Python</code>
+<code>Flask</code>
+<code>JavaScript</code>
+<code>Gemini</code>
+<code>IA</code>
+</p>
+<br><br>
+</td>
+
+<td align="center" width="50%" valign="top">
+<br>
+<a href="https://github.com/lianeheidemann/gitbat-app">
+<img src="assets/projects/logos/gitbat-v2.png" height="100" alt="GitBat logo">
+</a>
+<br><br>
+<a href="https://github.com/lianeheidemann/gitbat-app">
+<img src="assets/badge/view-repository-v2.png" width="180" alt="View GitBat repository">
+</a>
+<p>
+Android app for creating GitHub README content — GIF,
+animated WebP, SVG and PNG, with transparency,
+animation and high resolution.
+</p>
+<p>
+<code>Flutter</code>
+<code>Dart</code>
+<code>FFmpeg</code>
+<code>Android</code>
+<code>Mobile</code>
+</p>
+<br><br>
+</td>
+</tr>
 </table>
 
 <table>
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <br>
-      <a href="https://github.com/lianeheidemann/cirioapp_v2">
-        <img src="assets/projects/logos/cirioapp.png" height="90" style="object-fit: contain;" alt="CírioApp logo">
-      </a>
-      <p><strong><big><a href="https://github.com/lianeheidemann/cirioapp_v2">CírioApp</a></big></strong></p>
-      <p>Android app with schedules, maps, news, notifications, favorites, and an AI assistant for the Círio of Nazaré.</p>
-      <p><code>Flutter</code> <code>Dart</code> <code>Firebase</code> <code>Gemini</code> <code>Mobile</code> <code>IA</code></p>
-      <br>
-    </td>
-    <td align="center" width="50%" valign="top">
-      <br>
-      <a href="https://github.com/lianeheidemann/tennis-fun-game">
-        <img src="assets/projects/logos/tenisfun-6.svg" height="90" style="object-fit: contain;" alt="TenisFun logo">
-      </a>
-      <p><strong><big><a href="https://github.com/lianeheidemann/tennis-fun-game">TenisFun</a></big></strong></p>
-      <p>A 2D tennis game with progressive difficulty, responsive controls, and a downloadable Windows executable.</p>
-      <p><code>Python</code> <code>Pygame</code></p>
-      <br>
-    </td>
-  </tr>
-</table><br>
+<tr>
+<td align="center" width="50%" valign="top">
+<br>
+<a href="https://github.com/lianeheidemann/cirioapp-v2">
+<img src="assets/projects/logos/cirioapp.png" height="90" alt="CírioApp logo">
+</a>
+<br><br>
+<a href="https://github.com/lianeheidemann/cirioapp-v2">
+<img src="assets/badge/view-repository-v2.png" width="180" alt="View CírioApp repository">
+</a>
+<p>
+Android app with schedules, maps, news, notifications,
+favorites, and an AI assistant for the Círio of Nazaré.
+</p>
+<p>
+<code>Flutter</code>
+<code>Dart</code>
+<code>Firebase</code>
+<code>Gemini</code>
+<code>Mobile</code>
+<code>IA</code>
+</p>
+<br><br>
+</td>
+
+<td align="center" width="50%" valign="top">
+<br>
+<a href="https://github.com/lianeheidemann/tennis-fun-game">
+<img src="assets/projects/logos/tenisfun-6.svg" height="90" alt="TenisFun logo">
+</a>
+<br><br>
+<a href="https://github.com/lianeheidemann/tennis-fun-game">
+<img src="assets/badge/view-repository-v2.png" width="180" alt="View TenisFun repository">
+</a>
+<p>
+A 2D tennis game with progressive difficulty,
+responsive controls, and a downloadable Windows executable.
+</p>
+<p>
+<code>Python</code>
+<code>Pygame</code>
+</p>
+<br><br>
+</td>
+</tr>
+</table>
+
+<br>
 
 <p align="center">
   <picture>
