@@ -73,6 +73,48 @@ learning and growing in tech. 🦾
 
 <img src="./assets/image/location-divider.svg?v=1" alt="Animated cyan and violet divider" width="1000" height="100">
 
+<h2 align="center">3D, Graphics &amp; Computer Vision Projects</h2>
+<p align="center">Selected projects in 3D visualization, simulation, animation, and image processing.</p>
+
+<table width="100%">
+<tr>
+<td align="center" width="50%" valign="top">
+<a href="https://github.com/lianeheidemann/object-inspector"><img src="https://raw.githubusercontent.com/lianeheidemann/object-inspector/main/assets/interface-object-inspector-v1.webp" width="100%" alt="Object Inspector interface preview"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/object-inspector">Object Inspector</a></strong>
+<p>Static viewer for geometric deviation heatmaps on 3D surfaces.</p>
+</td>
+<td align="center" width="50%" valign="top">
+<a href="https://github.com/lianeheidemann/vehicle-3d-showroom"><img src="https://raw.githubusercontent.com/lianeheidemann/vehicle-3d-showroom/main/midia/interface/interface-desktop-v2.webp" width="100%" alt="Vehicle 3D Showroom interface preview"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/vehicle-3d-showroom">Vehicle 3D Showroom</a></strong>
+<p>Browser-based 3D vehicle showroom with interactive models and gamepad support.</p>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top">
+<a href="https://github.com/lianeheidemann/mini-driving-simulator-3d"><img src="https://raw.githubusercontent.com/lianeheidemann/mini-driving-simulator-3d/main/media/interface/interface-v3.webp" width="100%" alt="Mini Driving Simulator 3D interface preview"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/mini-driving-simulator-3d">Mini Driving Simulator 3D</a></strong>
+<p>Browser-based driving simulator with keyboard and Xbox-compatible gamepad controls.</p>
+</td>
+<td align="center" width="50%" valign="top">
+<a href="https://github.com/lianeheidemann/porcelain-inspection-unity"><img src="https://raw.githubusercontent.com/lianeheidemann/porcelain-inspection-unity/main/media/interface-1.gif" width="100%" alt="Porcelain Inspection interface preview"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/porcelain-inspection-unity">Porcelain Inspection</a></strong>
+<p>Unity 3D prototype for rotating, zooming, and inspecting points on a porcelain piece.</p>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top">
+<a href="https://github.com/lianeheidemann/atividades-processamento-de-imagens"><img src="https://raw.githubusercontent.com/lianeheidemann/atividades-processamento-de-imagens/main/atividade/atividade-3/output/09_comparacao_antes_depois.png" width="100%" alt="Image Processing Activities preview"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/atividades-processamento-de-imagens">Image Processing Activities</a></strong>
+<p>Coursework in quantization, histograms, gamma correction, enhancement, and segmentation.</p>
+</td>
+<td align="center" width="50%" valign="top">
+<a href="https://github.com/lianeheidemann/3d-animations"><img src="https://raw.githubusercontent.com/lianeheidemann/3d-animations/main/bone-animation/animation-2.gif" width="100%" alt="3D Animations preview"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/3d-animations">3D Animations</a></strong>
+<p>Blender collection of character and prop animations, with source and export files.</p>
+</td>
+</tr>
+</table>
+
 <p>
   <strong><big><big>FEATURED PROJECTS</big></big></strong>
 </p>
@@ -188,48 +230,6 @@ responsive controls, and a downloadable Windows executable.
 <code>Pygame</code>
 </p>
 <br><br>
-</td>
-</tr>
-</table>
-
-<h2 align="center">3D, Graphics &amp; Computer Vision Projects</h2>
-<p align="center">Selected projects in 3D visualization, simulation, animation, and image processing.</p>
-
-<table width="100%">
-<tr>
-<td align="center" width="50%" valign="top">
-<a href="https://github.com/lianeheidemann/object-inspector"><img src="https://raw.githubusercontent.com/lianeheidemann/object-inspector/main/assets/interface-object-inspector-v1.webp" width="100%" alt="Object Inspector interface preview"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/object-inspector">Object Inspector</a></strong>
-<p>Static viewer for geometric deviation heatmaps on 3D surfaces.</p>
-</td>
-<td align="center" width="50%" valign="top">
-<a href="https://github.com/lianeheidemann/vehicle-3d-showroom"><img src="https://raw.githubusercontent.com/lianeheidemann/vehicle-3d-showroom/main/midia/interface/interface-desktop-v2.webp" width="100%" alt="Vehicle 3D Showroom interface preview"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/vehicle-3d-showroom">Vehicle 3D Showroom</a></strong>
-<p>Browser-based 3D vehicle showroom with interactive models and gamepad support.</p>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%" valign="top">
-<a href="https://github.com/lianeheidemann/mini-driving-simulator-3d"><img src="https://raw.githubusercontent.com/lianeheidemann/mini-driving-simulator-3d/main/media/interface/interface-v3.webp" width="100%" alt="Mini Driving Simulator 3D interface preview"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/mini-driving-simulator-3d">Mini Driving Simulator 3D</a></strong>
-<p>Browser-based driving simulator with keyboard and Xbox-compatible gamepad controls.</p>
-</td>
-<td align="center" width="50%" valign="top">
-<a href="https://github.com/lianeheidemann/porcelain-inspection-unity"><img src="https://raw.githubusercontent.com/lianeheidemann/porcelain-inspection-unity/main/media/interface-1.gif" width="100%" alt="Porcelain Inspection interface preview"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/porcelain-inspection-unity">Porcelain Inspection</a></strong>
-<p>Unity 3D prototype for rotating, zooming, and inspecting points on a porcelain piece.</p>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%" valign="top">
-<a href="https://github.com/lianeheidemann/atividades-processamento-de-imagens"><img src="https://raw.githubusercontent.com/lianeheidemann/atividades-processamento-de-imagens/main/atividade/atividade-3/output/09_comparacao_antes_depois.png" width="100%" alt="Image Processing Activities preview"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/atividades-processamento-de-imagens">Image Processing Activities</a></strong>
-<p>Coursework in quantization, histograms, gamma correction, enhancement, and segmentation.</p>
-</td>
-<td align="center" width="50%" valign="top">
-<a href="https://github.com/lianeheidemann/3d-animations"><img src="https://raw.githubusercontent.com/lianeheidemann/3d-animations/main/bone-animation/animation-2.gif" width="100%" alt="3D Animations preview"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/3d-animations">3D Animations</a></strong>
-<p>Blender collection of character and prop animations, with source and export files.</p>
 </td>
 </tr>
 </table>
