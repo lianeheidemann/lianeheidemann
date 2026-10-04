@@ -297,6 +297,8 @@ and exporting ready-to-use animations and images.
 </tr>
 </table>
 
+<img src="./assets/image/location-divider-rotated-180.svg?v=1" alt="Animated cyan and violet divider" width="1000" height="100">
+
 <h2 align="center">Coming Soon</h2>
 
 <table width="100%">
@@ -307,7 +309,7 @@ and exporting ready-to-use animations and images.
 <br><br>
 <strong>SVG Motion Gallery</strong>
 <p>Mobile app for browsing, previewing, and editing animated SVG files.</p>
-<img src="./assets/projects/previews/svg-motion-gallery-interface-v2.webp" width="100%" alt="Animated preview of five SVG Motion Gallery screens">
+<img src="./assets/projects/svg-gallery-interface-v2.webp" width="100%" alt="Animated preview of five SVG Motion Gallery screens">
 <br><br>
 </td>
 </tr>
