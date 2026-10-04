@@ -152,6 +152,8 @@ Four projects showcasing mobile development, game development, artificial intell
 <img src="assets/projects/logos/ia-prompt-studio.svg" height="100" alt="AI Prompt Studio logo">
 </a>
 <br><br>
+<strong><a href="https://github.com/lianeheidemann/ai-prompt-studio">AI Prompt Studio</a></strong>
+<br><br>
 <a href="https://github.com/lianeheidemann/ai-prompt-studio">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/badge/view-repository-dark-v1.png">
@@ -178,6 +180,8 @@ contextual conversations, and local history.
 <a href="https://github.com/lianeheidemann/gitbat-app">
 <img src="assets/projects/logos/gitbat-v2.png" height="100" alt="GitBat logo">
 </a>
+<br><br>
+<strong><a href="https://github.com/lianeheidemann/gitbat-app">GitBat</a></strong>
 <br><br>
 <a href="https://github.com/lianeheidemann/gitbat-app">
 <picture>
@@ -209,6 +213,8 @@ animation and high resolution.
 <img src="assets/projects/logos/cirioapp.png" height="90" alt="CírioApp logo">
 </a>
 <br><br>
+<strong><a href="https://github.com/lianeheidemann/cirioapp-v2">CírioApp</a></strong>
+<br><br>
 <a href="https://github.com/lianeheidemann/cirioapp-v2">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/badge/view-repository-dark-v1.png">
@@ -236,6 +242,8 @@ favorites, and an AI assistant for the Círio of Nazaré.
 <a href="https://github.com/lianeheidemann/tennis-fun-game">
 <img src="assets/projects/logos/tenisfun-6-animado.svg" height="90" alt="TenisFun logo">
 </a>
+<br><br>
+<strong><a href="https://github.com/lianeheidemann/tennis-fun-game">TenisFun</a></strong>
 <br><br>
 <a href="https://github.com/lianeheidemann/tennis-fun-game">
 <picture>
