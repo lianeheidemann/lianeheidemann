@@ -69,9 +69,9 @@ learning and growing in tech. 🦾
   <img src="./assets/badge/threejs.svg?v=1" alt="Three.js" height="30">
   <img src="./assets/badge/aframe.svg?v=1" alt="A-Frame" height="30">
   <img src="./assets/badge/blender.svg?v=1" alt="Blender" height="30">
-  <img src="./assets/badge/unity.svg?v=1" alt="Unity" height="30">
   <img src="./assets/badge/webgl.svg?v=1" alt="WebGL" height="30">
-  <img src="./assets/badge/opengl.svg?v=1" alt="OpenGL" height="30">
+  <img src="./assets/badge/opengl.svg?v=2" alt="OpenGL" height="30">
+  <img src="./assets/badge/unity.svg?v=1" alt="Unity" height="30">
 </p>
 
 <p>
@@ -129,11 +129,13 @@ learning and growing in tech. 🦾
 </tr>
 <tr>
 <td align="center" width="50%" valign="top">
-<a href="https://github.com/lianeheidemann/mesh-comparison"><img src="./assets/projects/logos/mesh-comparison-logo-v2.png" height="54" alt="Mesh Comparison logo"></a><br><br>
+<br>
+<a href="https://github.com/lianeheidemann/mesh-comparison"><img src="https://raw.githubusercontent.com/lianeheidemann/lianeheidemann/main/assets/projects/logos/mesh-comparison-logo-v2.png?v=2" height="54" alt="Mesh Comparison logo"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/mesh-comparison">Mesh Comparison</a></strong>
 <p><br><img src="./assets/badge/early-project.svg?v=1" width="132" height="20" alt="Early Project"><br>Python workspace for geometric and perceptual comparison of reconstructed 3D meshes.</p>
 </td>
 <td align="center" width="50%" valign="top">
+<br>
 <a href="https://github.com/lianeheidemann/parallel-image-pipeline">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo-dark.png">
