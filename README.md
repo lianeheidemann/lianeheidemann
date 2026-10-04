@@ -37,6 +37,7 @@ learning and growing in tech. 🦾
 <p>
   <img src="./assets/badge/python.svg?v=2" alt="Python" height="30">
   <img src="./assets/badge/javascript.svg?v=1" alt="JavaScript" height="30">
+  <img src="./assets/badge/csharp.svg?v=1" alt="C#" height="30">
 </p>
 
 <p>
@@ -70,6 +71,7 @@ learning and growing in tech. 🦾
   <img src="./assets/badge/blender.svg?v=1" alt="Blender" height="30">
   <img src="./assets/badge/unity.svg?v=1" alt="Unity" height="30">
   <img src="./assets/badge/webgl.svg?v=1" alt="WebGL" height="30">
+  <img src="./assets/badge/opengl.svg?v=1" alt="OpenGL" height="30">
 </p>
 
 <p>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="162" height="44" viewBox="0 0 162 44" role="img" aria-labelledby="title desc">
+<title id="title">C Sharp</title><desc id="desc">C sharp programming language badge with a crisp vector mark and light and dark themes.</desc>
+<style>.bg{fill:#E8F1FF;stroke:#2563EB}.mark{fill:#2563EB}.marktext{fill:#fff}.label{fill:#17345f}@media(prefers-color-scheme:dark){.bg{fill:#101e35;stroke:#60A5FA}.mark{fill:#3B82F6}.label{fill:#eff6ff}}</style>
+<rect class="bg" x=".75" y=".75" width="160.5" height="42.5" rx="10" stroke-width="1.5"/>
+<rect class="mark" x="15" y="10" width="24" height="24" rx="5"/>
+<text class="marktext" x="18.3" y="27.6" font-family="Arial,sans-serif" font-size="11.5" font-weight="800">C#</text>
+<text class="label" x="51" y="28" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="700" letter-spacing="1.25">C SHARP</text>
+</svg>
