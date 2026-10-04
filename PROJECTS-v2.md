@@ -142,7 +142,11 @@
 <strong><a href="https://github.com/lianeheidemann/bluetooth-robotic-car-claw">Bluetooth Robotic Car with Mechanical Claw</a></strong>
 <p>Arduino car controlled over Bluetooth, with a mobile joystick and a mechanical claw.</p>
 </td>
-<td width="50%"></td>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<a href="https://github.com/lianeheidemann/atividades-processamento-de-imagens"><img src="https://raw.githubusercontent.com/lianeheidemann/atividades-processamento-de-imagens/main/atividade/atividade-3/output/09_comparacao_antes_depois.png" width="100%" alt="Image processing comparison before and after"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/atividades-processamento-de-imagens">Image Processing Activities</a></strong>
+<p>Coursework in image processing, including quantization, histograms, gamma correction, enhancement, and segmentation.</p>
+</td>
 </tr>
 </table>
 
@@ -168,16 +172,6 @@
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <strong><a href="https://github.com/lianeheidemann/mesh-comparison">Mesh Comparison</a></strong>
 <p>Python workspace for geometric and perceptual comparison of reconstructed 3D meshes.</p>
-</td>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<strong><a href="https://github.com/lianeheidemann/atividades-processamento-de-imagens">Image Processing Activities</a></strong>
-<p>Coursework in image processing, including quantization, histograms, gamma correction, enhancement, and segmentation.</p>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<strong><a href="https://github.com/lianeheidemann/skills">Skills</a></strong>
-<p>Collection of reusable AI skill instructions, scripts, and resources.</p>
 </td>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <strong><a href="https://github.com/lianeheidemann/minilang-interpreter">MinyLang Interpreter</a></strong>
