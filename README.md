@@ -69,7 +69,7 @@ learning and growing in tech. 🦾
   <img src="./assets/badge/threejs.svg?v=1" alt="Three.js" height="30">
   <img src="./assets/badge/aframe.svg?v=1" alt="A-Frame" height="30">
   <img src="./assets/badge/blender.svg?v=1" alt="Blender" height="30">
-  <img src="./assets/badge/opengl.svg?v=3" alt="OpenGL" height="30">
+  <img src="./assets/badge/opengl.svg?v=4" alt="OpenGL" height="30">
   <img src="./assets/badge/unity.svg?v=1" alt="Unity" height="30">
 </p>
 
@@ -139,7 +139,7 @@ learning and growing in tech. 🦾
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo-dark.png">
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo.png">
-<img src="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo.png" height="54" alt="Parallel Image Pipeline logo">
+<img src="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo.png" width="70%" height="54" style="object-fit:contain; object-position:center" alt="Parallel Image Pipeline logo">
 </picture>
 </a><br><br>
 <strong><a href="https://github.com/lianeheidemann/parallel-image-pipeline">Parallel Image Pipeline</a></strong>
