@@ -2,6 +2,63 @@
 <tr>
 <td align="center" width="50%" valign="top">
 <br>
+<a href="https://github.com/lianeheidemann/ai-prompt-studio">
+<img src="assets/projects/logos/ia-prompt-studio.svg" height="100" alt="AI Prompt Studio logo">
+</a>
+<br><br>
+<a href="https://github.com/lianeheidemann/ai-prompt-studio">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/badge/view-repository-dark-v1.png">
+<source media="(prefers-color-scheme: light)" srcset="assets/badge/view-repository-light-v1.png">
+<img src="assets/badge/view-repository-light-v1.png" width="144" alt="View AI Prompt Studio repository">
+</picture>
+</a>
+<p>
+Responsive web workspace with six specialized AI workflows,
+contextual conversations, and local history.
+</p>
+<p>
+<code>Python</code>
+<code>Flask</code>
+<code>JavaScript</code>
+<code>Gemini</code>
+<code>IA</code>
+</p>
+<br><br>
+</td>
+
+<td align="center" width="50%" valign="top">
+<br>
+<a href="https://github.com/lianeheidemann/gitbat-app">
+<img src="assets/projects/logos/gitbat-v2.png" height="100" alt="GitBat logo">
+</a>
+<br><br>
+<a href="https://github.com/lianeheidemann/gitbat-app">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/badge/view-repository-dark-v1.png">
+<source media="(prefers-color-scheme: light)" srcset="assets/badge/view-repository-light-v1.png">
+<img src="assets/badge/view-repository-light-v1.png" width="144" alt="View GitBat repository">
+</picture>
+</a>
+<p>
+Android app for creating GitHub README content — GIF,
+animated WebP, SVG and PNG, with transparency,
+animation and high resolution.
+</p>
+<p>
+<code>Flutter</code>
+<code>Dart</code>
+<code>FFmpeg</code>
+<code>Android</code>
+<code>Mobile</code>
+</p>
+<br><br>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%" valign="top">
+<br>
 <a href="https://github.com/lianeheidemann/cirioapp-v2">
 <img src="assets/projects/logos/cirioapp.png" height="90" alt="CírioApp logo">
 </a>
