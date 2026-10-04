@@ -279,7 +279,7 @@ favorites, and an AI assistant for the Círio of Nazaré.
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/%F0%9F%9A%A7-Under%20Construction-2563EB?style=flat-square&amp;labelColor=1F2937">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/%F0%9F%9A%A7-Under%20Construction-1D4ED8?style=flat-square&amp;labelColor=E5E7EB">
-<img src="https://img.shields.io/badge/%F0%9F%9A%A7-Under%20Construction-1D4ED8?style=flat-square&amp;labelColor=E5E7EB" alt="Under Construction">
+<img height="15" src="https://img.shields.io/badge/%F0%9F%9A%A7-Under%20Construction-1D4ED8?style=flat-square&amp;labelColor=E5E7EB" alt="Under Construction">
 </picture>
 <p>
 Flutter app for importing sprite sheets, editing frames,
@@ -306,7 +306,7 @@ and exporting ready-to-use animations and images.
 <br>
 <img src="./assets/projects/logos/svg-motion-gallery-icon-v1.png" width="82" alt="SVG Motion Gallery butterfly icon">
 <br><br>
-<img src="./assets/projects/logos/svg-motion-gallery-ellipsis.svg" width="70" alt="Animated three-dot loading icon">
+<img src="./assets/projects/logos/svg-motion-gallery-ellipsis.svg" width="82" alt="Animated three-dot loading icon">
 <br><br>
 <strong>SVG Motion Gallery</strong>
 <p>Mobile app for browsing, previewing, and editing animated SVG files.</p>
