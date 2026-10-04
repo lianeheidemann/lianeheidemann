@@ -30,7 +30,7 @@
 </tr>
 <tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/travel-booking-chatbot"><img src="https://raw.githubusercontent.com/lianeheidemann/travel-booking-chatbot/main/assets/logo/brand-logo.png" height="72" alt="Viajar logo"></a><br><br>
+<a href="https://github.com/lianeheidemann/travel-booking-chatbot"><img src="https://github.com/lianeheidemann/travel-booking-chatbot/blob/main/assets/gif-e-video/demonstracao-v2.gif" alt="Viajar logo"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/travel-booking-chatbot">Viajar — Travel Booking Chatbot</a></strong>
 <p>JavaScript travel assistant that collects booking details in a guided conversation and updates a reservation summary.</p>
 </td>
