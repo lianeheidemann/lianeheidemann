@@ -122,7 +122,7 @@ as I continue learning and growing in tech. 🦾
 </picture>
 </a><br><br>
 <strong><a href="https://github.com/lianeheidemann/parallel-image-pipeline">Parallel Image Pipeline</a></strong>
-<p><br><img src="./assets/badge/early-project.svg?v=1" width="132" height="20" alt="Early Project"><br>Experimental image-processing pipeline comparing sequential and parallel execution in Python and the browser, with AWS benchmarks.<br><code>Python</code>&nbsp;<code>OpenCV</code>&nbsp;<code>AWS</code></p>
+<p><br><img src="./assets/badge/early-project.svg?v=1" height="20" alt="Early Project"><br>Experimental image-processing pipeline comparing sequential and parallel execution in Python and the browser, with AWS benchmarks.<br><code>Python</code>&nbsp;<code>OpenCV</code>&nbsp;<code>AWS</code></p>
 </td>
 </tr>
 <tr>
