@@ -9,7 +9,7 @@
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/object-inspector"><img src="https://raw.githubusercontent.com/lianeheidemann/object-inspector/main/assets/interface-object-inspector-v1.webp" width="100%" alt="Object Inspector interface preview"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/object-inspector">Object Inspector</a></strong>
-<p>Static web viewer that displays geometric deviation heatmaps on 3D surfaces.</p>
+<p><br><img src="assets/badge/early-project.svg?v=1" width="132" height="20" alt="Early Project"><br>Static web viewer that displays geometric deviation heatmaps on 3D surfaces.</p>
 </td>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/vehicle-3d-showroom"><img src="https://raw.githubusercontent.com/lianeheidemann/vehicle-3d-showroom/main/midia/interface/interface-desktop-v2.webp" width="100%" alt="Vehicle 3D Showroom interface preview"></a><br><br>
@@ -204,11 +204,13 @@
 <table width="100%" cellpadding="10" cellspacing="8" border="0">
 <tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<br>
 <a href="https://github.com/lianeheidemann/parallel-image-pipeline"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo-dark.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo.png"><img src="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo.png" height="60" alt="Parallel Image Pipeline logo"></picture></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/parallel-image-pipeline">Parallel Image Pipeline</a></strong>
-<p>Experimental image-processing pipeline comparing sequential and parallel execution and performance.</p>
+<p><br><img src="assets/badge/early-project.svg?v=1" width="132" height="20" alt="Early Project"><br>Experimental image-processing pipeline comparing sequential and parallel execution and performance.</p>
 </td>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<br>
 <a href="https://github.com/lianeheidemann/readme-components"><img src="https://raw.githubusercontent.com/lianeheidemann/readme-components/main/assets/readme-components-badge/readme-components-badge-4.svg" height="72" alt="README Components badge"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/readme-components">README Components</a></strong>
 <p>Reusable collection of badges, icons, images, and templates for GitHub READMEs.</p>
