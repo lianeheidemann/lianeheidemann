@@ -88,6 +88,11 @@ as I continue learning and growing in tech. 🦾
 <p align="center">Selected projects in 3D visualization, simulation, animation, and image processing.</p>
 
 <table width="100%">
+
+
+
+
+
 <tr>
 <td align="center" width="50%" valign="top">
 <a href="https://github.com/lianeheidemann/object-inspector"><img src="https://raw.githubusercontent.com/lianeheidemann/object-inspector/main/assets/interface-object-inspector-v1.webp" width="100%" alt="Object Inspector interface preview"></a><br><br>
@@ -98,6 +103,26 @@ as I continue learning and growing in tech. 🦾
 <a href="https://github.com/lianeheidemann/vehicle-3d-showroom"><img src="https://raw.githubusercontent.com/lianeheidemann/vehicle-3d-showroom/main/midia/interface/interface-desktop-v2.webp" width="100%" alt="Vehicle 3D Showroom interface preview"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/vehicle-3d-showroom">Vehicle 3D Showroom</a></strong>
 <p>Browser-based 3D vehicle showroom with interactive models and gamepad support.</p>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top">
+<br>
+<a href="https://github.com/lianeheidemann/mesh-comparison"><img src="https://raw.githubusercontent.com/lianeheidemann/lianeheidemann/main/assets/projects/logos/mesh-comparison-logo-v2.png?v=2" height="54" alt="Mesh Comparison logo"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/mesh-comparison">Mesh Comparison</a></strong>
+<p><br><img src="./assets/badge/early-project.svg?v=1" width="132" height="20" alt="Early Project"><br>Python workspace for geometric and perceptual comparison of reconstructed 3D meshes.</p>
+</td>
+<td align="center" width="50%" valign="top">
+<br>
+<a href="https://github.com/lianeheidemann/parallel-image-pipeline">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo-dark.png">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo.png">
+<img src="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo.png" width="70%" height="54" style="object-fit:contain; object-position:center" alt="Parallel Image Pipeline logo">
+</picture>
+</a><br><br>
+<strong><a href="https://github.com/lianeheidemann/parallel-image-pipeline">Parallel Image Pipeline</a></strong>
+<p><br><img src="./assets/badge/early-project.svg?v=1" width="132" height="20" alt="Early Project"><br>Experimental image-processing pipeline comparing sequential and parallel execution in Python and the browser, with AWS benchmarks.</p>
 </td>
 </tr>
 <tr>
@@ -122,26 +147,6 @@ as I continue learning and growing in tech. 🦾
 <a href="https://github.com/lianeheidemann/3d-animations"><img src="https://raw.githubusercontent.com/lianeheidemann/3d-animations/main/bone-animation/animation-2.gif" width="100%" alt="3D Animations preview"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/3d-animations">3D Animations</a></strong>
 <p>Blender collection of character and prop animations, with source and export files.</p>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%" valign="top">
-<br>
-<a href="https://github.com/lianeheidemann/mesh-comparison"><img src="https://raw.githubusercontent.com/lianeheidemann/lianeheidemann/main/assets/projects/logos/mesh-comparison-logo-v2.png?v=2" height="54" alt="Mesh Comparison logo"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/mesh-comparison">Mesh Comparison</a></strong>
-<p><br><img src="./assets/badge/early-project.svg?v=1" width="132" height="20" alt="Early Project"><br>Python workspace for geometric and perceptual comparison of reconstructed 3D meshes.</p>
-</td>
-<td align="center" width="50%" valign="top">
-<br>
-<a href="https://github.com/lianeheidemann/parallel-image-pipeline">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo-dark.png">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo.png">
-<img src="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo.png" width="70%" height="54" style="object-fit:contain; object-position:center" alt="Parallel Image Pipeline logo">
-</picture>
-</a><br><br>
-<strong><a href="https://github.com/lianeheidemann/parallel-image-pipeline">Parallel Image Pipeline</a></strong>
-<p><br><img src="./assets/badge/early-project.svg?v=1" width="132" height="20" alt="Early Project"><br>Experimental image-processing pipeline comparing sequential and parallel execution in Python and the browser, with AWS benchmarks.</p>
 </td>
 </tr>
 </table>
