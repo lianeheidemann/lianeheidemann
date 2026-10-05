@@ -65,9 +65,9 @@ as I continue learning and growing in tech. 🦾
 </p>
 
 <p>
-  <img src="./assets/badge/threejs.svg?v=4" alt="Three.js" height="30">
-  <img src="./assets/badge/aframe.svg?v=2" alt="A-Frame" height="30">
-  <img src="./assets/badge/blender.svg?v=2" alt="Blender" height="30">
+  <img src="./assets/badge/threejs-v2.svg" alt="Three.js" height="30">
+  <img src="./assets/badge/aframe-v2.svg" alt="A-Frame" height="30">
+  <img src="./assets/badge/blender-v2.svg" alt="Blender" height="30">
   <img src="./assets/badge/opengl.svg?v=4" alt="OpenGL" height="30">
   <img src="./assets/badge/unity.svg?v=1" alt="Unity" height="30">
 </p>
