@@ -116,9 +116,11 @@ as I continue learning and growing in tech. 🦾
 <br>
 <a href="https://github.com/lianeheidemann/parallel-image-pipeline">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo-dark-v2.png">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo.png">
-<img src="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo.png" height="62" style="object-fit:contain; object-position:center" alt="Parallel Image Pipeline logo">
+<source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo-dark-v2.png" width="250" height="45">
+<source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo.png" width="250" height="45">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo-dark-v2.png" width="345" height="62">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo.png" width="345" height="62">
+<img src="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo.png" width="345" height="62" style="max-width: 100%; height: auto;" alt="Parallel Image Pipeline logo">
 </picture>
 </a><br><br>
 <strong><a href="https://github.com/lianeheidemann/parallel-image-pipeline">Parallel Image Pipeline</a></strong>
@@ -255,8 +257,8 @@ favorites, and an AI assistant for the Círio of Nazaré.
 <td align="center" width="50%" valign="top">
 <br>
 <picture>
-<source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/projects/logos/spriteflow-logo-dark.png?v=2" width="47" height="44">
-<source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/projects/logos/spriteflow-logo-light.png?v=2" width="47" height="44">
+<source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/projects/logos/spriteflow-logo-dark.png?v=2" width="65" height="60">
+<source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/projects/logos/spriteflow-logo-light.png?v=2" width="65" height="60">
 <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/logos/spriteflow-logo-dark.png?v=2" width="95" height="88">
 <source media="(prefers-color-scheme: light)" srcset="./assets/projects/logos/spriteflow-logo-light.png?v=2" width="95" height="88">
 <img src="./assets/projects/logos/spriteflow-logo-light.png?v=2" alt="SpriteFlow logo" style="max-width: 100%; height: auto;">
@@ -288,7 +290,7 @@ and exporting ready-to-use animations and images.
 <td align="center" width="100%" valign="top">
 <br>
 <picture>
-<source media="(max-width: 600px)" srcset="./assets/projects/logos/svg-motion-gallery-icon-v1.png" width="46" height="36">
+<source media="(max-width: 600px)" srcset="./assets/projects/logos/svg-motion-gallery-icon-v1.png" width="60" height="46">
 <source srcset="./assets/projects/logos/svg-motion-gallery-icon-v1.png" width="114" height="88">
 <img src="./assets/projects/logos/svg-motion-gallery-icon-v1.png" alt="SVG Motion Gallery butterfly icon" style="max-width: 100%; height: auto;">
 </picture>
