@@ -12,33 +12,33 @@
 <p><br><img src="assets/badge/early-project.svg?v=1" width="132" height="20" alt="Early Project"><br>Static web viewer that displays geometric deviation heatmaps on 3D surfaces.</p>
 </td>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<a href="https://github.com/lianeheidemann/mesh-comparison"><img src="https://raw.githubusercontent.com/lianeheidemann/mesh-comparison/main/assets/mesh-comparison-logo.png" width="40%" alt="Mesh Comparison logo"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/mesh-comparison">Mesh Comparison</a></strong>
+<p><br><img src="assets/badge/early-project.svg?v=1" width="132" height="20" alt="Early Project"><br>Python workspace for geometric and perceptual comparison of reconstructed 3D meshes.</p>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/vehicle-3d-showroom"><img src="https://raw.githubusercontent.com/lianeheidemann/vehicle-3d-showroom/main/midia/interface/interface-desktop-v2.webp" width="100%" alt="Vehicle 3D Showroom interface preview"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/vehicle-3d-showroom">Vehicle 3D Showroom</a></strong>
 <p>Browser-based 3D vehicle showroom with interactive models and gamepad support.</p>
 </td>
-</tr>
-<tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/mini-driving-simulator-3d"><img src="https://raw.githubusercontent.com/lianeheidemann/mini-driving-simulator-3d/main/media/interface/interface-v3.webp" width="100%" alt="Mini Driving Simulator interface preview"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/mini-driving-simulator-3d">Mini Driving Simulator 3D</a></strong>
 <p>Browser-based 3D driving simulator with keyboard and Xbox-compatible gamepad controls.</p>
 </td>
+</tr>
+<tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/porcelain-inspection-unity"><img src="https://raw.githubusercontent.com/lianeheidemann/porcelain-inspection-unity/main/media/interface-1.gif" width="100%" alt="Porcelain Inspection interface preview"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/porcelain-inspection-unity">Porcelain Inspection</a></strong>
 <p>Unity 3D prototype for rotating, zooming, and inspecting points on a porcelain piece.</p>
 </td>
-</tr>
-<tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/3d-animations"><img src="https://raw.githubusercontent.com/lianeheidemann/3d-animations/main/bone-animation/animation-2.gif" width="100%" alt="3D bone animation preview"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/3d-animations">3D Animations</a></strong>
 <p>Blender collection of 3D character and prop animations, with source and export files.</p>
-</td>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/mesh-comparison"><img src="https://raw.githubusercontent.com/lianeheidemann/mesh-comparison/main/assets/mesh-comparison-logo.png" width="40%" alt="Mesh Comparison logo"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/mesh-comparison">Mesh Comparison</a></strong>
-<p><br><img src="assets/badge/early-project.svg?v=1" width="132" height="20" alt="Early Project"><br>Python workspace for geometric and perceptual comparison of reconstructed 3D meshes.</p>
 </td>
 </tr>
 </table>
@@ -48,15 +48,15 @@
 <table width="100%" cellpadding="10" cellspacing="8" border="0">
 <tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/gitbat-app"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lianeheidemann/gitbat-app/main/assets/readme/gitbat-interface-escuro-v3.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lianeheidemann/gitbat-app/main/assets/interface-v2/gitbat-interface-claro-v3.webp"><img src="https://raw.githubusercontent.com/lianeheidemann/gitbat-app/main/assets/readme/gitbat-interface-escuro-v3.png" width="100%" alt="GitBat interface preview"></picture></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/gitbat-app">GitBat</a></strong>
-<p>Android app for creating GIF, animated WebP, SVG, and PNG content for GitHub READMEs.</p>
-</td>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <br>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/logos/spriteflow-logo-dark.png?v=2"><source media="(prefers-color-scheme: light)" srcset="assets/projects/logos/spriteflow-logo-light.png?v=2"><img src="assets/projects/logos/spriteflow-logo-light.png?v=2" height="88" alt="SpriteFlow logo"></picture><br><br>
 <strong><a href="https://github.com/lianeheidemann/sprite-flow-app">SpriteFlow</a></strong>
 <p>Flutter app for importing sprite sheets, editing frames, and exporting ready-to-use animations and images.</p>
+</td>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<a href="https://github.com/lianeheidemann/gitbat-app"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lianeheidemann/gitbat-app/main/assets/readme/gitbat-interface-escuro-v3.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lianeheidemann/gitbat-app/main/assets/interface-v2/gitbat-interface-claro-v3.webp"><img src="https://raw.githubusercontent.com/lianeheidemann/gitbat-app/main/assets/readme/gitbat-interface-escuro-v3.png" width="100%" alt="GitBat interface preview"></picture></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/gitbat-app">GitBat</a></strong>
+<p>Android app for creating GIF, animated WebP, SVG, and PNG content for GitHub READMEs.</p>
 </td>
 </tr>
 <tr>
