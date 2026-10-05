@@ -330,7 +330,7 @@ and exporting ready-to-use animations and images.
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/project-list-cta-dark-v2.svg">
       <source media="(prefers-color-scheme: light)" srcset="./assets/projects/project-list-cta-light-v2.svg">
-      <img src="./assets/projects/project-list-cta-light-v2.svg" width="100%" alt="Explore all my projects — view the complete project list">
+      <img src="./assets/projects/project-list-cta-light-v2.svg" width="50%" alt="Explore all my projects — view the complete project list">
     </picture>
   </a>
 </p>
