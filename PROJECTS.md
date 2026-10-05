@@ -50,7 +50,10 @@
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <br>
 <picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/projects/logos/spriteflow-logo-dark.png?v=2" width="47" height="44"><source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="assets/projects/logos/spriteflow-logo-light.png?v=2" width="47" height="44"><source media="(prefers-color-scheme: dark)" srcset="assets/projects/logos/spriteflow-logo-dark.png?v=2" width="95" height="88"><source media="(prefers-color-scheme: light)" srcset="assets/projects/logos/spriteflow-logo-light.png?v=2" width="95" height="88"><img src="assets/projects/logos/spriteflow-logo-light.png?v=2" alt="SpriteFlow logo" style="max-width: 100%; height: auto;"></picture><br><br>
-<strong>SpriteFlow</strong>
+<strong>SpriteFlow</strong><br>
+<img width="150" height="150" alt="blocks-shuffle-5" src="https://github.com/user-attachments/assets/6e7c5bc8-651c-4ecb-86c2-3ca5c8e7b19b" />
+
+
 <br><br>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/%F0%9F%9A%A7-In%20Development-2563EB?style=flat-square&amp;labelColor=1F2937">
@@ -68,7 +71,7 @@
 <img src="assets/projects/logos/svg-motion-gallery-icon-v1.png" alt="SVG Motion Gallery butterfly icon" style="max-width: 100%; height: auto;">
 </picture><br><br>
 <strong>SVG Motion Gallery</strong>
-<br><br>
+<img src="https://github.com/lianeheidemann/lianeheidemann/blob/main/assets/projects/svg-gallery-interface-v2.webp" alt="SVG Motion Gallery butterfly icon" style="max-width: 100%; height: auto;"><br><br><br>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/%F0%9F%9A%A7-In%20Development-2563EB?style=flat-square&amp;labelColor=1F2937">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/%F0%9F%9A%A7-In%20Development-1D4ED8?style=flat-square&amp;labelColor=E5E7EB">
