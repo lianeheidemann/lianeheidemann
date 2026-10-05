@@ -49,7 +49,7 @@
 <tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <br>
-<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/projects/logos/spriteflow-logo-dark.png?v=2" width="71" height="66"><source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="assets/projects/logos/spriteflow-logo-light.png?v=2" width="71" height="66"><source media="(prefers-color-scheme: dark)" srcset="assets/projects/logos/spriteflow-logo-dark.png?v=2" width="95" height="88"><source media="(prefers-color-scheme: light)" srcset="assets/projects/logos/spriteflow-logo-light.png?v=2" width="95" height="88"><img src="assets/projects/logos/spriteflow-logo-light.png?v=2" alt="SpriteFlow logo" style="max-width: 100%; height: auto;"></picture><br><br>
+<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/projects/logos/spriteflow-logo-dark.png?v=2" width="47" height="44"><source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="assets/projects/logos/spriteflow-logo-light.png?v=2" width="71" height="66"><source media="(prefers-color-scheme: dark)" srcset="assets/projects/logos/spriteflow-logo-dark.png?v=2" width="95" height="88"><source media="(prefers-color-scheme: light)" srcset="assets/projects/logos/spriteflow-logo-light.png?v=2" width="95" height="88"><img src="assets/projects/logos/spriteflow-logo-light.png?v=2" alt="SpriteFlow logo" style="max-width: 100%; height: auto;"></picture><br><br>
 <strong>SpriteFlow</strong>
 <br><br>
 <picture>
@@ -65,7 +65,7 @@
 <source media="(max-width: 600px)" srcset="assets/projects/logos/svg-motion-gallery-icon-v1.png" width="90" height="70">
 <source media="(prefers-color-scheme: dark)" srcset="assets/projects/logos/svg-motion-gallery-icon-v1.png" width="114" height="88">
 <source media="(prefers-color-scheme: light)" srcset="assets/projects/logos/svg-motion-gallery-icon-v1.png" width="114" height="88">
-<picture><source media="(max-width: 600px)" srcset="assets/projects/logos/svg-motion-gallery-icon-v1.png" width="66" height="51"><source srcset="assets/projects/logos/svg-motion-gallery-icon-v1.png" width="114" height="88"><img src="assets/projects/logos/svg-motion-gallery-icon-v1.png" alt="SVG Motion Gallery butterfly icon" style="max-width: 100%; height: auto;"></picture>
+<picture><source media="(max-width: 600px)" srcset="assets/projects/logos/svg-motion-gallery-icon-v1.png" width="46" height="36"><source srcset="assets/projects/logos/svg-motion-gallery-icon-v1.png" width="114" height="88"><img src="assets/projects/logos/svg-motion-gallery-icon-v1.png" alt="SVG Motion Gallery butterfly icon" style="max-width: 100%; height: auto;"></picture>
 </picture><br><br>
 <strong>SVG Motion Gallery</strong>
 <br><br>
