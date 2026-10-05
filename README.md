@@ -212,7 +212,7 @@ contextual conversations, and local history.
 <img src="assets/projects/logos/gitbat-v2.png" height="100" alt="GitBat logo">
 </a>
 <br><br>
-<strong>🏆💙 <a href="https://github.com/lianeheidemann/gitbat-app">GitBat</a></strong>
+<strong>🏆💙 <a href="https://github.com/lianeheidemann/gitbat-app">GitBat</a> 💙🏆</strong>
 <br><br>
 <a href="https://github.com/lianeheidemann/gitbat-app">
 <picture>
