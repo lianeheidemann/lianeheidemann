@@ -16,7 +16,7 @@
 </p>
 
 I'm Liane,<br>
-a Computer Science student from Belém, in the state of Pará, Brazil,<br>
+a Computer Science student from Brazil,<br>
 with a passion for software development, AI, and computer graphics.<br>
 I enjoy building useful projects and exploring new ideas. 💙
 
