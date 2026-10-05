@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="158" height="44" viewBox="0 0 158 44" role="img" aria-labelledby="title desc">
+<title id="title">A-Frame</title><desc id="desc">Deep plum badge with a vivid rose border and light pink angular A mark.</desc>
+<style>.bg{fill:#26151b;stroke:#ef5271}.label{fill:#ffc1cd}.mark{fill:#ff5a7d}</style>
+<rect class="bg" x=".75" y=".75" width="156.5" height="42.5" rx="10" stroke-width="1.5"/>
+<path class="mark" transform="translate(13 8) scale(1.15)" d="M17.37 17.07H6.57L4.24 24H3.01l8.23-24h1.52l8.23 24h-1.3zm-.39-1.13l-5-14.96-5.03 14.98h10.03Z"/>
+<text class="label" x="53" y="28" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="700" letter-spacing="1.3">A-FRAME</text></svg>
