@@ -11,7 +11,7 @@
 <strong><a href="https://github.com/lianeheidemann/object-inspector">Object Inspector</a></strong>
 <p><br><img src="assets/badge/early-project.svg?v=1" width="132" height="20" alt="Early Project"><br>Static web viewer that displays geometric deviation heatmaps on 3D surfaces.<br><code>A-Frame</code>&nbsp;<code>Three.js</code>&nbsp;<code>WebGL</code></p>
 </td>
-<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;"><br>
 <a href="https://github.com/lianeheidemann/mesh-comparison"><img src="https://raw.githubusercontent.com/lianeheidemann/mesh-comparison/main/assets/mesh-comparison-logo.png" width="40%" alt="Mesh Comparison logo"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/mesh-comparison">Mesh Comparison</a></strong>
 <p><br><img src="assets/badge/early-project.svg?v=1" width="132" height="20" alt="Early Project"><br>Python workspace for geometric and perceptual comparison of reconstructed 3D meshes.<br><code>Python</code>&nbsp;<code>Open3D</code>&nbsp;<code>LPIPS</code></p>
