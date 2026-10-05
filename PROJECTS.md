@@ -117,19 +117,19 @@
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/arduino-soil-moisture-monitor"><img src="https://raw.githubusercontent.com/lianeheidemann/arduino-soil-moisture-monitor/main/assets/demonstration.gif" width="100%" alt="Arduino Soil Moisture Monitor demonstration"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/arduino-soil-moisture-monitor">Arduino Soil Moisture Monitor</a></strong>
-<p>Arduino soil-moisture monitor with LCD, status LED, and a control button; simulated in Tinkercad.<br><code>Arduino</code>&nbsp;<code>C++</code>&nbsp;<code>Tinkercad</code></p>
+<p>Arduino soil-moisture monitor with LCD, status LED, and a control button; simulated in Tinkercad.<br><code>Arduino</code>&nbsp;<code>Tinkercad</code></p>
 </td>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/automated-greenhouse-prototype"><img src="https://raw.githubusercontent.com/lianeheidemann/automated-greenhouse-prototype/main/assets/prototype/video_melhor_qualidade-1.webp" width="100%" alt="Automated greenhouse prototype preview"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/automated-greenhouse-prototype">Automated Greenhouse Prototype</a></strong>
-<p>Arduino greenhouse monitor for temperature, air humidity, and soil moisture, with LCD and Bluetooth reporting.<br><code>Arduino</code>&nbsp;<code>C++</code>&nbsp;<code>Bluetooth</code></p>
+<p>Arduino greenhouse monitor for temperature, air humidity, and soil moisture, with LCD and Bluetooth reporting.<br><code>Arduino</code>&nbsp;<code>Bluetooth</code></p>
 </td>
 </tr>
 <tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/bluetooth-robotic-car-claw"><img src="https://raw.githubusercontent.com/lianeheidemann/bluetooth-robotic-car-claw/main/assets/prototype/image2.png" width="100%" alt="Bluetooth robotic car joystick interface"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/bluetooth-robotic-car-claw">Bluetooth Robotic Car with Mechanical Claw</a></strong>
-<p>Arduino car controlled over Bluetooth, with a mobile joystick and a mechanical claw.<br><code>Arduino</code>&nbsp;<code>C++</code>&nbsp;<code>Bluetooth</code></p>
+<p>Arduino car controlled over Bluetooth, with a mobile joystick and a mechanical claw.<br><code>Arduino</code>&nbsp;<code>Bluetooth</code></p>
 </td>
 <td width="50%"></td>
 </tr>
