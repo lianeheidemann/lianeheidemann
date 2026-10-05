@@ -49,7 +49,7 @@
 <tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <br>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/logos/spriteflow-logo-dark.png?v=2"><source media="(prefers-color-scheme: light)" srcset="assets/projects/logos/spriteflow-logo-light.png?v=2"><img src="assets/projects/logos/spriteflow-logo-light.png?v=2" height="88" alt="SpriteFlow logo" style="max-width: 100%; max-height: 88px; height: auto;"></picture><br><br>
+<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/projects/logos/spriteflow-logo-dark-mobile.svg"><source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="assets/projects/logos/spriteflow-logo-light-mobile.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/projects/logos/spriteflow-logo-dark.png?v=2"><source media="(prefers-color-scheme: light)" srcset="assets/projects/logos/spriteflow-logo-light.png?v=2"><img src="assets/projects/logos/spriteflow-logo-light.png?v=2" height="88" alt="SpriteFlow logo" style="max-width: 100%; max-height: 88px; height: auto;"></picture><br><br>
 <strong>SpriteFlow</strong>
 <br><br>
 <picture>
@@ -62,6 +62,7 @@
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <br>
 <picture>
+<source media="(max-width: 600px)" srcset="assets/projects/logos/svg-motion-gallery-icon-mobile.svg">
 <source media="(prefers-color-scheme: dark)" srcset="assets/projects/logos/svg-motion-gallery-icon-v1.png">
 <source media="(prefers-color-scheme: light)" srcset="assets/projects/logos/svg-motion-gallery-icon-v1.png">
 <img src="assets/projects/logos/svg-motion-gallery-icon-v1.png" height="88" alt="SVG Motion Gallery butterfly icon" style="max-width: 100%; max-height: 88px; height: auto;">
