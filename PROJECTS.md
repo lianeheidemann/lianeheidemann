@@ -236,7 +236,7 @@
 </td>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <br>
-<a href="https://github.com/lianeheidemann/readme-components"><img src="https://raw.githubusercontent.co7m/lianeheidemann/readme-components/main/assets/readme-components-badge/readme-components-badge-4.svg" height="72" alt="README Components badge"></a><br><br>
+<a href="https://github.com/lianeheidemann/readme-components"><img src="https://raw.githubusercontent.com/lianeheidemann/readme-components/main/assets/readme-components-badge/readme-components-badge-4.svg" height="72" alt="README Components badge"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/readme-components">README Components</a></strong>
 <p>Reusable collection of badges, icons, images, and templates for GitHub READMEs.<br><code>Markdown</code>&nbsp;<code>SVG</code>&nbsp;<code>Shields.io</code></p>
 </td>
