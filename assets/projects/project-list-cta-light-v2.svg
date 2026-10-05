@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-labelledby="title desc">
+  <title id="title">Explore all my projects</title>
+  <desc id="desc">A light-theme project-list link banner with left and right navigation arrows.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1200" y2="150" gradientUnits="userSpaceOnUse"><stop stop-color="#F8FBFF"/><stop offset=".5" stop-color="#EEF4FF"/><stop offset="1" stop-color="#E8F0FC"/></linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#22D3EE"/><stop offset=".4" stop-color="#38BDF8"/><stop offset=".7" stop-color="#8B5CF6"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="60%"><stop stop-color="#38BDF8" stop-opacity=".17"/><stop offset="1" stop-color="#EEF4FF" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#0E7490" stroke-opacity=".05"/></pattern>
+    <filter id="shadow" x="-40%" y="-40%" width="180%" height="180%"><feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#111827" flood-opacity=".18"/></filter>
+  </defs>
+  <rect x="8" y="8" width="1184" height="134" rx="66" fill="url(#panel)" stroke="url(#edge)" stroke-width="3"/>
+  <rect x="10" y="10" width="1180" height="130" rx="64" fill="url(#grid)"/>
+  <ellipse cx="600" cy="75" rx="410" ry="74" fill="url(#glow)"/>
+  <g filter="url(#shadow)">
+    <circle cx="66" cy="75" r="55" fill="#42495D"/>
+    <circle cx="1134" cy="75" r="55" fill="#42495D"/>
+  </g>
+  <g fill="none" stroke="#E8EEFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m74 62-13 13 13 13"/>
+    <path d="m1126 62 13 13-13 13"/>
+  </g>
+  <text x="600" y="86" text-anchor="middle" fill="#0F172A" font-family="Segoe UI,Arial,sans-serif" font-size="30" font-weight="750" letter-spacing="-.35">Explore all my projects</text>
+</svg>
