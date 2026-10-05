@@ -272,9 +272,9 @@ favorites, and an AI assistant for the Círio of Nazaré.
 <td align="center" width="50%" valign="top">
 <br>
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lianeheidemann/sprite-flow-app/main/branding/png/spriteflow-app-icon-v2-night.png">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lianeheidemann/sprite-flow-app/main/branding/png/spriteflow-app-icon-v2-day.png">
-<img src="https://raw.githubusercontent.com/lianeheidemann/sprite-flow-app/main/branding/png/spriteflow-app-icon-v2-day.png" height="88" alt="SpriteFlow logo">
+<source media="(prefers-color-scheme: dark)" srcset="./assets/projects/logos/spriteflow-logo-dark.png?v=2">
+<source media="(prefers-color-scheme: light)" srcset="./assets/projects/logos/spriteflow-logo-light.png?v=2">
+<img src="./assets/projects/logos/spriteflow-logo-light.png?v=2" height="88" alt="SpriteFlow logo">
 </picture>
 <br><br>
 <strong>SpriteFlow</strong>
