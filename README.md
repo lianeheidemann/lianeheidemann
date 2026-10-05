@@ -109,12 +109,12 @@ as I continue learning and growing in tech. 🦾
 <td align="center" width="50%" style="width:50%;" valign="top">
 <a href="https://github.com/lianeheidemann/object-inspector"><img width="500" src="https://raw.githubusercontent.com/lianeheidemann/object-inspector/main/assets/interface-object-inspector-v1.webp" alt="Object Inspector interface preview" style="display:block; width:100%; max-width:100%; height:auto;"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/object-inspector">Object Inspector</a></strong>
-<p><br><img src="./assets/badge/early-project.svg?v=1" width="132" height="20" alt="Early Project"><br>Static viewer for geometric deviation heatmaps on 3D surfaces.<br><code>A-Frame</code> <code>Three.js</code> <code>WebGL</code></p>
+<p><br><img src="./assets/badge/early-project.svg?v=1" width="132" height="20" alt="Early Project"><br>Static viewer for geometric deviation heatmaps on 3D surfaces.<br><code>A-Frame</code> <code>Three.js</code> <code>WebGL</code></p><br>
 </td>
 <td align="center" width="50%" style="width:50%;" valign="top">
 <a href="https://github.com/lianeheidemann/vehicle-3d-showroom"><img width="500" src="https://raw.githubusercontent.com/lianeheidemann/vehicle-3d-showroom/main/midia/interface/interface-desktop-v2.webp" alt="Vehicle 3D Showroom interface preview" style="display:block; width:100%; max-width:100%; height:auto;"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/vehicle-3d-showroom">Vehicle 3D Showroom</a></strong>
-<p>Browser-based 3D vehicle showroom with interactive models and gamepad support.<br><code>A-Frame</code> <code>Three.js</code> <code>JavaScript</code> <code>Gamepad API</code></p>
+<p>Browser-based 3D vehicle showroom with interactive models and gamepad support.<br><code>A-Frame</code> <code>Three.js</code> <code>JavaScript</code> <code>Gamepad API</code></p><br>
 </td>
 </tr>
 <tr>
@@ -122,7 +122,7 @@ as I continue learning and growing in tech. 🦾
 <br>
 <a href="https://github.com/lianeheidemann/mesh-comparison-v2"><img src="https://raw.githubusercontent.com/lianeheidemann/lianeheidemann/main/assets/projects/logos/mesh-comparison-logo-v2.png?v=2" width="100" alt="Mesh Comparison logo"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/mesh-comparison">Mesh Comparison</a></strong>
-<p><br><img src="./assets/badge/early-project.svg?v=1" height="20" alt="Early Project"><br>Python workspace for geometric and perceptual comparison of reconstructed 3D meshes.<br><code>Python</code> <code>Open3D</code> <code>LPIPS</code></p>
+<p><br><img src="./assets/badge/early-project.svg?v=1" height="20" alt="Early Project"><br>Python workspace for geometric and perceptual comparison of reconstructed 3D meshes.<br><code>Python</code> <code>Open3D</code> <code>LPIPS</code></p><br>
 </td>
 <td align="center" width="50%" style="width:50%;" valign="top">
 <br>
@@ -136,31 +136,31 @@ as I continue learning and growing in tech. 🦾
 </picture>
 </a><br><br>
 <strong><a href="https://github.com/lianeheidemann/parallel-image-pipeline">Parallel Image Pipeline</a></strong>
-<p><br><img src="./assets/badge/early-project.svg?v=1" height="20" alt="Early Project"><br>Experimental image-processing pipeline comparing sequential and parallel execution in Python and the browser, with AWS benchmarks.<br><code>Python</code> <code>OpenCV</code> <code>AWS</code></p>
+<p><br><img src="./assets/badge/early-project.svg?v=1" height="20" alt="Early Project"><br>Experimental image-processing pipeline comparing sequential and parallel execution in Python and the browser, with AWS benchmarks.<br><code>Python</code> <code>OpenCV</code> <code>AWS</code></p><br>
 </td>
 </tr>
 <tr>
 <td align="center" width="50%" style="width:50%;" valign="top">
 <a href="https://github.com/lianeheidemann/mini-driving-simulator-3d"><img width="500" src="https://raw.githubusercontent.com/lianeheidemann/mini-driving-simulator-3d/main/media/interface/interface-v3.webp" alt="Mini Driving Simulator 3D interface preview" style="display:block; width:100%; max-width:100%; height:auto;"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/mini-driving-simulator-3d">Mini Driving Simulator 3D</a></strong>
-<p>Browser-based driving simulator with keyboard and Xbox-compatible gamepad controls.<br><code>A-Frame</code> <code>Three.js</code> <code>Gamepad API</code></p>
+<p>Browser-based driving simulator with keyboard and Xbox-compatible gamepad controls.<br><code>A-Frame</code> <code>Three.js</code> <code>Gamepad API</code></p><br>
 </td>
 <td align="center" width="50%" style="width:50%;" valign="top">
 <a href="https://github.com/lianeheidemann/porcelain-inspection-unity"><img width="500" src="https://raw.githubusercontent.com/lianeheidemann/porcelain-inspection-unity/main/media/interface-1.gif" alt="Porcelain Inspection interface preview" style="display:block; width:100%; max-width:100%; height:auto;"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/porcelain-inspection-unity">Porcelain Inspection</a></strong>
-<p>Unity 3D prototype for rotating, zooming, and inspecting points on a porcelain piece.<br><code>Unity 6</code> <code>C#</code></p>
+<p>Unity 3D prototype for rotating, zooming, and inspecting points on a porcelain piece.<br><code>Unity 6</code> <code>C#</code></p><br>
 </td>
 </tr>
 <tr>
 <td align="center" width="50%" style="width:50%;" valign="top">
 <a href="https://github.com/lianeheidemann/atividades-processamento-de-imagens"><img width="700" src="https://raw.githubusercontent.com/lianeheidemann/atividades-processamento-de-imagens/main/atividade/atividade-3/output/09_comparacao_antes_depois.png" alt="Image Processing Activities preview" style="display:block; width:100%; max-width:100%; height:auto;"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/atividades-processamento-de-imagens">Image Processing Activities</a></strong>
-<p>Coursework in quantization, histograms, gamma correction, enhancement, and segmentation.<br><code>Python</code> <code>OpenCV</code> <code>NumPy</code></p>
+<p>Coursework in quantization, histograms, gamma correction, enhancement, and segmentation.<br><code>Python</code> <code>OpenCV</code> <code>NumPy</code></p><br>
 </td>
 <td align="center" width="50%" style="width:50%;" valign="top">
 <a href="https://github.com/lianeheidemann/3d-animations"><img width="500" src="https://raw.githubusercontent.com/lianeheidemann/3d-animations/main/bone-animation/animation-2.gif" alt="3D Animations preview" style="display:block; width:100%; max-width:100%; height:auto;"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/3d-animations">3D Animations</a></strong>
-<p>Blender collection of character and prop animations, with source and export files.<br><code>Blender</code> <code>glTF/GLB</code></p>
+<p>Blender collection of character and prop animations, with source and export files.<br><code>Blender</code> <code>glTF/GLB</code></p><br>
 </td>
 </tr>
 </table>
@@ -175,12 +175,12 @@ as I continue learning and growing in tech. 🦾
 <td align="center" width="50%" style="width:50%;" valign="top">
 <a href="https://github.com/lianeheidemann/bluetooth-robotic-car-claw"><img width="500" src="https://raw.githubusercontent.com/lianeheidemann/bluetooth-robotic-car-claw/main/assets/prototype/image2.png" alt="Bluetooth robotic car with mechanical claw" style="display:block; width:100%; max-width:100%; height:auto;"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/bluetooth-robotic-car-claw">Bluetooth Robotic Car with Mechanical Claw</a></strong>
-<p>Arduino car controlled over Bluetooth, with a mobile joystick and a mechanical claw.<br><code>Arduino</code> <code>Bluetooth</code></p>
+<p>Arduino car controlled over Bluetooth, with a mobile joystick and a mechanical claw.<br><code>Arduino</code> <code>Bluetooth</code></p><br>
 </td>
 <td align="center" width="50%" style="width:50%;" valign="top">
 <a href="https://github.com/lianeheidemann/automated-greenhouse-prototype"><img width="500" src="https://raw.githubusercontent.com/lianeheidemann/automated-greenhouse-prototype/main/assets/prototype/video_melhor_qualidade-1.webp" alt="Automated Greenhouse Prototype preview" style="display:block; width:100%; max-width:100%; height:auto;"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/automated-greenhouse-prototype">Automated Greenhouse Prototype</a></strong>
-<p>Arduino greenhouse monitor for temperature, air humidity, and soil moisture, with LCD and Bluetooth reporting.<br><code>Arduino</code> <code>Bluetooth</code></p>
+<p>Arduino greenhouse monitor for temperature, air humidity, and soil moisture, with LCD and Bluetooth reporting.<br><code>Arduino</code> <code>Bluetooth</code></p><br>
 </td>
 </tr>
 </table>
