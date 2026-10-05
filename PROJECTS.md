@@ -9,36 +9,36 @@
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/object-inspector"><img src="https://raw.githubusercontent.com/lianeheidemann/object-inspector/main/assets/interface-object-inspector-v1.webp" width="100%" alt="Object Inspector interface preview"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/object-inspector">Object Inspector</a></strong>
-<p><br><img src="assets/badge/early-project.svg?v=1" width="132" height="20" alt="Early Project"><br>Static web viewer that displays geometric deviation heatmaps on 3D surfaces.<br></p>
+<p><br><img src="assets/badge/early-project.svg?v=1" width="132" height="20" alt="Early Project"><br>Static web viewer that displays geometric deviation heatmaps on 3D surfaces.<br><img src="https://img.shields.io/badge/A--Frame-495463?style=flat-square" height="18" alt="A-Frame">&nbsp;<img src="https://img.shields.io/badge/Three%2Ejs-495463?style=flat-square" height="18" alt="Three.js">&nbsp;<img src="https://img.shields.io/badge/WebGL-495463?style=flat-square" height="18" alt="WebGL"></p>
 </td>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/mesh-comparison"><img src="https://raw.githubusercontent.com/lianeheidemann/mesh-comparison/main/assets/mesh-comparison-logo.png" width="40%" alt="Mesh Comparison logo"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/mesh-comparison">Mesh Comparison</a></strong>
-<p><br><img src="assets/badge/early-project.svg?v=1" width="132" height="20" alt="Early Project"><br>Python workspace for geometric and perceptual comparison of reconstructed 3D meshes.<br></p>
+<p><br><img src="assets/badge/early-project.svg?v=1" width="132" height="20" alt="Early Project"><br>Python workspace for geometric and perceptual comparison of reconstructed 3D meshes.<br><img src="https://img.shields.io/badge/Python-495463?style=flat-square" height="18" alt="Python">&nbsp;<img src="https://img.shields.io/badge/Open3D-495463?style=flat-square" height="18" alt="Open3D">&nbsp;<img src="https://img.shields.io/badge/LPIPS-495463?style=flat-square" height="18" alt="LPIPS"></p>
 </td>
 </tr>
 <tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/vehicle-3d-showroom"><img src="https://raw.githubusercontent.com/lianeheidemann/vehicle-3d-showroom/main/midia/interface/interface-desktop-v2.webp" width="100%" alt="Vehicle 3D Showroom interface preview"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/vehicle-3d-showroom">Vehicle 3D Showroom</a></strong>
-<p>Browser-based 3D vehicle showroom with interactive models and gamepad support.<br></p>
+<p>Browser-based 3D vehicle showroom with interactive models and gamepad support.<br><img src="https://img.shields.io/badge/A--Frame-495463?style=flat-square" height="18" alt="A-Frame">&nbsp;<img src="https://img.shields.io/badge/Three%2Ejs-495463?style=flat-square" height="18" alt="Three.js">&nbsp;<img src="https://img.shields.io/badge/JavaScript-495463?style=flat-square" height="18" alt="JavaScript"></p>
 </td>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/mini-driving-simulator-3d"><img src="https://raw.githubusercontent.com/lianeheidemann/mini-driving-simulator-3d/main/media/interface/interface-v3.webp" width="100%" alt="Mini Driving Simulator interface preview"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/mini-driving-simulator-3d">Mini Driving Simulator 3D</a></strong>
-<p>Browser-based 3D driving simulator with keyboard and Xbox-compatible gamepad controls.<br></p>
+<p>Browser-based 3D driving simulator with keyboard and Xbox-compatible gamepad controls.<br><img src="https://img.shields.io/badge/A--Frame-495463?style=flat-square" height="18" alt="A-Frame">&nbsp;<img src="https://img.shields.io/badge/Three%2Ejs-495463?style=flat-square" height="18" alt="Three.js">&nbsp;<img src="https://img.shields.io/badge/Gamepad%20API-495463?style=flat-square" height="18" alt="Gamepad API"></p>
 </td>
 </tr>
 <tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/porcelain-inspection-unity"><img src="https://raw.githubusercontent.com/lianeheidemann/porcelain-inspection-unity/main/media/interface-1.gif" width="100%" alt="Porcelain Inspection interface preview"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/porcelain-inspection-unity">Porcelain Inspection</a></strong>
-<p>Unity 3D prototype for rotating, zooming, and inspecting points on a porcelain piece.<br></p>
+<p>Unity 3D prototype for rotating, zooming, and inspecting points on a porcelain piece.<br><img src="https://img.shields.io/badge/Unity%206-495463?style=flat-square" height="18" alt="Unity 6">&nbsp;<img src="https://img.shields.io/badge/C%23-495463?style=flat-square" height="18" alt="C#"></p>
 </td>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/3d-animations"><img src="https://raw.githubusercontent.com/lianeheidemann/3d-animations/main/bone-animation/animation-2.gif" width="100%" alt="3D bone animation preview"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/3d-animations">3D Animations</a></strong>
-<p>Blender collection of 3D character and prop animations, with source and export files.<br></p>
+<p>Blender collection of 3D character and prop animations, with source and export files.<br><img src="https://img.shields.io/badge/Blender-495463?style=flat-square" height="18" alt="Blender">&nbsp;<img src="https://img.shields.io/badge/glTF%2FGLB-495463?style=flat-square" height="18" alt="glTF/GLB"></p>
 </td>
 </tr>
 </table>
