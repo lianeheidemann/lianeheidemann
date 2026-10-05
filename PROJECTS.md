@@ -51,7 +51,7 @@
 <br>
 <picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/projects/logos/spriteflow-logo-dark.png?v=2" width="47" height="44"><source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="assets/projects/logos/spriteflow-logo-light.png?v=2" width="47" height="44"><source media="(prefers-color-scheme: dark)" srcset="assets/projects/logos/spriteflow-logo-dark.png?v=2" width="95" height="88"><source media="(prefers-color-scheme: light)" srcset="assets/projects/logos/spriteflow-logo-light.png?v=2" width="95" height="88"><img src="assets/projects/logos/spriteflow-logo-light.png?v=2" alt="SpriteFlow logo" style="max-width: 100%; height: auto;"></picture><br><br>
 <strong>SpriteFlow</strong><br>
-<img width="150" height="150" alt="blocks-shuffle-5" src="https://github.com/user-attachments/assets/6e7c5bc8-651c-4ecb-86c2-3ca5c8e7b19b" />
+<img width="150" height="150" src="assets/projects/blocks-shuffle-5.svg" />
 
 
 <br><br>
