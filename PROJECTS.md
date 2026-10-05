@@ -2,6 +2,7 @@
 <p align="center">A collection of software, research, and academic projects.</p>
 <p align="center"><sub>33 projects shown</sub></p>
 
+<br>
 <h2>3D Projects</h2>
 <p>Projects focused on 3D modeling, visualization, simulation, animation, and mesh analysis.</p>
 <table width="100%" cellpadding="10" cellspacing="8" border="0">
@@ -43,6 +44,7 @@
 </tr>
 </table>
 
+<br>
 <h2>Mobile Projects</h2>
 <p>Android applications and mobile development projects.</p>
 <table width="100%" cellpadding="10" cellspacing="8" border="0">
@@ -112,6 +114,7 @@
 </tr>
 </table>
 
+<br>
 <h2>Hardware Projects</h2>
 <p>Embedded systems, Arduino prototypes, and Bluetooth-controlled hardware.</p>
 <table width="100%" cellpadding="10" cellspacing="8" border="0">
@@ -137,6 +140,7 @@
 </tr>
 </table>
 
+<br>
 <h2>Projects with interface previews</h2>
 <p>Selected projects with interface and demo previews.</p>
 <table width="100%" cellpadding="10" cellspacing="8" border="0">
@@ -226,6 +230,7 @@
 </tr>
 </table>
 
+<br>
 <h2>More projects</h2>
 <p>Additional software, research, and developer-tool projects.</p>
 <table width="100%" cellpadding="10" cellspacing="8" border="0">
