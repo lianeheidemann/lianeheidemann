@@ -53,9 +53,9 @@
 <strong>SpriteFlow</strong>
 <br><br>
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/%F0%9F%9A%A7-Under%20Construction-2563EB?style=flat-square&amp;labelColor=1F2937">
-<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/%F0%9F%9A%A7-Under%20Construction-1D4ED8?style=flat-square&amp;labelColor=E5E7EB">
-<img height="22" src="https://img.shields.io/badge/%F0%9F%9A%A7-Under%20Construction-1D4ED8?style=flat-square&amp;labelColor=E5E7EB" alt="Under Construction">
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/%F0%9F%9A%A7-In%20Development-2563EB?style=flat-square&amp;labelColor=1F2937">
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/%F0%9F%9A%A7-In%20Development-1D4ED8?style=flat-square&amp;labelColor=E5E7EB">
+<img height="22" src="https://img.shields.io/badge/%F0%9F%9A%A7-In%20Development-1D4ED8?style=flat-square&amp;labelColor=E5E7EB" alt="Under Construction">
 </picture>
 <p>Flutter app for importing sprite sheets, editing frames, and exporting ready-to-use animations and images.</p>
 </td>
@@ -68,9 +68,9 @@
 <strong>SVG Motion Gallery</strong>
 <br><br>
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/%F0%9F%9A%A7-Under%20Construction-2563EB?style=flat-square&amp;labelColor=1F2937">
-<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/%F0%9F%9A%A7-Under%20Construction-1D4ED8?style=flat-square&amp;labelColor=E5E7EB">
-<img height="22" src="https://img.shields.io/badge/%F0%9F%9A%A7-Under%20Construction-1D4ED8?style=flat-square&amp;labelColor=E5E7EB" alt="Under Construction">
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/%F0%9F%9A%A7-In%20Development-2563EB?style=flat-square&amp;labelColor=1F2937">
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/%F0%9F%9A%A7-In%20Development-1D4ED8?style=flat-square&amp;labelColor=E5E7EB">
+<img height="22" src="https://img.shields.io/badge/%F0%9F%9A%A7-In%20Development-1D4ED8?style=flat-square&amp;labelColor=E5E7EB" alt="Under Construction">
 </picture>
 <p>Mobile app for browsing, previewing, and editing animated SVG files.</p>
 </td>
