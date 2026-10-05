@@ -52,9 +52,7 @@
 <picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/projects/logos/spriteflow-logo-dark.png?v=2" width="47" height="44"><source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="assets/projects/logos/spriteflow-logo-light.png?v=2" width="47" height="44"><source media="(prefers-color-scheme: dark)" srcset="assets/projects/logos/spriteflow-logo-dark.png?v=2" width="95" height="88"><source media="(prefers-color-scheme: light)" srcset="assets/projects/logos/spriteflow-logo-light.png?v=2" width="95" height="88"><img src="assets/projects/logos/spriteflow-logo-light.png?v=2" alt="SpriteFlow logo" style="max-width: 100%; height: auto;"></picture><br><br>
 <strong>SpriteFlow</strong><br>
 <img width="150" height="150" src="assets/projects/blocks-shuffle-5.svg" />
-
-
-<br><br>
+<br>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/%F0%9F%9A%A7-In%20Development-2563EB?style=flat-square&amp;labelColor=1F2937">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/%F0%9F%9A%A7-In%20Development-1D4ED8?style=flat-square&amp;labelColor=E5E7EB">
