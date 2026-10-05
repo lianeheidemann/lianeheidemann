@@ -60,6 +60,7 @@
 <p>Flutter app for importing sprite sheets, editing frames, and exporting ready-to-use animations and images.</p>
 </td>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<br>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/projects/logos/svg-motion-gallery-icon-v1.png">
 <source media="(prefers-color-scheme: light)" srcset="assets/projects/logos/svg-motion-gallery-icon-v1.png">
