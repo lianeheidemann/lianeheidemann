@@ -255,7 +255,7 @@ favorites, and an AI assistant for the Círio of Nazaré.
 <td align="center" width="50%" valign="top">
 <br>
 <picture>
-<source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/projects/logos/spriteflow-logo-dark.png?v=2" width="71" height="66">
+<source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/projects/logos/spriteflow-logo-dark.png?v=2" width="47" height="44">
 <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/projects/logos/spriteflow-logo-light.png?v=2" width="71" height="66">
 <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/logos/spriteflow-logo-dark.png?v=2" width="95" height="88">
 <source media="(prefers-color-scheme: light)" srcset="./assets/projects/logos/spriteflow-logo-light.png?v=2" width="95" height="88">
@@ -288,7 +288,7 @@ and exporting ready-to-use animations and images.
 <td align="center" width="100%" valign="top">
 <br>
 <picture>
-<source media="(max-width: 600px)" srcset="./assets/projects/logos/svg-motion-gallery-icon-v1.png" width="60" height="46">
+<source media="(max-width: 600px)" srcset="./assets/projects/logos/svg-motion-gallery-icon-v1.png" width="46" height="36">
 <source srcset="./assets/projects/logos/svg-motion-gallery-icon-v1.png" width="82" height="63">
 <img src="./assets/projects/logos/svg-motion-gallery-icon-v1.png" alt="SVG Motion Gallery butterfly icon" style="max-width: 100%; height: auto;">
 </picture>
