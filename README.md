@@ -277,9 +277,9 @@ favorites, and an AI assistant for the Círio of Nazaré.
 <strong>SpriteFlow</strong>
 <br><br>
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/%F0%9F%9A%A7-Under%20Construction-2563EB?style=flat-square&amp;labelColor=1F2937">
-<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/%F0%9F%9A%A7-Under%20Construction-1D4ED8?style=flat-square&amp;labelColor=E5E7EB">
-<img height="22" src="https://img.shields.io/badge/%F0%9F%9A%A7-Under%20Construction-1D4ED8?style=flat-square&amp;labelColor=E5E7EB" alt="Under Construction">
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/%F0%9F%9A%A7-In%20Development-2563EB?style=flat-square&amp;labelColor=1F2937">
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/%F0%9F%9A%A7-In%20Development-1D4ED8?style=flat-square&amp;labelColor=E5E7EB">
+<img height="22" src="https://img.shields.io/badge/%F0%9F%9A%A7-In%20Development-1D4ED8?style=flat-square&amp;labelColor=E5E7EB" alt="Under Construction">
 </picture>
 <p>
 Flutter app for importing sprite sheets, editing frames,
@@ -309,6 +309,12 @@ and exporting ready-to-use animations and images.
 <img src="./assets/projects/logos/svg-motion-gallery-ellipsis.svg" width="82" alt="Animated three-dot loading icon">
 <br><br>
 <strong>SVG Motion Gallery</strong>
+<br><br>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/%F0%9F%9A%A7-In%20Development-2563EB?style=flat-square&amp;labelColor=1F2937">
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/%F0%9F%9A%A7-In%20Development-1D4ED8?style=flat-square&amp;labelColor=E5E7EB">
+<img height="22" src="https://img.shields.io/badge/%F0%9F%9A%A7-In%20Development-1D4ED8?style=flat-square&amp;labelColor=E5E7EB" alt="In Development">
+</picture>
 <p>Mobile app for browsing, previewing, and editing animated SVG files.</p>
 <img src="./assets/projects/svg-gallery-interface-v2.webp" width="100%" alt="Animated preview of five SVG Motion Gallery screens">
 <br><br>
