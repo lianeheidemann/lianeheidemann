@@ -289,7 +289,7 @@ and exporting ready-to-use animations and images.
 <br>
 <picture>
 <source media="(max-width: 600px)" srcset="./assets/projects/logos/svg-motion-gallery-icon-v1.png" width="46" height="36">
-<source srcset="./assets/projects/logos/svg-motion-gallery-icon-v1.png" width="82" height="63">
+<source srcset="./assets/projects/logos/svg-motion-gallery-icon-v1.png" width="114" height="88">
 <img src="./assets/projects/logos/svg-motion-gallery-icon-v1.png" alt="SVG Motion Gallery butterfly icon" style="max-width: 100%; height: auto;">
 </picture>
 <br><br>
