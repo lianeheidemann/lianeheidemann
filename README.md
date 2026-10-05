@@ -161,12 +161,12 @@ as I continue learning and growing in tech. 🦾
 <td align="center" width="50%" valign="top">
 <a href="https://github.com/lianeheidemann/bluetooth-robotic-car-claw"><img src="https://raw.githubusercontent.com/lianeheidemann/bluetooth-robotic-car-claw/main/assets/prototype/image2.png" width="100%" alt="Bluetooth robotic car with mechanical claw"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/bluetooth-robotic-car-claw">Bluetooth Robotic Car with Mechanical Claw</a></strong>
-<p>Arduino car controlled over Bluetooth, with a mobile joystick and a mechanical claw.<br><code>Arduino</code>&nbsp;<code>C++</code>&nbsp;<code>Bluetooth</code></p>
+<p>Arduino car controlled over Bluetooth, with a mobile joystick and a mechanical claw.<br><code>Arduino</code>&nbsp;<code>Bluetooth</code></p>
 </td>
 <td align="center" width="50%" valign="top">
 <a href="https://github.com/lianeheidemann/automated-greenhouse-prototype"><img src="https://raw.githubusercontent.com/lianeheidemann/automated-greenhouse-prototype/main/assets/prototype/video_melhor_qualidade-1.webp" width="100%" alt="Automated Greenhouse Prototype preview"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/automated-greenhouse-prototype">Automated Greenhouse Prototype</a></strong>
-<p>Arduino greenhouse monitor for temperature, air humidity, and soil moisture, with LCD and Bluetooth reporting.<br><code>Arduino</code>&nbsp;<code>C++</code>&nbsp;<code>Bluetooth</code></p>
+<p>Arduino greenhouse monitor for temperature, air humidity, and soil moisture, with LCD and Bluetooth reporting.<br><code>Arduino</code>&nbsp;<code>Bluetooth</code></p>
 </td>
 </tr>
 </table>
