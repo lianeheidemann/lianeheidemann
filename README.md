@@ -116,10 +116,10 @@ as I continue learning and growing in tech. 🦾
 <br>
 <a href="https://github.com/lianeheidemann/parallel-image-pipeline">
 <picture>
-<source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo-dark-v2.png" width="250">
-<source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo.png" width="250" >
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo-dark-v2.png" width="250">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo.png" width="250" >
+<source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo-dark-v2.png" width="300">
+<source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo.png" width="300" >
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo-dark-v2.png" width="300">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo.png" width="300" >
 <img src="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo.png" style="max-width: 100%; height: auto;" alt="Parallel Image Pipeline logo">
 </picture>
 </a><br><br>
@@ -141,7 +141,7 @@ as I continue learning and growing in tech. 🦾
 </tr>
 <tr>
 <td align="center" width="50%" style="width:50%;" valign="top">
-<a href="https://github.com/lianeheidemann/atividades-processamento-de-imagens"><img width="500" src="https://raw.githubusercontent.com/lianeheidemann/atividades-processamento-de-imagens/main/atividade/atividade-3/output/09_comparacao_antes_depois.png" alt="Image Processing Activities preview" style="display:block; width:100%; max-width:100%; height:auto;"></a><br><br>
+<a href="https://github.com/lianeheidemann/atividades-processamento-de-imagens"><img width="700" src="https://raw.githubusercontent.com/lianeheidemann/atividades-processamento-de-imagens/main/atividade/atividade-3/output/09_comparacao_antes_depois.png" alt="Image Processing Activities preview" style="display:block; width:100%; max-width:100%; height:auto;"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/atividades-processamento-de-imagens">Image Processing Activities</a></strong>
 <p>Coursework in quantization, histograms, gamma correction, enhancement, and segmentation.<br><code>Python</code> <code>OpenCV</code> <code>NumPy</code></p>
 </td>
