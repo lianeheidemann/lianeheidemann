@@ -256,7 +256,7 @@ favorites, and an AI assistant for the Círio of Nazaré.
 <br>
 <picture>
 <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/projects/logos/spriteflow-logo-dark.png?v=2" width="47" height="44">
-<source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/projects/logos/spriteflow-logo-light.png?v=2" width="71" height="66">
+<source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/projects/logos/spriteflow-logo-light.png?v=2" width="47" height="44">
 <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/logos/spriteflow-logo-dark.png?v=2" width="95" height="88">
 <source media="(prefers-color-scheme: light)" srcset="./assets/projects/logos/spriteflow-logo-light.png?v=2" width="95" height="88">
 <img src="./assets/projects/logos/spriteflow-logo-light.png?v=2" alt="SpriteFlow logo" style="max-width: 100%; height: auto;">
