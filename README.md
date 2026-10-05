@@ -311,7 +311,7 @@ and exporting ready-to-use animations and images.
 </tr>
 </table>
 
-<img src="./assets/image/location-divider.svg?v=1" alt="Animated cyan and violet divider" height="60">
+<img src="./assets/image/location-divider.svg?v=1" alt="Animated cyan and violet divider" height="50">
 
 <p align="center">
   <a href="https://github.com/lianeheidemann/lianeheidemann/blob/main/PROJECTS.md">
