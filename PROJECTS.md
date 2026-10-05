@@ -1,6 +1,6 @@
 <h1 align="center">PROJECTS</h1>
 <p align="center">A collection of software, research, and academic projects.</p>
-<p align="center"><sub>33 projects shown · projects with a logo, icon, or demo image appear first</sub></p>
+<p align="center"><sub>33 projects shown</sub></p>
 
 <h2>3D Projects</h2>
 <p>Projects focused on 3D modeling, visualization, simulation, animation, and mesh analysis.</p>
