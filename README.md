@@ -92,8 +92,7 @@ as I continue learning and growing in tech. 🦾
 <td align="center" width="50%" valign="top">
 <a href="https://github.com/lianeheidemann/object-inspector"><img src="https://raw.githubusercontent.com/lianeheidemann/object-inspector/main/assets/interface-object-inspector-v1.webp" width="100%" alt="Object Inspector interface preview"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/object-inspector">Object Inspector</a></strong>
-<p><br><img src="./assets/badge/early-project.svg?v=1" width="132" height="20" alt="Early Project"></p>
-<p>Static viewer for geometric deviation heatmaps on 3D surfaces.</p>
+<p><br><img src="./assets/badge/early-project.svg?v=1" width="132" height="20" alt="Early Project"><br>Static viewer for geometric deviation heatmaps on 3D surfaces.</p>
 </td>
 <td align="center" width="50%" valign="top">
 <a href="https://github.com/lianeheidemann/vehicle-3d-showroom"><img src="https://raw.githubusercontent.com/lianeheidemann/vehicle-3d-showroom/main/midia/interface/interface-desktop-v2.webp" width="100%" alt="Vehicle 3D Showroom interface preview"></a><br><br>
@@ -142,8 +141,7 @@ as I continue learning and growing in tech. 🦾
 </picture>
 </a><br><br>
 <strong><a href="https://github.com/lianeheidemann/parallel-image-pipeline">Parallel Image Pipeline</a></strong>
-<p><br><img src="./assets/badge/early-project.svg?v=1" width="132" height="20" alt="Early Project"></p>
-<p>Experimental image-processing pipeline comparing sequential and parallel execution in Python and the browser, with AWS benchmarks.</p>
+<p><br><img src="./assets/badge/early-project.svg?v=1" width="132" height="20" alt="Early Project"><br>Experimental image-processing pipeline comparing sequential and parallel execution in Python and the browser, with AWS benchmarks.</p>
 </td>
 </tr>
 </table>
