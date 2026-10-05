@@ -9,12 +9,12 @@
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/object-inspector"><img src="https://raw.githubusercontent.com/lianeheidemann/object-inspector/main/assets/interface-object-inspector-v1.webp" width="100%" alt="Object Inspector interface preview" style="height: auto; max-width: 100%;"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/object-inspector">Object Inspector</a></strong>
-<p><br><img src="assets/badge/early-project.svg?v=1" width="132" height="20" alt="Early Project" style="max-width: 100%; height: auto;"><br>Static web viewer that displays geometric deviation heatmaps on 3D surfaces.<br><code>A-Frame</code> <code>Three.js</code> <code>WebGL</code></p>
+<p><br><img src="assets/badge/early-project.svg?v=1" width="132" height="20" alt="Early Project" style="max-width: 100%; max-height: 20px; height: auto;"><br>Static web viewer that displays geometric deviation heatmaps on 3D surfaces.<br><code>A-Frame</code> <code>Three.js</code> <code>WebGL</code></p>
 </td>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;"><br>
 <a href="https://github.com/lianeheidemann/mesh-comparison"><img src="https://raw.githubusercontent.com/lianeheidemann/mesh-comparison/main/assets/mesh-comparison-logo.png" width="25%" alt="Mesh Comparison logo" style="height: auto; max-width: 100%;"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/mesh-comparison">Mesh Comparison</a></strong>
-<p><br><img src="assets/badge/early-project.svg?v=1" height="20" alt="Early Project" style="max-width: 100%; height: auto;"><br>Python workspace for geometric and perceptual comparison of reconstructed 3D meshes.<br><code>Python</code> <code>Open3D</code> <code>LPIPS</code></p>
+<p><br><img src="assets/badge/early-project.svg?v=1" height="20" alt="Early Project" style="max-width: 100%; max-height: 20px; height: auto;"><br>Python workspace for geometric and perceptual comparison of reconstructed 3D meshes.<br><code>Python</code> <code>Open3D</code> <code>LPIPS</code></p>
 </td>
 </tr>
 <tr>
@@ -49,7 +49,7 @@
 <tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <br>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/logos/spriteflow-logo-dark.png?v=2"><source media="(prefers-color-scheme: light)" srcset="assets/projects/logos/spriteflow-logo-light.png?v=2"><img src="assets/projects/logos/spriteflow-logo-light.png?v=2" height="88" alt="SpriteFlow logo" style="max-width: 100%; height: auto;"></picture><br><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/logos/spriteflow-logo-dark.png?v=2"><source media="(prefers-color-scheme: light)" srcset="assets/projects/logos/spriteflow-logo-light.png?v=2"><img src="assets/projects/logos/spriteflow-logo-light.png?v=2" height="88" alt="SpriteFlow logo" style="max-width: 100%; max-height: 88px; height: auto;"></picture><br><br>
 <strong>SpriteFlow</strong>
 <br><br>
 <picture>
@@ -64,7 +64,7 @@
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/projects/logos/svg-motion-gallery-icon-v1.png">
 <source media="(prefers-color-scheme: light)" srcset="assets/projects/logos/svg-motion-gallery-icon-v1.png">
-<img src="assets/projects/logos/svg-motion-gallery-icon-v1.png" height="88" alt="SVG Motion Gallery butterfly icon" style="max-width: 100%; height: auto;">
+<img src="assets/projects/logos/svg-motion-gallery-icon-v1.png" height="88" alt="SVG Motion Gallery butterfly icon" style="max-width: 100%; max-height: 88px; height: auto;">
 </picture><br><br>
 <strong>SVG Motion Gallery</strong>
 <br><br>
@@ -230,13 +230,13 @@
 <tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <br>
-<a href="https://github.com/lianeheidemann/parallel-image-pipeline"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo-dark.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo.png"><img src="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo.png" height="60" alt="Parallel Image Pipeline logo" style="max-width: 100%; height: auto;"></picture></a><br><br>
+<a href="https://github.com/lianeheidemann/parallel-image-pipeline"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo-dark.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo.png"><img src="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo.png" height="60" alt="Parallel Image Pipeline logo" style="max-width: 100%; max-height: 60px; height: auto;"></picture></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/parallel-image-pipeline">Parallel Image Pipeline</a></strong>
-<p><br><img src="assets/badge/early-project.svg?v=1" height="20" alt="Early Project" style="max-width: 100%; height: auto;"><br>Experimental image-processing pipeline comparing sequential and parallel execution and performance.<br><code>Python</code> <code>OpenCV</code> <code>AWS</code></p>
+<p><br><img src="assets/badge/early-project.svg?v=1" height="20" alt="Early Project" style="max-width: 100%; max-height: 20px; height: auto;"><br>Experimental image-processing pipeline comparing sequential and parallel execution and performance.<br><code>Python</code> <code>OpenCV</code> <code>AWS</code></p>
 </td>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <br>
-<a href="https://github.com/lianeheidemann/readme-components"><img src="https://raw.githubusercontent.com/lianeheidemann/readme-components/main/assets/readme-components-badge/readme-components-badge-4.svg" height="72" alt="README Components badge" style="max-width: 100%; height: auto;"></a><br><br>
+<a href="https://github.com/lianeheidemann/readme-components"><img src="https://raw.githubusercontent.com/lianeheidemann/readme-components/main/assets/readme-components-badge/readme-components-badge-4.svg" height="72" alt="README Components badge" style="max-width: 100%; max-height: 72px; height: auto;"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/readme-components">README Components</a></strong>
 <p>Reusable collection of badges, icons, images, and templates for GitHub READMEs.<br><code>Markdown</code> <code>SVG</code> <code>Shields.io</code></p>
 </td>
