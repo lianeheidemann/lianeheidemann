@@ -255,9 +255,11 @@ favorites, and an AI assistant for the Círio of Nazaré.
 <td align="center" width="50%" valign="top">
 <br>
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="./assets/projects/logos/spriteflow-logo-dark.png?v=2">
-<source media="(prefers-color-scheme: light)" srcset="./assets/projects/logos/spriteflow-logo-light.png?v=2">
-<img src="./assets/projects/logos/spriteflow-logo-light.png?v=2" height="88" alt="SpriteFlow logo">
+<source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/projects/logos/spriteflow-logo-dark.png?v=2" width="71" height="66">
+<source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/projects/logos/spriteflow-logo-light.png?v=2" width="71" height="66">
+<source media="(prefers-color-scheme: dark)" srcset="./assets/projects/logos/spriteflow-logo-dark.png?v=2" width="95" height="88">
+<source media="(prefers-color-scheme: light)" srcset="./assets/projects/logos/spriteflow-logo-light.png?v=2" width="95" height="88">
+<img src="./assets/projects/logos/spriteflow-logo-light.png?v=2" alt="SpriteFlow logo" style="max-width: 100%; height: auto;">
 </picture>
 <br><br>
 <strong>SpriteFlow</strong>
@@ -285,7 +287,11 @@ and exporting ready-to-use animations and images.
 <tr>
 <td align="center" width="100%" valign="top">
 <br>
-<img src="./assets/projects/logos/svg-motion-gallery-icon-v1.png" width="82" alt="SVG Motion Gallery butterfly icon">
+<picture>
+<source media="(max-width: 600px)" srcset="./assets/projects/logos/svg-motion-gallery-icon-v1.png" width="60" height="46">
+<source srcset="./assets/projects/logos/svg-motion-gallery-icon-v1.png" width="82" height="63">
+<img src="./assets/projects/logos/svg-motion-gallery-icon-v1.png" alt="SVG Motion Gallery butterfly icon" style="max-width: 100%; height: auto;">
+</picture>
 <br><br>
 <img src="./assets/projects/logos/svg-motion-gallery-ellipsis.svg" width="82" alt="Animated three-dot loading icon">
 <br><br>
