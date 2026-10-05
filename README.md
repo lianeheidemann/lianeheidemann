@@ -327,9 +327,9 @@ and exporting ready-to-use animations and images.
 <p align="center">
   <a href="https://github.com/lianeheidemann/lianeheidemann/blob/main/PROJECTS.md">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/project-list-cta-dark-v1.webp?v=1">
-      <source media="(prefers-color-scheme: light)" srcset="./assets/projects/project-list-cta-light-v1.webp?v=1">
-      <img src="./assets/projects/project-list-cta-light-v1.webp?v=1" width="100%" alt="Explore all my projects — view the complete project list">
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/project-list-cta-dark-v2.webp?v=2">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/projects/project-list-cta-light-v2.webp?v=2">
+      <img src="./assets/projects/project-list-cta-light-v2.webp?v=2" width="70%" alt="Explore all my projects — view the complete project list">
     </picture>
   </a>
 </p>
