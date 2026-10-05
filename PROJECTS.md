@@ -1,6 +1,6 @@
 <h1 align="center">PROJECTS</h1>
 <p align="center">A collection of software, research, and academic projects.</p>
-<p align="center"><sub>31 projects shown · projects with a logo, icon, or demo image appear first</sub></p>
+<p align="center"><sub>32 projects shown · projects with a logo, icon, or demo image appear first</sub></p>
 
 <h2>3D Projects</h2>
 <p>Projects focused on 3D modeling, visualization, simulation, animation, and mesh analysis.</p>
@@ -37,8 +37,8 @@
 </td>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/mesh-comparison"><img src="https://raw.githubusercontent.com/lianeheidemann/mesh-comparison/main/assets/mesh-comparison-logo.png" width="40%" alt="Mesh Comparison logo"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/mesh-comparison">Mesh Comparison</a></strong><br><img src="https://img.shields.io/badge/%E2%8F%B3-Early%20Stage-3B82F6?style=flat-square" alt="Mesh project in early stage">
-<p>Python workspace for geometric and perceptual comparison of reconstructed 3D meshes.</p>
+<strong><a href="https://github.com/lianeheidemann/mesh-comparison">Mesh Comparison</a></strong>
+<p><br><img src="assets/badge/early-project.svg?v=1" width="132" height="20" alt="Early Project"><br>Python workspace for geometric and perceptual comparison of reconstructed 3D meshes.</p>
 </td>
 </tr>
 </table>
@@ -53,30 +53,35 @@
 <p>Android app for creating GIF, animated WebP, SVG, and PNG content for GitHub READMEs.</p>
 </td>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/logos/spriteflow-logo-dark.png?v=2"><source media="(prefers-color-scheme: light)" srcset="assets/projects/logos/spriteflow-logo-light.png?v=2"><img src="assets/projects/logos/spriteflow-logo-light.png?v=2" height="88" alt="SpriteFlow logo"></picture><br><br>
+<strong><a href="https://github.com/lianeheidemann/sprite-flow-app">SpriteFlow</a></strong>
+<p>Flutter app for importing sprite sheets, editing frames, and exporting ready-to-use animations and images.</p>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/cirioapp-v2"><img src="https://raw.githubusercontent.com/lianeheidemann/cirioapp-v2/main/assets/images/interface_v4.png" width="100%" alt="CírioApp interface preview"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/cirioapp-v2">CírioApp</a></strong>
 <p>Android app for Círio de Nazaré schedules, maps, news, notifications, favorites, and an AI assistant.</p>
 </td>
-</tr>
-<tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/firebase-remote-config-app"><img src="https://raw.githubusercontent.com/lianeheidemann/firebase-remote-config-app/main/assets/gifs/gif1_cor_FirebaseRemoteConfig.gif" width="80%" alt="Firebase Remote Config app interface"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/firebase-remote-config-app">Firebase Remote Config App</a></strong>
 <p>Flutter example of using Firebase Remote Config to change app UI without a new release.</p>
 </td>
+</tr>
+<tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/edge-detection-app"><img src="https://raw.githubusercontent.com/lianeheidemann/edge-detection-app/main/assets/edge-detection-interface-v1.png" width="100%" alt="Edge Detection interface preview"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/edge-detection-app">Edge Detection</a></strong>
 <p>Android image-processing app for detecting image edges.</p>
 </td>
-</tr>
-<tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/squat-counter-app"><img src="https://raw.githubusercontent.com/lianeheidemann/squat-counter-app/main/assets/squat-counter-interface-2.webp" width="60%" alt="Squat Counter interface preview"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/squat-counter-app">Squat Counter App</a></strong>
 <p>Flutter app that counts squats and tracks sets using the phone accelerometer.</p>
 </td>
-<td width="50%"></td>
 </tr>
 </table>
 
@@ -158,8 +163,8 @@
 </tr>
 <tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/minilang-interpreter"><img src="https://raw.githubusercontent.com/lianeheidemann/minilang-interpreter/main/assets/image2_MiniLang.png" width="100%" alt="MinyLang Interpreter preview"></a><br><br>
-<strong><a href="https://github.com/lianeheidemann/minilang-interpreter">MinyLang Interpreter</a></strong>
+<a href="https://github.com/lianeheidemann/minilang-interpreter"><img src="https://raw.githubusercontent.com/lianeheidemann/minilang-interpreter/main/assets/image2_MiniLang.png" width="100%" alt="MiniLang Interpreter preview"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/minilang-interpreter">MiniLang Interpreter</a></strong>
 <p>Python interpreter for a small language with variables, expressions, and conditionals.</p>
 </td>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
