@@ -97,12 +97,12 @@ as I continue learning and growing in tech. 🦾
 <td align="center" width="50%" valign="top">
 <a href="https://github.com/lianeheidemann/object-inspector"><img src="https://raw.githubusercontent.com/lianeheidemann/object-inspector/main/assets/interface-object-inspector-v1.webp" width="100%" alt="Object Inspector interface preview"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/object-inspector">Object Inspector</a></strong>
-<p><br><img src="./assets/badge/early-project.svg?v=1" width="132" height="20" alt="Early Project"><br>Static viewer for geometric deviation heatmaps on 3D surfaces.</p>
+<p><br><img src="./assets/badge/early-project.svg?v=1" width="132" height="20" alt="Early Project"><br>Static viewer for geometric deviation heatmaps on 3D surfaces.<br><img src="https://img.shields.io/badge/A--Frame-495463?style=flat-square" height="18" alt="A-Frame">&nbsp;<img src="https://img.shields.io/badge/Three.js-495463?style=flat-square" height="18" alt="Three.js">&nbsp;<img src="https://img.shields.io/badge/WebGL-495463?style=flat-square" height="18" alt="WebGL"></p>
 </td>
 <td align="center" width="50%" valign="top">
 <a href="https://github.com/lianeheidemann/vehicle-3d-showroom"><img src="https://raw.githubusercontent.com/lianeheidemann/vehicle-3d-showroom/main/midia/interface/interface-desktop-v2.webp" width="100%" alt="Vehicle 3D Showroom interface preview"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/vehicle-3d-showroom">Vehicle 3D Showroom</a></strong>
-<p>Browser-based 3D vehicle showroom with interactive models and gamepad support.</p>
+<p>Browser-based 3D vehicle showroom with interactive models and gamepad support.<br><img src="https://img.shields.io/badge/A--Frame-495463?style=flat-square" height="18" alt="A-Frame">&nbsp;<img src="https://img.shields.io/badge/Three.js-495463?style=flat-square" height="18" alt="Three.js">&nbsp;<img src="https://img.shields.io/badge/JavaScript-495463?style=flat-square" height="18" alt="JavaScript"></p>
 </td>
 </tr>
 <tr>
@@ -110,7 +110,7 @@ as I continue learning and growing in tech. 🦾
 <br>
 <a href="https://github.com/lianeheidemann/mesh-comparison"><img src="https://raw.githubusercontent.com/lianeheidemann/lianeheidemann/main/assets/projects/logos/mesh-comparison-logo-v2.png?v=2" height="54" alt="Mesh Comparison logo"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/mesh-comparison">Mesh Comparison</a></strong>
-<p><br><img src="./assets/badge/early-project.svg?v=1" width="132" height="20" alt="Early Project"><br>Python workspace for geometric and perceptual comparison of reconstructed 3D meshes.</p>
+<p><br><img src="./assets/badge/early-project.svg?v=1" width="132" height="20" alt="Early Project"><br>Python workspace for geometric and perceptual comparison of reconstructed 3D meshes.<br><img src="https://img.shields.io/badge/Python-495463?style=flat-square" height="18" alt="Python">&nbsp;<img src="https://img.shields.io/badge/Open3D-495463?style=flat-square" height="18" alt="Open3D">&nbsp;<img src="https://img.shields.io/badge/LPIPS-495463?style=flat-square" height="18" alt="LPIPS"></p>
 </td>
 <td align="center" width="50%" valign="top">
 <br>
@@ -122,31 +122,31 @@ as I continue learning and growing in tech. 🦾
 </picture>
 </a><br><br>
 <strong><a href="https://github.com/lianeheidemann/parallel-image-pipeline">Parallel Image Pipeline</a></strong>
-<p><br><img src="./assets/badge/early-project.svg?v=1" width="132" height="20" alt="Early Project"><br>Experimental image-processing pipeline comparing sequential and parallel execution in Python and the browser, with AWS benchmarks.</p>
+<p><br><img src="./assets/badge/early-project.svg?v=1" width="132" height="20" alt="Early Project"><br>Experimental image-processing pipeline comparing sequential and parallel execution in Python and the browser, with AWS benchmarks.<br><img src="https://img.shields.io/badge/Python-495463?style=flat-square" height="18" alt="Python">&nbsp;<img src="https://img.shields.io/badge/OpenCV-495463?style=flat-square" height="18" alt="OpenCV">&nbsp;<img src="https://img.shields.io/badge/AWS-495463?style=flat-square" height="18" alt="AWS"></p>
 </td>
 </tr>
 <tr>
 <td align="center" width="50%" valign="top">
 <a href="https://github.com/lianeheidemann/mini-driving-simulator-3d"><img src="https://raw.githubusercontent.com/lianeheidemann/mini-driving-simulator-3d/main/media/interface/interface-v3.webp" width="100%" alt="Mini Driving Simulator 3D interface preview"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/mini-driving-simulator-3d">Mini Driving Simulator 3D</a></strong>
-<p>Browser-based driving simulator with keyboard and Xbox-compatible gamepad controls.</p>
+<p>Browser-based driving simulator with keyboard and Xbox-compatible gamepad controls.<br><img src="https://img.shields.io/badge/A--Frame-495463?style=flat-square" height="18" alt="A-Frame">&nbsp;<img src="https://img.shields.io/badge/Three.js-495463?style=flat-square" height="18" alt="Three.js">&nbsp;<img src="https://img.shields.io/badge/Gamepad%20API-495463?style=flat-square" height="18" alt="Gamepad API"></p>
 </td>
 <td align="center" width="50%" valign="top">
 <a href="https://github.com/lianeheidemann/porcelain-inspection-unity"><img src="https://raw.githubusercontent.com/lianeheidemann/porcelain-inspection-unity/main/media/interface-1.gif" width="100%" alt="Porcelain Inspection interface preview"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/porcelain-inspection-unity">Porcelain Inspection</a></strong>
-<p>Unity 3D prototype for rotating, zooming, and inspecting points on a porcelain piece.</p>
+<p>Unity 3D prototype for rotating, zooming, and inspecting points on a porcelain piece.<br><img src="https://img.shields.io/badge/Unity%206-495463?style=flat-square" height="18" alt="Unity 6">&nbsp;<img src="https://img.shields.io/badge/C%23-495463?style=flat-square" height="18" alt="C#"></p>
 </td>
 </tr>
 <tr>
 <td align="center" width="50%" valign="top">
 <a href="https://github.com/lianeheidemann/atividades-processamento-de-imagens"><img src="https://raw.githubusercontent.com/lianeheidemann/atividades-processamento-de-imagens/main/atividade/atividade-3/output/09_comparacao_antes_depois.png" width="100%" alt="Image Processing Activities preview"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/atividades-processamento-de-imagens">Image Processing Activities</a></strong>
-<p>Coursework in quantization, histograms, gamma correction, enhancement, and segmentation.</p>
+<p>Coursework in quantization, histograms, gamma correction, enhancement, and segmentation.<br><img src="https://img.shields.io/badge/Python-495463?style=flat-square" height="18" alt="Python">&nbsp;<img src="https://img.shields.io/badge/OpenCV-495463?style=flat-square" height="18" alt="OpenCV">&nbsp;<img src="https://img.shields.io/badge/NumPy-495463?style=flat-square" height="18" alt="NumPy"></p>
 </td>
 <td align="center" width="50%" valign="top">
 <a href="https://github.com/lianeheidemann/3d-animations"><img src="https://raw.githubusercontent.com/lianeheidemann/3d-animations/main/bone-animation/animation-2.gif" width="100%" alt="3D Animations preview"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/3d-animations">3D Animations</a></strong>
-<p>Blender collection of character and prop animations, with source and export files.</p>
+<p>Blender collection of character and prop animations, with source and export files.<br><img src="https://img.shields.io/badge/Blender-495463?style=flat-square" height="18" alt="Blender">&nbsp;<img src="https://img.shields.io/badge/glTF%2FGLB-495463?style=flat-square" height="18" alt="glTF/GLB"></p>
 </td>
 </tr>
 </table>
@@ -161,12 +161,12 @@ as I continue learning and growing in tech. 🦾
 <td align="center" width="50%" valign="top">
 <a href="https://github.com/lianeheidemann/bluetooth-robotic-car-claw"><img src="https://raw.githubusercontent.com/lianeheidemann/bluetooth-robotic-car-claw/main/assets/prototype/image2.png" width="100%" alt="Bluetooth robotic car with mechanical claw"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/bluetooth-robotic-car-claw">Bluetooth Robotic Car with Mechanical Claw</a></strong>
-<p>Arduino car controlled over Bluetooth, with a mobile joystick and a mechanical claw.</p>
+<p>Arduino car controlled over Bluetooth, with a mobile joystick and a mechanical claw.<br><img src="https://img.shields.io/badge/Arduino-495463?style=flat-square" height="18" alt="Arduino">&nbsp;<img src="https://img.shields.io/badge/C%2B%2B-495463?style=flat-square" height="18" alt="C++">&nbsp;<img src="https://img.shields.io/badge/Bluetooth-495463?style=flat-square" height="18" alt="Bluetooth"></p>
 </td>
 <td align="center" width="50%" valign="top">
 <a href="https://github.com/lianeheidemann/automated-greenhouse-prototype"><img src="https://raw.githubusercontent.com/lianeheidemann/automated-greenhouse-prototype/main/assets/prototype/video_melhor_qualidade-1.webp" width="100%" alt="Automated Greenhouse Prototype preview"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/automated-greenhouse-prototype">Automated Greenhouse Prototype</a></strong>
-<p>Arduino greenhouse monitor for temperature, air humidity, and soil moisture, with LCD and Bluetooth reporting.</p>
+<p>Arduino greenhouse monitor for temperature, air humidity, and soil moisture, with LCD and Bluetooth reporting.<br><img src="https://img.shields.io/badge/Arduino-495463?style=flat-square" height="18" alt="Arduino">&nbsp;<img src="https://img.shields.io/badge/C%2B%2B-495463?style=flat-square" height="18" alt="C++">&nbsp;<img src="https://img.shields.io/badge/Bluetooth-495463?style=flat-square" height="18" alt="Bluetooth"></p>
 </td>
 </tr>
 </table>
@@ -199,13 +199,7 @@ as I continue learning and growing in tech. 🦾
 Responsive web workspace with six specialized AI workflows,
 contextual conversations, and local history.
 </p>
-<p>
-<code>Python</code>
-<code>Flask</code>
-<code>JavaScript</code>
-<code>Gemini</code>
-<code>IA</code>
-</p>
+<p><img src="https://img.shields.io/badge/Python-495463?style=flat-square" height="18" alt="Python">&nbsp;<img src="https://img.shields.io/badge/Flask-495463?style=flat-square" height="18" alt="Flask">&nbsp;<img src="https://img.shields.io/badge/Gemini-495463?style=flat-square" height="18" alt="Gemini"></p>
 <br><br>
 </td>
 
@@ -229,13 +223,7 @@ Android app for creating GitHub README content — GIF,
 animated WebP, SVG and PNG, with transparency,
 animation and high resolution.
 </p>
-<p>
-<code>Flutter</code>
-<code>Dart</code>
-<code>FFmpeg</code>
-<code>Android</code>
-<code>Mobile</code>
-</p>
+<p><img src="https://img.shields.io/badge/Flutter-495463?style=flat-square" height="18" alt="Flutter">&nbsp;<img src="https://img.shields.io/badge/Dart-495463?style=flat-square" height="18" alt="Dart">&nbsp;<img src="https://img.shields.io/badge/FFmpeg-495463?style=flat-square" height="18" alt="FFmpeg"></p>
 <br><br>
 </td>
 </tr>
@@ -260,14 +248,7 @@ animation and high resolution.
 Android app with schedules, maps, news, notifications,
 favorites, and an AI assistant for the Círio of Nazaré.
 </p>
-<p>
-<code>Flutter</code>
-<code>Dart</code>
-<code>Firebase</code>
-<code>Gemini</code>
-<code>Mobile</code>
-<code>IA</code>
-</p>
+<p><img src="https://img.shields.io/badge/Flutter-495463?style=flat-square" height="18" alt="Flutter">&nbsp;<img src="https://img.shields.io/badge/Firebase-495463?style=flat-square" height="18" alt="Firebase">&nbsp;<img src="https://img.shields.io/badge/Gemini-495463?style=flat-square" height="18" alt="Gemini"></p>
 <br><br>
 </td>
 
@@ -290,12 +271,7 @@ favorites, and an AI assistant for the Círio of Nazaré.
 Flutter app for importing sprite sheets, editing frames,
 and exporting ready-to-use animations and images.
 </p>
-<p>
-<code>Flutter</code>
-<code>Dart</code>
-<code>Android</code>
-<code>Mobile</code>
-</p>
+<p><img src="https://img.shields.io/badge/Flutter-495463?style=flat-square" height="18" alt="Flutter">&nbsp;<img src="https://img.shields.io/badge/Dart-495463?style=flat-square" height="18" alt="Dart">&nbsp;<img src="https://img.shields.io/badge/Riverpod-495463?style=flat-square" height="18" alt="Riverpod"></p>
 <br><br>
 </td>
 </tr>
@@ -320,7 +296,7 @@ and exporting ready-to-use animations and images.
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/%F0%9F%9A%A7-In%20Development-1D4ED8?style=flat-square&amp;labelColor=E5E7EB">
 <img height="22" src="https://img.shields.io/badge/%F0%9F%9A%A7-In%20Development-1D4ED8?style=flat-square&amp;labelColor=E5E7EB" alt="In Development">
 </picture>
-<p>Mobile app for browsing, previewing, and editing animated SVG files.</p>
+<p>Mobile app for browsing, previewing, and editing animated SVG files.<br><img src="https://img.shields.io/badge/Flutter-495463?style=flat-square" height="18" alt="Flutter">&nbsp;<img src="https://img.shields.io/badge/Dart-495463?style=flat-square" height="18" alt="Dart">&nbsp;<img src="https://img.shields.io/badge/SVG-495463?style=flat-square" height="18" alt="SVG"></p>
 <img src="./assets/projects/svg-gallery-interface-v2.webp" width="100%" alt="Animated preview of five SVG Motion Gallery screens">
 <br><br>
 </td>
