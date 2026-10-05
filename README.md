@@ -325,6 +325,16 @@ and exporting ready-to-use animations and images.
 <img src="./assets/image/location-divider.svg?v=1" alt="Animated cyan and violet divider" width="1000" height="100">
 
 <p align="center">
+  <a href="https://github.com/lianeheidemann/lianeheidemann/blob/main/PROJECTS.md">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/project-list-cta-dark-v1.webp?v=1">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/projects/project-list-cta-light-v1.webp?v=1">
+      <img src="./assets/projects/project-list-cta-light-v1.webp?v=1" width="100%" alt="Explore all my projects — view the complete project list">
+    </picture>
+  </a>
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/image/github-stats.svg?v=33-12-16-3013-2026">
     <source media="(prefers-color-scheme: light)" srcset="./assets/image/github-stats-light.svg?v=33-12-16-3013-2026">
