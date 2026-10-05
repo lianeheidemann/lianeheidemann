@@ -2,7 +2,6 @@
 <p align="center">A collection of software, research, and academic projects.</p>
 <p align="center"><sub>33 projects shown</sub></p>
 
-<br>
 <h2>3D Projects</h2>
 <p>Projects focused on 3D modeling, visualization, simulation, animation, and mesh analysis.</p>
 <table width="100%" cellpadding="10" cellspacing="8" border="0">
