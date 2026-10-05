@@ -65,9 +65,21 @@ as I continue learning and growing in tech. 🦾
 </p>
 
 <p>
-  <img src="./assets/badge/threejs-v2.svg" alt="Three.js" height="30">
-  <img src="./assets/badge/aframe-v2.svg" alt="A-Frame" height="30">
-  <img src="./assets/badge/blender-v2.svg" alt="Blender" height="30">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/badge/threejs-dark-20261005.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/badge/threejs-light-20261005.svg">
+    <img src="./assets/badge/threejs-light-20261005.svg" alt="Three.js" height="30">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/badge/aframe-dark-20261005.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/badge/aframe-light-20261005.svg">
+    <img src="./assets/badge/aframe-light-20261005.svg" alt="A-Frame" height="30">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/badge/blender-dark-20261005.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/badge/blender-light-20261005.svg">
+    <img src="./assets/badge/blender-light-20261005.svg" alt="Blender" height="30">
+  </picture>
   <img src="./assets/badge/opengl.svg?v=4" alt="OpenGL" height="30">
   <img src="./assets/badge/unity.svg?v=1" alt="Unity" height="30">
 </p>
