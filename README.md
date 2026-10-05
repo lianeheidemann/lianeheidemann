@@ -110,7 +110,7 @@ as I continue learning and growing in tech. 🦾
 <br>
 <a href="https://github.com/lianeheidemann/mesh-comparison-v2"><img src="https://raw.githubusercontent.com/lianeheidemann/lianeheidemann/main/assets/projects/logos/mesh-comparison-logo-v2.png?v=2" height="54" alt="Mesh Comparison logo"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/mesh-comparison">Mesh Comparison</a></strong>
-<p><br><img src="./assets/badge/early-project.svg?v=1" width="132" height="20" alt="Early Project"><br>Python workspace for geometric and perceptual comparison of reconstructed 3D meshes.<br><code>Python</code>&nbsp;<code>Open3D</code>&nbsp;<code>LPIPS</code></p>
+<p><br><img src="./assets/badge/early-project.svg?v=1" height="20" alt="Early Project"><br>Python workspace for geometric and perceptual comparison of reconstructed 3D meshes.<br><code>Python</code>&nbsp;<code>Open3D</code>&nbsp;<code>LPIPS</code></p>
 </td>
 <td align="center" width="50%" valign="top">
 <br>
