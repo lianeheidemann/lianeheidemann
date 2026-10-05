@@ -108,7 +108,7 @@ as I continue learning and growing in tech. 🦾
 <tr>
 <td align="center" width="50%" valign="top">
 <br>
-<a href="https://github.com/lianeheidemann/mesh-comparison-v2"><img src="https://raw.githubusercontent.com/lianeheidemann/lianeheidemann/main/assets/projects/logos/mesh-comparison-logo-v2.png?v=2" height="54" alt="Mesh Comparison logo"></a><br><br>
+<a href="https://github.com/lianeheidemann/mesh-comparison-v2"><img src="https://raw.githubusercontent.com/lianeheidemann/lianeheidemann/main/assets/projects/logos/mesh-comparison-logo-v2.png?v=2" height="62" alt="Mesh Comparison logo"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/mesh-comparison">Mesh Comparison</a></strong>
 <p><br><img src="./assets/badge/early-project.svg?v=1" height="20" alt="Early Project"><br>Python workspace for geometric and perceptual comparison of reconstructed 3D meshes.<br><code>Python</code>&nbsp;<code>Open3D</code>&nbsp;<code>LPIPS</code></p>
 </td>
@@ -118,7 +118,7 @@ as I continue learning and growing in tech. 🦾
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo-dark-v2.png">
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo.png">
-<img src="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo.png" height="54" style="object-fit:contain; object-position:center" alt="Parallel Image Pipeline logo">
+<img src="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo.png" height="62" style="object-fit:contain; object-position:center" alt="Parallel Image Pipeline logo">
 </picture>
 </a><br><br>
 <strong><a href="https://github.com/lianeheidemann/parallel-image-pipeline">Parallel Image Pipeline</a></strong>
