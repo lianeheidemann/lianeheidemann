@@ -243,7 +243,7 @@
 </tr>
 <tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/python-cloud-database"><img src="https://raw.githubusercontent.com/lianeheidemann/python-cloud-database/main/assets/python-cloud-database-logo-v2.png" width="22%" alt="Python Cloud Database logo"></a><br><br>
+<a href="https://github.com/lianeheidemann/python-cloud-database"><img src="https://raw.githubusercontent.com/lianeheidemann/python-cloud-database/main/assets/python-cloud-database-logo-v2.png" width="26%" alt="Python Cloud Database logo"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/python-cloud-database">Python Cloud Database</a></strong>
 <p>Python app that simulates bacterial population growth and stores results in a managed MySQL database.<br><code>Python</code>&nbsp;<code>MySQL</code>&nbsp;<code>Aiven</code></p>
 </td>
