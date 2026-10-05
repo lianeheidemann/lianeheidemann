@@ -15,11 +15,12 @@
   <img src="./assets/image/location-divider.svg?v=1" alt="Animated cyan and violet divider" width="1000" height="100">
 </p>
 
-I'm Liane, a Computer Science student from Belém do Pará, Brazil,
-with a passion for software development, AI, and computer graphics.
+I'm Liane,<br>
+a Computer Science student from Belém do Pará, Brazil,<br>
+with a passion for software development, AI, and computer graphics.<br>
 I enjoy building useful projects and exploring new ideas. 💙
 
-Here you'll find my apps, experiments, and automation projects
+Here you'll find my apps, experiments, and automation projects,<br>
 as I continue learning and growing in tech. 🦾
 
 <img src="./assets/image/location-divider-rotated-180.svg?v=1" alt="Animated cyan and violet divider" width="1000" height="100">
