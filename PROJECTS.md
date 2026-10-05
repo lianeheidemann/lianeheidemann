@@ -50,8 +50,8 @@
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <br>
 <picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/projects/logos/spriteflow-logo-dark.png?v=2" width="47" height="44"><source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="assets/projects/logos/spriteflow-logo-light.png?v=2" width="47" height="44"><source media="(prefers-color-scheme: dark)" srcset="assets/projects/logos/spriteflow-logo-dark.png?v=2" width="95" height="88"><source media="(prefers-color-scheme: light)" srcset="assets/projects/logos/spriteflow-logo-light.png?v=2" width="95" height="88"><img src="assets/projects/logos/spriteflow-logo-light.png?v=2" alt="SpriteFlow logo" style="max-width: 100%; height: auto;"></picture><br><br>
-<strong>SpriteFlow</strong><br>
-<img width="150" height="150" src="assets/projects/blocks-shuffle-5.svg" />
+<strong>SpriteFlow</strong><br><br>
+<img width="100" height="100" src="assets/projects/svg/blocks-wave-white-36.svg" /><br>
 <br>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/%F0%9F%9A%A7-In%20Development-2563EB?style=flat-square&amp;labelColor=1F2937">
