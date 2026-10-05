@@ -108,7 +108,7 @@ as I continue learning and growing in tech. 🦾
 <tr>
 <td align="center" width="50%" style="width:50%;" valign="top">
 <br>
-<a href="https://github.com/lianeheidemann/mesh-comparison-v2"><img src="https://raw.githubusercontent.com/lianeheidemann/lianeheidemann/main/assets/projects/logos/mesh-comparison-logo-v2.png?v=2" height="62" alt="Mesh Comparison logo"></a><br><br>
+<a href="https://github.com/lianeheidemann/mesh-comparison-v2"><img src="https://raw.githubusercontent.com/lianeheidemann/lianeheidemann/main/assets/projects/logos/mesh-comparison-logo-v2.png?v=2" width="120" alt="Mesh Comparison logo"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/mesh-comparison">Mesh Comparison</a></strong>
 <p><br><img src="./assets/badge/early-project.svg?v=1" height="20" alt="Early Project"><br>Python workspace for geometric and perceptual comparison of reconstructed 3D meshes.<br><code>Python</code> <code>Open3D</code> <code>LPIPS</code></p>
 </td>
@@ -116,10 +116,10 @@ as I continue learning and growing in tech. 🦾
 <br>
 <a href="https://github.com/lianeheidemann/parallel-image-pipeline">
 <picture>
-<source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo-dark-v2.png" width="300">
-<source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo.png" width="300" >
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo-dark-v2.png" width="300">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo.png" width="300" >
+<source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo-dark-v2.png" width="500">
+<source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo.png" width="500" >
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo-dark-v2.png" width="500">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo.png" width="500" >
 <img src="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo.png" style="max-width: 100%; height: auto;" alt="Parallel Image Pipeline logo">
 </picture>
 </a><br><br>
