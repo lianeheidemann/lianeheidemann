@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-labelledby="title desc">
   <title id="title">Explore all my projects</title>
-  <desc id="desc">A light-theme project-list link banner with left and right navigation arrows.</desc>
+  <desc id="desc">A light-theme project-list banner with centered text.</desc>
   <defs>
     <linearGradient id="panel" x1="0" y1="0" x2="1200" y2="150" gradientUnits="userSpaceOnUse"><stop stop-color="#F8FBFF"/><stop offset=".5" stop-color="#EEF4FF"/><stop offset="1" stop-color="#E8F0FC"/></linearGradient>
     <linearGradient id="edge" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#22D3EE"/><stop offset=".4" stop-color="#38BDF8"/><stop offset=".7" stop-color="#8B5CF6"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
