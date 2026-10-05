@@ -1,6 +1,6 @@
 <h1 align="center">PROJECTS</h1>
 <p align="center">A collection of software, research, and academic projects.</p>
-<p align="center"><sub>32 projects shown · projects with a logo, icon, or demo image appear first</sub></p>
+<p align="center"><sub>33 projects shown · projects with a logo, icon, or demo image appear first</sub></p>
 
 <h2>3D Projects</h2>
 <p>Projects focused on 3D modeling, visualization, simulation, animation, and mesh analysis.</p>
@@ -50,38 +50,62 @@
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <br>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/logos/spriteflow-logo-dark.png?v=2"><source media="(prefers-color-scheme: light)" srcset="assets/projects/logos/spriteflow-logo-light.png?v=2"><img src="assets/projects/logos/spriteflow-logo-light.png?v=2" height="88" alt="SpriteFlow logo"></picture><br><br>
-<strong><a href="https://github.com/lianeheidemann/sprite-flow-app">SpriteFlow</a></strong>
+<strong>SpriteFlow</strong>
+<br><br>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/%F0%9F%9A%A7-Under%20Construction-2563EB?style=flat-square&amp;labelColor=1F2937">
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/%F0%9F%9A%A7-Under%20Construction-1D4ED8?style=flat-square&amp;labelColor=E5E7EB">
+<img height="22" src="https://img.shields.io/badge/%F0%9F%9A%A7-Under%20Construction-1D4ED8?style=flat-square&amp;labelColor=E5E7EB" alt="Under Construction">
+</picture>
 <p>Flutter app for importing sprite sheets, editing frames, and exporting ready-to-use animations and images.</p>
 </td>
+<td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/projects/logos/svg-motion-gallery-icon-v1.png">
+<source media="(prefers-color-scheme: light)" srcset="assets/projects/logos/svg-motion-gallery-icon-v1.png">
+<img src="assets/projects/logos/svg-motion-gallery-icon-v1.png" height="88" alt="SVG Motion Gallery butterfly icon">
+</picture><br><br>
+<strong>SVG Motion Gallery</strong>
+<br><br>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/%F0%9F%9A%A7-Under%20Construction-2563EB?style=flat-square&amp;labelColor=1F2937">
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/%F0%9F%9A%A7-Under%20Construction-1D4ED8?style=flat-square&amp;labelColor=E5E7EB">
+<img height="22" src="https://img.shields.io/badge/%F0%9F%9A%A7-Under%20Construction-1D4ED8?style=flat-square&amp;labelColor=E5E7EB" alt="Under Construction">
+</picture>
+<p>Mobile app for browsing, previewing, and editing animated SVG files.</p>
+</td>
+</tr>
+<tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/gitbat-app"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lianeheidemann/gitbat-app/main/assets/readme/gitbat-interface-escuro-v3.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lianeheidemann/gitbat-app/main/assets/interface-v2/gitbat-interface-claro-v3.webp"><img src="https://raw.githubusercontent.com/lianeheidemann/gitbat-app/main/assets/readme/gitbat-interface-escuro-v3.png" width="100%" alt="GitBat interface preview"></picture></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/gitbat-app">GitBat</a></strong>
 <p>Android app for creating GIF, animated WebP, SVG, and PNG content for GitHub READMEs.</p>
 </td>
-</tr>
-<tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/cirioapp-v2"><img src="https://raw.githubusercontent.com/lianeheidemann/cirioapp-v2/main/assets/images/interface_v4.png" width="100%" alt="CírioApp interface preview"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/cirioapp-v2">CírioApp</a></strong>
 <p>Android app for Círio de Nazaré schedules, maps, news, notifications, favorites, and an AI assistant.</p>
 </td>
+</tr>
+<tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/firebase-remote-config-app"><img src="https://raw.githubusercontent.com/lianeheidemann/firebase-remote-config-app/main/assets/gifs/gif1_cor_FirebaseRemoteConfig.gif" width="80%" alt="Firebase Remote Config app interface"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/firebase-remote-config-app">Firebase Remote Config App</a></strong>
 <p>Flutter example of using Firebase Remote Config to change app UI without a new release.</p>
 </td>
-</tr>
-<tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/edge-detection-app"><img src="https://raw.githubusercontent.com/lianeheidemann/edge-detection-app/main/assets/edge-detection-interface-v1.png" width="100%" alt="Edge Detection interface preview"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/edge-detection-app">Edge Detection</a></strong>
 <p>Android image-processing app for detecting image edges.</p>
 </td>
+</tr>
+<tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <a href="https://github.com/lianeheidemann/squat-counter-app"><img src="https://raw.githubusercontent.com/lianeheidemann/squat-counter-app/main/assets/squat-counter-interface-2.webp" width="60%" alt="Squat Counter interface preview"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/squat-counter-app">Squat Counter App</a></strong>
 <p>Flutter app that counts squats and tracks sets using the phone accelerometer.</p>
 </td>
+<td width="50%"></td>
 </tr>
 </table>
 
