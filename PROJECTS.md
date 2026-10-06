@@ -217,7 +217,7 @@
 </tr>
 <tr>
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<a href="https://github.com/lianeheidemann/inventory-management-system"><img src="https://raw.githubusercontent.com/lianeheidemann/sistema_para_gestao_de_loja/main/picture_inventory-tui.png" width="100%" alt="Inventory Management System terminal interface" style="height: auto; max-width: 100%;"></a><br><br>
+<a href="https://github.com/lianeheidemann/inventory-management-system"><img src="https://raw.githubusercontent.com/lianeheidemann/inventory-management-system/main/picture_inventory-tui.png" width="100%" alt="Inventory Management System terminal interface" style="height: auto; max-width: 100%;"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/inventory-management-system">Inventory Management System</a></strong>
 <p>Node.js inventory manager with terminal-based CRUD, search, and filtering.<br><code>JavaScript</code> <code>Node.js</code></p><br>
 </td>
