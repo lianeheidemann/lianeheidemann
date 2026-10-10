@@ -76,14 +76,9 @@
 
 
 <a href="https://github.com/lianeheidemann/svg-motion-gallery"><img src="assets/projects/svg-gallery-interface-v2.webp" alt="Animated preview of five SVG Motion Gallery screens" style="max-width: 100%; height: auto;"></a><br><br><br>
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/%F0%9F%9A%A7-In%20Development-2563EB?style=flat-square&amp;labelColor=1F2937">
-<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/%F0%9F%9A%A7-In%20Development-1D4ED8?style=flat-square&amp;labelColor=E5E7EB">
-
 <strong><a href="https://github.com/lianeheidemann/svg-motion-gallery">SVG Motion Gallery</a></strong>
 
-<img height="22" src="https://img.shields.io/badge/%F0%9F%9A%A7-In%20Development-1D4ED8?style=flat-square&amp;labelColor=E5E7EB" alt="Under Construction">
-</picture>
+<img src="assets/badge/early-project.svg?v=1" height="20" alt="Early Project" style="max-width: 100%; max-height: 20px; height: auto;">
 <p>Mobile app for browsing, previewing, and editing animated SVG files.<br><code>Flutter</code> <code>Dart</code> <code>SVG</code></p><br>
 </td>
 </tr>
