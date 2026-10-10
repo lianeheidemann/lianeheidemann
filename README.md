@@ -278,11 +278,7 @@ favorites, and an AI assistant for the Círio of Nazaré.
 <br><br>
 <strong>SpriteFlow</strong>
 <br><br>
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/%F0%9F%9A%A7-In%20Development-2563EB?style=flat-square&amp;labelColor=1F2937">
-<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/%F0%9F%9A%A7-In%20Development-1D4ED8?style=flat-square&amp;labelColor=E5E7EB">
-<img height="22" src="https://img.shields.io/badge/%F0%9F%9A%A7-In%20Development-1D4ED8?style=flat-square&amp;labelColor=E5E7EB" alt="Under Construction">
-</picture>
+<img src="./assets/badge/early-project.svg?v=1" height="20" alt="Early Project">
 <p>
 Flutter app for importing sprite sheets, editing frames,
 and exporting ready-to-use animations and images.
