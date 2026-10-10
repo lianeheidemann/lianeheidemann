@@ -329,9 +329,9 @@ and exporting ready-to-use animations and images.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/image/github-stats.svg?v=35-13-18-3291-2026">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/image/github-stats-light.svg?v=35-13-18-3291-2026">
-    <img src="./assets/image/github-stats-light.svg?v=35-13-18-3291-2026" alt="Live GitHub statistics for Liane Heidemann" style="display:block; width:100%; max-width:100%; height:auto;">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/image/github-stats.svg?v=35-13-18-3297-2026">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/image/github-stats-light.svg?v=35-13-18-3297-2026">
+    <img src="./assets/image/github-stats-light.svg?v=35-13-18-3297-2026" alt="Live GitHub statistics for Liane Heidemann" style="display:block; width:100%; max-width:100%; height:auto;">
   </picture>
 </p>
 
