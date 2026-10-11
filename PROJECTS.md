@@ -51,9 +51,9 @@
 <td align="center" width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 <br>
 <picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/projects/logos/spriteflow-logo-dark.png?v=2" width="47" height="44"><source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="assets/projects/logos/spriteflow-logo-light.png?v=2" width="47" height="44"><source media="(prefers-color-scheme: dark)" srcset="assets/projects/logos/spriteflow-logo-dark.png?v=2" width="95" height="88"><source media="(prefers-color-scheme: light)" srcset="assets/projects/logos/spriteflow-logo-light.png?v=2" width="95" height="88"><img src="assets/projects/logos/spriteflow-logo-light.png?v=2" alt="SpriteFlow logo" style="max-width: 100%; height: auto;"></picture><br><br>
-<strong>SpriteFlow</strong><br><br>
 <img width="100" height="100" src="assets/projects/svg/blocks-wave-white-36.svg" /><br>
 <br>
+<strong>SpriteFlow</strong><br><br>
 <img src="assets/badge/early-project.svg?v=1" height="20" alt="Early Project" style="max-width: 100%; max-height: 20px; height: auto;">
 <p>Flutter app for importing sprite sheets, editing frames, and exporting ready-to-use animations and images.<br><code>Flutter</code> <code>Dart</code> <code>Riverpod</code></p><br>
 </td>
