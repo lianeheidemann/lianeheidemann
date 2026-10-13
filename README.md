@@ -291,7 +291,7 @@ and exporting ready-to-use animations and images.
 
 <img src="./assets/image/location-divider-rotated-180.svg?v=1" alt="Animated cyan and violet divider" width="1000" height="100">
 
-<h2 align="center">Coming Soon</h2>
+<h2 align="center">New!</h2>
 
 <table width="100%" style="width:100%; table-layout:fixed;">
 <tr>
