@@ -62,7 +62,6 @@
 <picture>
 <source media="(max-width: 600px)" srcset="assets/projects/logos/svg-motion-gallery-icon-v1.png" width="46" height="36">
 
-  
 <source media="(prefers-color-scheme: dark)" srcset="assets/projects/logos/svg-motion-gallery-icon-v1.png" width="114" height="88">
 <source media="(prefers-color-scheme: light)" srcset="assets/projects/logos/svg-motion-gallery-icon-v1.png" width="114" height="88">
 <img src="assets/projects/logos/svg-motion-gallery-icon-v1.png" alt="SVG Motion Gallery butterfly icon" style="max-width: 100%; height: auto;">
@@ -71,10 +70,14 @@
 
 
 
-<a href="https://github.com/lianeheidemann/svg-motion-gallery"><img src="assets/projects/svg-gallery-interface-v2.webp" alt="Animated preview of five SVG Motion Gallery screens" style="max-width: 100%; height: auto;"></a><br><br><br>
-<strong><a href="https://github.com/lianeheidemann/svg-motion-gallery">SVG Motion Gallery</a></strong>
 
-<img src="assets/badge/early-project.svg?v=1" height="20" alt="Early Project" style="max-width: 100%; max-height: 20px; height: auto;">
+
+
+
+
+
+<a href="https://github.com/lianeheidemann/svg-motion-gallery"><img src="assets/projects/svg-gallery-interface-v2.webp" alt="Animated preview of five SVG Motion Gallery screens" style="max-width: 100%; height: auto;"></a><br><br>
+<strong><a href="https://github.com/lianeheidemann/svg-motion-gallery">SVG Motion Gallery</a></strong>
 <p>Mobile app for browsing, previewing, and editing animated SVG files.<br><code>Flutter</code> <code>Dart</code> <code>SVG</code></p><br>
 </td>
 </tr>
