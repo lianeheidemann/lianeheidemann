@@ -125,7 +125,7 @@ as I continue learning and growing in tech. 🦾
 <p>Python workspace for geometric and perceptual comparison of reconstructed 3D meshes.<br><code>Python</code> <code>Open3D</code> <code>LPIPS</code></p><br>
 </td>
 <td align="center" width="50%" style="width:50%;" valign="top">
-<br><br><br>
+<br><br>
 <a href="https://github.com/lianeheidemann/parallel-image-pipeline"><br><br>
 <picture>
 <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo-dark-v2.png" width="500">
