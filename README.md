@@ -203,11 +203,6 @@ as I continue learning and growing in tech. 🦾
 <strong><a href="https://github.com/lianeheidemann/ai-prompt-studio">AI Prompt Studio</a></strong>
 <br><br>
 <a href="https://github.com/lianeheidemann/ai-prompt-studio">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/badge/view-repository-dark-v1.png">
-<source media="(prefers-color-scheme: light)" srcset="assets/badge/view-repository-light-v1.png">
-<img src="assets/badge/view-repository-light-v1.png" height="22" alt="View AI Prompt Studio repository">
-</picture>
 </a>
 <p>
 Responsive web workspace with six specialized AI workflows,
@@ -226,11 +221,6 @@ contextual conversations, and local history.
 <strong>🏆💙 <a href="https://github.com/lianeheidemann/gitbat-app">GitBat</a> 💙🏆</strong>
 <br><br>
 <a href="https://github.com/lianeheidemann/gitbat-app">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/badge/view-repository-dark-v1.png">
-<source media="(prefers-color-scheme: light)" srcset="assets/badge/view-repository-light-v1.png">
-<img src="assets/badge/view-repository-light-v1.png" height="22" alt="View GitBat repository">
-</picture>
 </a>
 <p>
 Android app for creating GitHub README content — GIF,
@@ -252,11 +242,6 @@ animation and high resolution.
 <strong><a href="https://github.com/lianeheidemann/cirioapp-v2">CírioApp</a></strong>
 <br><br>
 <a href="https://github.com/lianeheidemann/cirioapp-v2">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/badge/view-repository-dark-v1.png">
-<source media="(prefers-color-scheme: light)" srcset="assets/badge/view-repository-light-v1.png">
-<img src="assets/badge/view-repository-light-v1.png" height="22" alt="View CírioApp repository">
-</picture>
 </a>
 <p>
 Android app with schedules, maps, news, notifications,
@@ -306,8 +291,7 @@ and exporting ready-to-use animations and images.
 <img src="./assets/projects/logos/svg-motion-gallery-ellipsis.svg" width="82" alt="Animated three-dot loading icon">
 <br><br>
 <strong><a href="https://github.com/lianeheidemann/svg-motion-gallery">SVG Motion Gallery</a></strong>
-<br><br>
-<img src="./assets/badge/early-project.svg?v=1" height="20" alt="Early Project">
+<br>
 <p>Mobile app for browsing, previewing, and editing animated SVG files.<br><code>Flutter</code> <code>Dart</code> <code>SVG</code></p>
 <a href="https://github.com/lianeheidemann/svg-motion-gallery"><img src="./assets/projects/svg-gallery-interface-v2.webp" alt="Animated preview of five SVG Motion Gallery screens" style="display:block; width:100%; max-width:100%; height:auto;"></a>
 <br><br>
