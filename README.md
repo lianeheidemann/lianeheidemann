@@ -125,17 +125,17 @@ as I continue learning and growing in tech. 🦾
 <p>Python workspace for geometric and perceptual comparison of reconstructed 3D meshes.<br><code>Python</code> <code>Open3D</code> <code>LPIPS</code></p><br>
 </td>
 <td align="center" width="50%" style="width:50%;" valign="top">
-<br>
-<a href="https://github.com/lianeheidemann/parallel-image-pipeline">
+<br><br><br>
+<a href="https://github.com/lianeheidemann/parallel-image-pipeline"><br><br>
 <picture>
 <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo-dark-v2.png" width="500">
 <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo.png" width="500" >
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo-dark-v2.png" width="500">
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo.png" width="500" >
-<img src="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo.png" style="max-width: 100%; height: auto;" alt="Parallel Image Pipeline logo">
+<img src="https://raw.githubusercontent.com/lianeheidemann/parallel-image-pipeline/main/assets/logo/logo.png" style="max-width: 100%; height: auto;" alt="Parallel Image Pipeline logo"><br><br>
 </picture>
-</a><br><br>
-<strong><a href="https://github.com/lianeheidemann/parallel-image-pipeline">Parallel Image Pipeline</a></strong>
+</a><br>
+<strong><a href="https://github.com/lianeheidemann/parallel-image-pipeline"><br><br>Parallel Image Pipeline</a></strong>
 <p><br><img src="./assets/badge/early-project.svg?v=1" height="20" alt="Early Project"><br>Experimental image-processing pipeline comparing sequential and parallel execution in Python and the browser, with AWS benchmarks.<br><code>Python</code> <code>OpenCV</code> <code>AWS</code></p><br>
 </td>
 </tr>
