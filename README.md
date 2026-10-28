@@ -100,36 +100,32 @@ as I continue learning and growing in tech. 🦾
 <p align="center">Selected projects in 3D visualization, simulation, animation, and image processing.</p>
 
 <table width="100%" style="width:100%; table-layout:fixed;"><colgroup><col width="50%"><col width="50%"></colgroup>
-
 <tr>
 <td align="center" width="50%" style="width:50%;" valign="top">
 <a href="https://github.com/lianeheidemann/ar-ceramic-designer"><img src="https://raw.githubusercontent.com/lianeheidemann/ar-ceramic-designer/main/assets/interface/interface-ar-ceramic-designer-v4.webp" alt="AR Ceramic Designer interface preview" style="display:block; width:100%; max-width:100%; height:auto;"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/ar-ceramic-designer">AR Ceramic Designer</a></strong>
 <p>Interactive web app for exploring 3D ceramic models, customizing materials, and comparing finishes. On supported devices, view pieces in augmented reality.<br><code>TypeScript</code> <code>React</code> <code>Three.js</code> <code>Vite</code> <code>WebXR</code><br><a href="https://lianeheidemann.github.io/ar-ceramic-designer/">Live demo</a></p><br>
 </td>
-</tr>
-
-
-
-<tr>
 <td align="center" width="50%" style="width:50%;" valign="top">
 <a href="https://github.com/lianeheidemann/object-inspector"><img width="500" src="https://raw.githubusercontent.com/lianeheidemann/object-inspector/main/assets/interface-object-inspector-v1.webp" alt="Object Inspector interface preview" style="display:block; width:100%; max-width:100%; height:auto;"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/object-inspector">Object Inspector</a></strong>
 <p><br><img src="./assets/badge/early-project.svg?v=1" width="132" height="20" alt="Early Project"><br>Static viewer for geometric deviation heatmaps on 3D surfaces.<br><code>A-Frame</code> <code>Three.js</code> <code>WebGL</code></p><br>
 </td>
+</tr>
+<tr>
 <td align="center" width="50%" style="width:50%;" valign="top">
 <a href="https://github.com/lianeheidemann/vehicle-3d-showroom"><img width="500" src="https://raw.githubusercontent.com/lianeheidemann/vehicle-3d-showroom/main/midia/interface/interface-desktop-v2.webp" alt="Vehicle 3D Showroom interface preview" style="display:block; width:100%; max-width:100%; height:auto;"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/vehicle-3d-showroom">Vehicle 3D Showroom</a></strong>
 <p>Browser-based 3D vehicle showroom with interactive models and gamepad support.<br><code>A-Frame</code> <code>Three.js</code> <code>JavaScript</code> <code>Gamepad API</code></p><br>
 </td>
-</tr>
-<tr>
 <td align="center" width="50%" style="width:50%;" valign="top">
 <br>
 <a href="https://github.com/lianeheidemann/mesh-comparison"><img src="https://github.com/lianeheidemann/mesh-comparison/blob/main/assets/interface/evaluate-meshe-preview-v1.webp" ></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/mesh-comparison">Mesh Comparison</a></strong>
 <p>Python workspace for geometric and perceptual comparison of reconstructed 3D meshes.<br><code>Python</code> <code>Open3D</code> <code>LPIPS</code></p><br>
 </td>
+</tr>
+<tr>
 <td align="center" width="50%" style="width:50%;" valign="top">
 <br><br>
 <a href="https://github.com/lianeheidemann/parallel-image-pipeline"><br><br>
@@ -144,26 +140,23 @@ as I continue learning and growing in tech. 🦾
 <strong><a href="https://github.com/lianeheidemann/parallel-image-pipeline"><br><br>Parallel Image Pipeline</a></strong>
 <p><br><img src="./assets/badge/early-project.svg?v=1" height="20" alt="Early Project"><br>Experimental image-processing pipeline comparing sequential and parallel execution in Python and the browser, with AWS benchmarks.<br><code>Python</code> <code>OpenCV</code> <code>AWS</code></p><br>
 </td>
-</tr>
-<tr>
 <td align="center" width="50%" style="width:50%;" valign="top">
 <a href="https://github.com/lianeheidemann/mini-driving-simulator-3d"><img width="500" src="https://raw.githubusercontent.com/lianeheidemann/mini-driving-simulator-3d/main/media/interface/interface-v3.webp" alt="Mini Driving Simulator 3D interface preview" style="display:block; width:100%; max-width:100%; height:auto;"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/mini-driving-simulator-3d">Mini Driving Simulator 3D</a></strong>
 <p>Browser-based driving simulator with keyboard and Xbox-compatible gamepad controls.<br><code>A-Frame</code> <code>Three.js</code> <code>Gamepad API</code></p><br>
 </td>
+</tr>
+<tr>
 <td align="center" width="50%" style="width:50%;" valign="top">
 <a href="https://github.com/lianeheidemann/porcelain-inspection-unity"><img width="500" src="https://raw.githubusercontent.com/lianeheidemann/porcelain-inspection-unity/main/media/interface-1.gif" alt="Porcelain Inspection interface preview" style="display:block; width:100%; max-width:100%; height:auto;"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/porcelain-inspection-unity">Porcelain Inspection</a></strong>
 <p>Unity 3D prototype for rotating, zooming, and inspecting points on a porcelain piece.<br><code>Unity 6</code> <code>C#</code></p><br>
 </td>
-</tr>
-<tr>
 <td align="center" width="50%" style="width:50%;" valign="top">
 <a href="https://github.com/lianeheidemann/atividades-processamento-de-imagens"><img width="700" src="https://raw.githubusercontent.com/lianeheidemann/atividades-processamento-de-imagens/main/atividade/atividade-3/output/09_comparacao_antes_depois.png" alt="Image Processing Activities preview" style="display:block; width:100%; max-width:100%; height:auto;"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/atividades-processamento-de-imagens">Image Processing Activities</a></strong>
 <p>Coursework in quantization, histograms, gamma correction, enhancement, and segmentation.<br><code>Python</code> <code>OpenCV</code> <code>NumPy</code></p><br>
 </td>
-
 </tr>
 </table>
 
