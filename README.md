@@ -102,7 +102,7 @@ as I continue learning and growing in tech. 🦾
 <table width="100%" style="width:100%; table-layout:fixed;"><colgroup><col width="50%"><col width="50%"></colgroup>
 <tr>
 <td align="center" width="50%" style="width:50%;" valign="top">
-<a href="https://github.com/lianeheidemann/ar-ceramic-designer"><img src="https://raw.githubusercontent.com/lianeheidemann/ar-ceramic-designer/main/assets/interface/interface-ar-ceramic-designer-v3.webp" alt="AR Ceramic Designer interface preview" style="display:block; width:100%; max-width:100%; height:auto;"></a><br><br>
+<a href="https://github.com/lianeheidemann/ar-ceramic-designer"><img src="assets/projects/interface/interface-ar-ceramic-designer-v1.webp" alt="AR Ceramic Designer interface preview" style="display:block; width:100%; max-width:100%; height:auto;"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/ar-ceramic-designer">AR Ceramic Designer</a></strong>
 <p>Interactive web app for exploring 3D ceramic models, customizing materials, and comparing finishes. On supported devices, view pieces in augmented reality.<br><code>TypeScript</code> <code>React</code> <code>Three.js</code> <code>Vite</code> <code>WebXR</code><br><a href="https://lianeheidemann.github.io/ar-ceramic-designer/">Live demo</a></p><br>
 </td>
