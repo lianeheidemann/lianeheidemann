@@ -102,7 +102,7 @@ as I continue learning and growing in tech. 🦾
 <table width="100%" style="width:100%; table-layout:fixed;"><colgroup><col width="50%"><col width="50%"></colgroup>
 <tr>
 <td align="center" width="50%" style="width:50%;" valign="top">
-<a href="https://github.com/lianeheidemann/rover-quest-mr"><img width="260" src="https://raw.githubusercontent.com/lianeheidemann/rover-quest-mr/main/assets/interface/interface-v1.webp" alt="RoverQuest MR interface preview" style="display:block; max-width:100%; height:auto;"></a><br><br>
+<a href="https://github.com/lianeheidemann/rover-quest-mr"><img width="260" src="https://github.com/lianeheidemann/rover-quest-mr/blob/main/assets/interface/interface-v2.webp" alt="RoverQuest MR interface preview" style="display:block; max-width:100%; height:auto;"></a><br><br>
 <strong><a href="https://github.com/lianeheidemann/rover-quest-mr">RoverQuest MR</a></strong>
 <p><br><img src="./assets/badge/early-project.svg?v=1" width="132" height="20" alt="Early Project"><br>Mixed reality game for Android where a small virtual rover maps your home and finds its own path around real obstacles.<br><code>Kotlin</code> <code>ARCore</code> <code>SceneView</code> <code>Jetpack Compose</code><br><a href="https://github.com/lianeheidemann/rover-quest-mr/releases/latest">Download APK</a></p><br>
 </td>
