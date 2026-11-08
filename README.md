@@ -15,6 +15,8 @@
   <img src="./assets/image/location-divider.svg?v=1" alt="Animated cyan and violet divider" width="1000" height="100">
 </p>
 
+<p align="center">Member of <a href="https://www.labit.ufpa.br/">LABit · UFPA</a></p>
+
 I'm Liane,<br>
 a Computer Science student from Brazil,<br>
 with a passion for software development, AI, and computer graphics.<br>
